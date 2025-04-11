@@ -1,0 +1,1 @@
+Due to confidentiality obligations under Non-Disclosure Agreements (NDAs), the industrial dataset cannot be fully disclosed at this time. For data access inquiries, please contact Huawei Technologies Co., Ltd. through official channels.
