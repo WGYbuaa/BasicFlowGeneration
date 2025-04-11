@@ -7,5 +7,5 @@ This project contains the datasets and code covered in the paper BFGen.
 The code is stored in the folder `code`.
 ## Datasets
 The datasets are stored in the folder `datasets`, include:
-- `datasets/public`: the public datasets.
-- `datasets/industrial`: the industrial datasets.
+- `datasets/public`: the public datasets
+- `datasets/industrial`: the industrial datasets
