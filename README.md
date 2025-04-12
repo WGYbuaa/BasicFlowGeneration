@@ -13,4 +13,4 @@ The datasets are stored in the folder `datasets`, include:
 - `datasets/industrial`: the industrial datasets.
 
 ## figure
-The figure of the paper is stored in the folder `figure`.
+The figures of the paper are stored in the folder `figure`.
