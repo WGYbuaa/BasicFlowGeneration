@@ -1,0 +1,110 @@
+# --------------------------------------------------------
+# 版权所有(C)  xxx
+#
+#--
+# author    : Administrator
+# create at : xxx
+# modified  :
+#++
+# --------------------------------------------------------
+
+usecase  {
+    attribute(
+        "适用产品"                               =>  'ALL',
+        "适用版本"                               =>  'ALL',
+        "适用单板"                               =>  'ALL',
+        "编号"                                   =>  'Deploy.SysManage.ConnectManagae.DomainDivision.DomainConfig.005',
+        "确认状态"                               =>  '已确认',
+        "关联字段"                               =>  '',
+        "质量属性"                               =>  '功能',
+        "自动化类型"                             =>  'TRUE',
+        "单板类别"                               =>  '',
+        "单板名称"                               =>  '',
+        "用例级别"                               =>  'Level 1',
+        "名称"                                   =>  '505_批量新增南向域，部分参数非法时部分创建成功'
+    )
+
+    def prepare 
+       
+    end
+    
+    def process 
+        operate("1、批量新增南向域，部分参数非法，非法部分创建失败，合法部分创建成功") {
+            
+            $regionName1 = "wuhantest001"
+            regionName2 = "wuhantest@002"
+            
+            $masterLocalSouthIp = $cur_pce.ip
+            masterNodeId1 = "21.21.#{$cur_pce.ip.split(".")[-2]}.#{$cur_pce.ip.split(".")[-1]}"
+            masterNodeId2 = "22.22.#{$cur_pce.ip.split(".")[-2]}.#{$cur_pce.ip.split(".")[-1]}"
+            
+            $slaveLocalSouthIp = $slaveip
+            slaveNodeId1 = "21.21.#{$slaveip.split(".")[-2]}.#{$slaveip.split(".")[-1]}"
+            slaveNodeId2 = "22.22.#{$slaveip.split(".")[-2]}.#{$slaveip.split(".")[-1]}"
+            
+            areaId1 = "1"
+            areaId2 = "2"
+            
+            if $webservice.nil?
+                $webservice = Usp::WEBSERVICE.new()
+            end
+            web_authcode =  $webservice.auth_code
+            $header_paras = "Authorization: Basic #{web_authcode}"
+            body_paras = '[{"regionName":"' +   $regionName1 + '","masterLocalSouthIp":"' + $masterLocalSouthIp + '","masterNodeId":"' + masterNodeId1 + '","slaveLocalSouthIp":"' + $slaveLocalSouthIp + '","slaveNodeId":"' + slaveNodeId1 + '","areaId":' + areaId1.to_s + '},{"regionName":"' +   regionName2 + '","masterLocalSouthIp":"' + $masterLocalSouthIp + '","masterNodeId":"' + masterNodeId2 + '","slaveLocalSouthIp":"' + $slaveLocalSouthIp + '","slaveNodeId":"' + slaveNodeId2 + '","areaId":' + areaId2.to_s + '} ]'
+            url_paras = "#{$http_type}://#{$cur_pce.ip}:#{$port_type}/rest/privateApi/TCSouthAccessService/#{$cur_url_v}/configMngmt/regionConfig"
+            query_result = $webservice.SendHttps("POST",url_paras,$header_paras,body_paras)
+            rs = JSON.parse(query_result[1])        
+            $rs_regionId1 = rs["results"][0]["regionId"]
+            assert(rs["results"][0]["regionName"] == $regionName1)
+            assert(rs["errors"][0]["errorMessage"].include?("there is one data which regionName is null or illegal"))              
+            
+        }
+    
+        operate("2、批量新增南向域，部分参数有冲突，冲突部分创建失败") {
+            
+            regionName3 = "wuhantest003"
+            regionName4 = "wuhantest001"
+            
+            #masterLocalSouthIp = $cur_pce.ip
+            masterNodeId3 = "23.23.#{$cur_pce.ip.split(".")[-2]}.#{$cur_pce.ip.split(".")[-1]}"
+            masterNodeId4 = "24.24.#{$cur_pce.ip.split(".")[-2]}.#{$cur_pce.ip.split(".")[-1]}"
+            
+            #slaveLocalSouthIp = $slaveip
+            slaveNodeId3 = "23.23.#{$slaveip.split(".")[-2]}.#{$slaveip.split(".")[-1]}"
+            slaveNodeId4 = "24.24.#{$slaveip.split(".")[-2]}.#{$slaveip.split(".")[-1]}"
+            
+            areaId3 = "3"
+            areaId4 = "4"
+            
+            body_paras = '[{"regionName":"' +   regionName3 + '","masterLocalSouthIp":"' + $masterLocalSouthIp + '","masterNodeId":"' + masterNodeId3 + '","slaveLocalSouthIp":"' + $slaveLocalSouthIp + '","slaveNodeId":"' + slaveNodeId3 + '","areaId":' + areaId3.to_s + '},{"regionName":"' +   regionName4 + '","masterLocalSouthIp":"' + $masterLocalSouthIp + '","masterNodeId":"' + masterNodeId4 + '","slaveLocalSouthIp":"' + $slaveLocalSouthIp + '","slaveNodeId":"' + slaveNodeId4 + '","areaId":' + areaId4.to_s + '} ]'
+            url_paras = "#{$http_type}://#{$cur_pce.ip}:#{$port_type}/rest/privateApi/TCSouthAccessService/#{$cur_url_v}/configMngmt/regionConfig"
+            query_result = $webservice.SendHttps("POST",url_paras,$header_paras,body_paras)
+            rs = JSON.parse(query_result[1])        
+            
+            assert(rs["results"][0]["regionName"] == regionName3)    
+            assert(rs["errors"][0]["errorMessage"].include?("this region has already been registed for regionName : #{$regionName1}"))              
+            $rs_regionId2 = rs["results"][0]["regionId"]
+        }    
+        
+    end
+    
+    def cleanup 
+        operate("3、删除域") {
+        
+            ###删除域
+            url_paras = "#{$http_type}://#{$cur_pce.ip}:#{$port_type}/rest/privateApi/TCSouthAccessService/#{$cur_url_v}/configMngmt/regionConfig/#{$rs_regionId1}"
+            query_result = $webservice.SendHttps("DELETE",url_paras,$header_paras,"")
+            rs = JSON.parse(query_result[1])
+            if rs["errors"] != []
+                assert (rs["errors"] == [],"删除域失败，#{rs["errors"][0]["errorMessage"]}")
+            end
+        
+           url_paras = "#{$http_type}://#{$cur_pce.ip}:#{$port_type}/rest/privateApi/TCSouthAccessService/#{$cur_url_v}/configMngmt/regionConfig/#{$rs_regionId2}"
+           query_result = $webservice.SendHttps("DELETE",url_paras,$header_paras,"")
+            rs = JSON.parse(query_result[1])
+            if rs["errors"] != []
+                assert (rs["errors"] == [],"删除域失败，#{rs["errors"][0]["errorMessage"]}")
+            end
+        }
+    end      
+}
