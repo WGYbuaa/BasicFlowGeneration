@@ -5,12 +5,12 @@ Identifying interaction scenarios between a system and its actors from the high-
 ![The Overall Pipeline of BFGen](2_figure/pipeline.png)
 
 ## Code Structure
-The code is stored in the folder `src`, including the BFGen algorithm, models, and the various BASELINE methods involved in RQ1.
+The code is stored in the folder `1_src`, including the BFGen algorithm, models, and the various BASELINE methods involved in RQ1.
 
 ## Datasets
-The datasets are stored in the folder `datasets`, include:
-- `datasets/public`: the public datasets.
-- `datasets/industrial`: the industrial datasets.
+The datasets are stored in the folder `0_datasets`, include:
+- `0_datasets/0_pub_dataset`: the public datasets.
+- `0_datasets/1_industrial_dataset`: the industrial datasets.
 
 ## figure
-The figures of the paper are stored in the folder `figure`.
+The figures of the paper are stored in the folder `2_figure`.
