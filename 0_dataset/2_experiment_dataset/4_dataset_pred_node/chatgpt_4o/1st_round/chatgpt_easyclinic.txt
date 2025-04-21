@@ -1,0 +1,120 @@
+1_verb
+Create, Set, Define, Design, Implement, Develop, Enter, Process, Store, Handle, Ensure, Add, Connect, Test, Perform, Deploy, Provide
+1_obj
+project, repository, laboratory management system, environment, IDE, version control, project structure, folders, database, backend, frontend, resources, schema, anagrafica, analyses, tables, LaboratoryAnalysis, Characteristics, fields, analysis_id, analysis_name, characteristic_name, characteristic_value, system, DBMS, APIs, operations, endpoint, logic, rules, data, authentication, authorization, operator, interface, forms, entry, fields, dropdowns, widgets, buttons, entries, feedback, messages, workflow, storage, UAT, solution, requirements, application, production environment, documentation, materials.
+2_verb
+Authenticate, Verify, Access, Retrieve, Select, Display, Allow, Confirm, Prompt, Delete, Remove, Update, Record, Provide, Notify
+2_obj
+operator, credentials, access, level, visit, records, database, action, system, logs, audit, purposes, feedback
+3_verb
+logs, using, navigate, search, locate, select, access, input, check, ensure, attach, add, save, receive, recorded, log
+3_obj
+Operator, system, credentials, Patient Records, section, patient, unique identifier, Patient ID, Name, appointment, patients, outpatient visit, details, Examination Results, results, examination, authenticity, accuracy, fields, documents, images, notes, observations, record, confirmation, data security, integrity.
+4_verb
+Authenticate, Verify, Access, Display, Select, Allow, Search, Change, Edit, Present, Enable, Validate, Ensure, Check, Confirm, Prompt, Ask, Save, Update, Log, Record, Notify, Send, Provide, Display
+4_obj
+operator, credentials, examination, records, list, search, form, details, fields, date, time, patient, information, type, results, notes, input, errors, inconsistencies, modifications, systems, database, data, integrity, activity, audit, trail, ID, notifications, alerts, stakeholders, feedback, message
+5_verb
+logs, verifies, confirms, navigates, inputs, displays, selects, clicks, prompts, confirms, validates, removes, logs, recording, displays, updates, can, log, continue
+5_obj
+operator, system, credentials, permissions, visits, visit, management, interface, criteria, ID, visitor, name, date, list, button, option, record, dependencies, restrictions, database, audit, log, timestamp, details, message, error, session
+6_verb
+Verify, ensure, provide, allow, search, display, present, check, enable, select, record, confirm, allow, finalize, generate, persist, ensure, receive, provide, end.
+6_obj
+User Authentication, operators credentials, access rights, booking system, Access Booking Interface, operator, booking interface, authentication, Search Patient Record, operator, ambulatory patients record, identifiers, patient ID, name, contact information, View Patient Details, patients details, past bookings, requested services, operators review, Choose Outpatient Service, available outpatient services, patient, Check Availability, availability, selected outpatient service, dates, times, Record Booking Request, operator, date, time, service, booking request, patients record, Confirmation of Booking, booking details, operator, adjustments, Notification Generation, notification, patient, booked service, date, time, location, Save Booking Record, booking details, system, patients medical record, Provide Feedback, operator, confirmation, booking process, success messages, alerts, Logout, logout option, operator, session.
+7_verb
+Create, Validate, Grant, Provide, Allow, Input, Fetch, Display, Show, Include, Initiate, Change, Validate, Log, Send, Fetch, Confirm, Cancel, Update, Log, Show, Invalidate
+7_obj
+login, module, screen, operator, authentication, credentials, database, access, reservation, management, area, search, interface, ID, patient, details, fetch, display, service, type, date, time, information, edit, button, change, process, input, fields, business, rules, allowable, types, working, hours, slots, outpatient, schedules, confirm, confirmation, buttons, canceling, update, log, changes, audit, purposes, notification, updated, message, error, options, retry, logout, invalidate, session, information
+8_verb
+access, logs, navigate, selects, search, inputs, locate, select, reviews, displays, confirms, ensure, check, determine, initiate, enters, validate, shows, confirm, overrides, update, notify, generate, record, logs, provide, exits, logs out, continues
+8_obj
+System, Operator, hospital management system, credentials, Rental Management, module, menu, search criteria, patient ID, rental ID, outpatient service, rental record, search results, rental entry, annulment request, information, service date, patient details, rental status, details, annulment policy, eligibility, Annul Rental, record, reason, comments, validation, policy compliance, errors, warnings, criteria, action, operational guidelines, authorization, status, notification, parties, medical staff, billing, transaction, audit, timestamp, confirmation message, case, module, tasks
+9_verb
+Prompt, log, Verify, Display, search, enter, Retrieve, display, Allow, select, Load, Provide, modify, Validate, Highlight, notify, Save, clicking, re-validate, update, Display, view, Record
+9_obj
+operator, credentials, functionality, patient, identifiers, name, ID number, records, list, anagrafica, details, address, contact information, fields, formats, entries, button, data, database, message, timestamp, auditing
+10_verb
+Start, Initiate, accessing, Input, Prompt, enter, Capture, Record, Collect, Verify, Allow, review, ensure, Save, Ensure, validates, stores, Generate, generate, Provide, Confirm, displaying, End, Complete, return, perform
+10_obj
+Process, patient, registration, system, information, operator, details, Full Name, Date of Birth, Gender, Contact Information, Phone Number, Email Address, Address, identification, National ID, Passport Number, Insurance Number, Details, patient ID, medical record, medical history, data, conditions, Allergies, medications, complaint, visit, accuracy, completeness, database, fields, correspondence, entry, confirmation, message, receipt, main menu, tasks
+11_verb
+Authenticate, Verify, Access, Retrieve, Display, Present, List, Fetch, Select, Enable, Process, Allow, Log, Record, Confirm, Provide, Update, Change, Notify, Send, End
+11_obj
+Authenticate, Operator, Credentials, Access, Patient, Records, Retrieve, Details, Identifier, Display, Information, Present, Demographic, Medical, List, Active, Requests, Fetch, Select, Enable, Choose, Process, Actions, Approve, Deny, Update, Log, Completion, Feedback, Confirm, Change, Status, Notify, Notifications, Send, End, Session, Logout.
+12_verb
+Identify, authenticate, Display, Allow, select, Retrieve, provide, Validate, submit, cancel, Save, Display, Log
+12_obj
+operator, list, laboratory, analyses, laboratory analysis, anagrafica data, fields, name, parameters, reference values, input data, changes, operation, database, confirmation message, log, audit purposes
+13_verb
+Define, Determine, Set, Create, Design, Include, Add, Implement, Extract, Validate, Ensure, Query, Compare, Generate, Set, Include, Send, Store, Write, Test, Deploy, Monitor, Maintain
+13_obj
+Requirements, criteria, patient, authentication, username, password, patient ID, biometric data, database, schema, data, hashed password, User Interface, UI, login form, input fields, credentials, submit button, client-side, input validation, fields, email, format, server-side, data, integrity, security, backend, login requests, request, hashing algorithms, BCrypt, encryption, transmission, TLS, SSL, query, database, user's credentials, hashed password, token, JWT, payload, response, error message, session, token, client, cookies, local storage, timeout, policies, logging, attempts, timestamp, success, failure, security, threats, SQL injection, brute force attacks, password recovery, account lockout, unit tests, integration tests, edge cases, vulnerabilities, production environment, system, updates, improvements.
+14_verb
+Ensure, Verify, Check, Validate, Initialize, Display, Provide, Capture, Query, Handle, Format, Present, Masked, Secured, Allow, Implement, Log, Track, Log, Ensure, Offer, Provide
+14_obj
+patient, authentication, login, identity, multi-factor, permission, outpatient, clinic, folder, credentials, access, interface, user, interaction, locations, selection, input, database, exceptions, errors, data, display, sensitive, sections, details, health, records, appointments, security, unauthorized, access, log, audit, session, activity, inactivity, feedback, mechanism, issues, suggestions, support, resources, contact, assistance.
+15_verb
+Ensure, logged, authenticated, access, Navigate, Retrieve, made, Display, select, Allow, choose, provided, query, gather, Display, Present, Permit, print, download, save, provide, refresh, navigate, Record, viewing, ensure, ended, logging, choose, exit
+15_obj
+User, Authentication, Patient, System, Data, Reservation, Module, Portal, Dashboard, Locations, Reservations, List, Format, Location, Database, Profits, Information, Date, Time, Type, Amount, Actions, Print, Download, Save, Refresh, Homepage, Activity, Viewing, Audit, Tracking, Session, Logout, Exit.
+16_verb
+Implement, Authenticate, Authorize, Design, Create, Query, Retrieve, Fetch, Ensure, Map, Display, Complies, Prevent, Provide, Conduct, Test, Deploy, Monitor, Perform
+16_obj
+patient, login, functionality, credentials, database, access, data, dashboard, menu, option, anagrafica, interface, display, information, locations, outpatient, department, personal, medical, history, logic, structure, security, privacy, laws, regulations, measures, sensitive, error, handling, feedback, messages, scenarios, retrieval, testing, deployment, environment, maintenance
+17_verb
+Identify, Define, Implement, Verify, Validate, Ensure, Design, Set, Include, Develop, Fetch, Display, Provide, Optimize, Perform, Conduct, Carry, Deploy, Track, Set, Update, Improve, Patch
+17_obj
+patient, role, access, permissions, authentication, mechanisms, login, functionality, credentials, location, data, user, interface, devices, mobile, tablet, desktop, database, schema, information, outpatient, departments, fields, details, name, address, contact, operational, hours, APIs, queries, filters, proximity, department, type, display, pagination, view, page, elements, maps, directions, performance, optimization, response, times, caching, security, privacy, HTTPS, controls, testing, components, integration, acceptance, feedback, deployment, environment, monitoring, performance, usage, alert, mechanisms, anomalies, issues, maintenance, updates, patch, vulnerabilities.
+18_verb
+Initiate, Present, Collect, Prompt, Enter, Validate, Conform, Fetch, Retrieve, Verify, Compare, Use, Handle, Match, Proceed, Authenticate, Log, Provide, Grant, Display, Trigger, Notify, Initiate, Record, Offer, Conclude, Transition
+18_obj
+interface, patient, authentication, process, credentials, unique identifier, Patient ID, username, secret credential, password, PIN, fields, formats, data, database, methods, hashing, result, attempt, security monitoring, access, personal dashboard, resources, error message, retry, account, lock, protocol, instructions, session, trail, timestamp, log, recovery options, assistance, sequence, workflow
+19_verb
+Identify, Determine, Access, Validate, Design, Request, Implement, Query, Retrieve, Aggregate, Organize, Format, Provide, View, Export, Implement, Log, Request
+19_obj
+Report, Requirements, Data, Metrics, Reservation, ID, Customer, Details, Date, Status, Operator, Credentials, Permission, Interface, Filters, Information, Mechanism, Query, Database, Criteria, Processing, Aggregate, Organize, Format, Table, Graph, Options, Screen, Export, File, Formats, PDF, CSV, Error, Checking, Messages, Logging, Auditing, Activity, Timestamp, Feedback, Usability, Content, Improvements.
+20_verb
+Initiate, Receive, Create, Capture, Store, Save, Ensure, Retrieve, Provide, Query, Display, Implement, Design, Input, View, Create, Filter, Validate, Check, Handle, Ensure, Access, Modify, Develop, Generate, Include, Export, Maintain, Log, Track, Conduct, Test, Deploy.
+20_obj
+Record, input, operator, visit, record, details, patient, ID, date, doctor, ID, information, database, table, schema, fields, visit, ID, patient, ID, doctor, ID, visit, date, data, history, functionality, database, visits, patient, count, details, doctor-supported, query, visits, doctor, count, records, interface, operators, data, records, search, functionality, visits, patient, doctor, date, range, input, data, patient, doctor, IDs, error, handling, input, database, issues, conflicts, control, operators, records, role-based, control, reporting, feature, summaries, visits, time, patient, doctor, options, data, formats, PDF, CSV, trail, log, actions, visit, records, creation, modification, deletion, system, changes, compliance, auditing, system, testing, deployment, process, environment.
+21_verb
+Identify, Define, Select, Filter, Validate, Ensure, Retrieve, Fetch, Group, Summarize, Format, Provide, Allow, Verify, Confirm, Modify, Log, Offer
+21_obj
+Operator, System, date range, outpatient visits, patient, group of patients, test performed, date range format, filters, patient filters, test types, records, visits, visit records, test records, visit, test records, data, count, report, structure, patient ID, visit date, tests performed, results, screen, export options, PDF, Excel, CSV, permissions, parameters, error messages, database, retry attempts, audit trail, operator ID, time of generation, report parameters, feedback, logout.
+22_verb
+Verify, request, retrieve, fall, determine, affect, calculate, exclude, meet, sum, divide, estimate, present, provide, adjust, recalculate, log, end, exit, start.
+22_obj
+operator, access, permissions, service, time, estimate, booking, records, database, time frame, criteria, parameters, factors, type, day, efficiency, calculation, timestamps, durations, data, requirements, average, estimate, filters, options, transaction, details, request, outcome, auditing, reference, process, operation
+23_verb
+Verify, Ensure, Access, Retrieve, Select, Provide, Display, Prompt, Proceed, Remove, Update, Record, Include, Provide, Implement, Manage, Redirect
+23_obj
+operator, authentication, permissions, laboratory, analysis, data, anagrafica, user, interface, details, confirmation, dialog, removal, database, audit, log, ID, time, accountability, traceability, feedback, error, handling, main, screen
+24_verb
+Begin, provide, create, initiate, retrieve, ensure, implement, sort, categorize, organize, display, provide, view, integrate, send, ensure, support, implement, add, manage, conduct, confirm, operates, verify, matches, is, implement, track.
+24_obj
+user, interface, element, button, menu, option, operator, booking, plans, feature, action, handler, process, data, database, source, details, categorization, visit, type, method, tabular, format, preview, print, functionality, printer, support, restrictions, error, handling, issues, retrieval, display, testing, output, logging, activity, audit
+25_verb
+Launch, Authenticate, Navigate, Click, Display, Enter, Input, Confirm, Log, Return, Print, Export
+25_obj
+SIO application, operators credentials, Doctor Anagrafica Management section, Add New Doctor button, New Doctor Anagrafica input form, doctors personal details, name, surname, date of birth, doctors professional details, specialization, medical license number, doctors contact information, phone number, email address, doctors work schedule, days, hours of operation, Save button, confirmation message, successful data entry, doctor anagrafica details, transaction, audit purposes, Doctor Anagrafica Management main page.
+26_verb
+Check, Verify, Ensure, Display, Allow, Search, Retrieve, Provide, Modify, Include, Review, Confirm, Cancel, Save, Update, Log, Inform, Display, Guide, Exit, Logout, Return
+26_obj
+operator, authorization, doctor, records, list, doctors, outpatient, clinic, name, ID, identifying, details, anagrafica, data, interface, fields, address, phone, number, specialization, validation, checks, formats, mandatory, review, options, changes, database, log, timestamp, nature, feedback, error, messages, system, menu
+27_verb
+Authenticate, logs, Navigate, Locate, access, Enter, Execute, display, Review, select, Initiate, Click, Display, confirm, Prompt, Check, Alert, address, Remove, Record, Send, Inform, Redirect.
+27_obj
+User, username, password, Doctor Management, system, portal, search criteria, doctor’s name, ID, search bar, profiles, results, record, Delete button, option, prompt, action, dependencies, records, references, appointments, patient records, restrictions, database, anagrafica, system logs, notifications, alerts, stakeholders, message, success, main menu, page.
+28_verb
+Display, enter, Validate, Encrypt, Send, Check, Compare, grant, create, redirect, Allow, locking, Log, indicating, prompt.
+28_obj
+login form, operator, username, password, format, encrypted password, secure hashing algorithm, authentication server, database, stored password, credentials, access, session token, welcome message, dashboard, error message, retries, account, authentication attempt, auditing, account lockout threshold, account locked message, support.
+29_verb
+logs, selects, clicks, inputs, verify, confirm, enters, records, reviews, confirms, saves, generate, updates
+29_obj
+System, credentials, outpatient, management, module, menu, visit, record, patient, identifier, ID, name, details, date, time, reason, consultation, doctor, provider, services, lab, tests, procedures, medications, interventions, notes, observations, errors, omissions, summary, receipt, history.
+30_verb
+Authenticate, Prompt, Validate, Grant, Display, Search, Present, Accept, Query, Allow, Fetch, Highlight, Modify, Edit, Provide, Add, Remove, Check, Ensure, Confirm, Request, Update, Save, Record, Notify, Send, End, Log
+30_obj
+Operator, credentials, username, password, authentication, database, validation, error, message, access, search, visit, interface, criteria, ID, date, visitor, name, records, list, information, details, fields, edits, time, purpose, options, notes, modifications, data, correctness, business, rules, conflicts, summary, confirmation, changes, history, audit, notifications, stakeholders, host, session, log.

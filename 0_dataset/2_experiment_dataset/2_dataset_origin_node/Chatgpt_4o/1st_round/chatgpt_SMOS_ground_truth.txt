@@ -1,0 +1,268 @@
+1_verb
+Verify, have, go, meet, notify, Search, entered, loggable, If, successful, logged.
+1_obj
+Verify, username, password, length, condition, met, step, notify, user, error, search, archive, loggable, users, successful, logged in, system.
+2_verb
+Select, assign, remove, Click, Submit, Displays
+2_obj
+Select, roles, assign, remove, user, Submit, button, System, Displays, role management form, Assigns, removes, users, Administrator.
+3_verb
+Select, displays, assigns, removes.
+3_obj
+Select, academic year, desired class, teachings, associated, removed, teacher, System, Displays, management form, question, list, available classes, selected year, assigns, Administrator.
+4_verb
+Select, assign, remove, click, submit, display, associated
+4_obj
+Select, students, assigned, removed, parent, Submit, System, Displays, child management form, question, Assign/Remove, associated.
+5_verb
+Select, Allows, Searches, Displays
+5_obj
+academic year, object words, system, class list, view, searches, archive, displays, management screen, list
+6_verb
+Fill, Click, Shows, Fill, Performs, Checks, Inserts, Activates
+6_obj
+Fill, form, Save, system, shows, name, address, academic year, performs, checks, validity, data, entered, inserts, new class, archive, invalid, activates, ErrorData use case.
+7_verb
+View, details
+7_obj
+View, screen, details, individual class, name, address, school year.
+8_verb
+Deletes, View, updated
+8_obj
+Deletes, class, archive, view, updated, list
+9_verb
+View, list
+9_obj
+View, list, addresses.
+10_verb
+Fill out, Click, shows, fill, performs, inserts, activates
+10_obj
+form, button, system, address, name, data, archive, use case, ErrorData.
+11_verb
+Displays, details, address, name.
+11_obj
+Displays, screen, details, address, name, individual
+12_verb
+View, login
+12_obj
+View, login, form
+13_verb
+Checks, displays, delete
+13_obj
+checks, address, associated classes, error message, delete, updated address list
+14_verb
+Select, Click, Displays, Add, Remove, Associate, Return
+14_obj
+teachings, address, Submit button, form, add, remove, associate, selected, details view, System.
+15_verb
+Search, view, manage
+15_obj
+Search, archive, screen, teachings, view, management, list.
+16_verb
+Fill, Click, Shows, Fill, Performs, Checks, Inserts, Activates
+16_obj
+Fill out form, Click Save button, System, Form, Teaching name, Checks, Validity, Data entered, Inserts, New teaching, Archive, Invalid, Activates, Use case, ErrorData.
+17_verb
+View, teach.
+17_obj
+view, screen, details, individual, teaching
+18_verb
+Click, Perform, Edit, Activate, Display
+18_obj
+Save, checks, validity, data, edit, teaching, archive, invalid, ErrorData, use case, displays, updated, list.
+19_verb
+Delete, View, archive, list
+19_obj
+Delete, teaching, archive, view, updated, list.
+20_verb
+Select, Display, Search, Display
+20_obj
+Select, school, year, Display, screen, selecting, academic, interest, Search, archive, digital, records, associated, class
+21_verb
+Displays, shows, specifying, manage.
+21_obj
+displays, screen, information, register, organized, date, list, pupils, absent, attending, late entries, form, manage, justifications, disciplinary notes
+22_verb
+Fill, entering, click, Refresh, Send, sends, View
+22_obj
+object, form, students, Save, screen, date, data, server, absence, e-mail notification, parent, register.
+23_verb
+View, login
+23_obj
+View, login, form, object
+24_verb
+Fill out, entering, click, Save, Refresh, Submit, Display.
+24_obj
+Fill, form, enter, students, delay, click, save, refresh, displayed, screen, date, submit, data, server, display, updated, log.
+25_verb
+Edit, Insert, Delete, click, Save, Refresh, Sends, changed, data, server, sends, correction, e-mail, parent.
+25_obj
+object, absence, insert, delete, save, refresh, screen, selected date, sends, changed data, server, correction email, parent, student.
+26_verb
+edits, clicks, Save, Updates, sends
+26_obj
+User, delay, clicks, Save, Updates, screen, selected date, system, sends, modified data, server.
+27_verb
+Delete, click, Save, Refresh.
+27_obj
+Delete, students, late entry, Save, Refresh, screen, selected date, archive.
+28_verb
+Show, recorded, selected, excused, displayed
+28_obj
+Show all absences student recorded school selected excused displayed green red year.
+29_verb
+Show, recorded
+29_obj
+student, notes, recorded, school year, show
+30_verb
+Fill, Click, Show, Enter, Save.
+30_obj
+Fill out form, Click save, Show, Enter justification fields, Justification date, Save.
+31_verb
+Fill, Click, Show, Save, Send
+31_obj
+form, note fields, student, date, teacher, description, save, note, email notification, parent
+32_verb
+Show, edit, delete.
+32_obj
+form, details, justification, ability, edit, delete.
+33_verb
+Show, form, details
+33_obj
+form, note, details, student, description, teacher, date
+34_verb
+Fill, submit, displays, confirms, changed
+34_obj
+form, fields, old password, new password, confirm new password, submit, password, changed, confirms
+35_verb
+Edit, displayed, form, Click, Save
+35_obj
+Edit, fields, displayed, form, date, justification, Click, Save
+36_verb
+edits, clicks, saves
+36_obj
+user, edits, fields, form, Student, description, teacher, date, Save, system, saves, changes
+37_verb
+Delete, justify
+37_obj
+Delete, justification.
+38_verb
+sends, deletes
+38_obj
+system, notification, errata, parents, note data, archive.
+39_verb
+Search, displays,presenting obtained.
+39_obj
+Search, archive, students, current school year, absences, notes, threshold, screen, data.
+40_verb
+Selects, Chooses, Displays.
+40_obj
+Selects, academic year, class, student, report card, system, displays, list, classes, button, pupils, term
+41_verb
+Selects, entered, clicking, selects, displaying, refers, chosen, inserts, returns
+41_obj
+class, student, report card, grades, save button, system, academic year, list, classes, button, pupils, form, entering, archive, user, view page
+42_verb
+Enters, clicks, displays, can be edited, including, displays
+42_obj
+enters data, clicks, confirmation button, system, displays form, fields, edited, grades, subjects, confirmation message, list, pupils.
+43_verb
+accepts, pressing, displays, confirm, deletion
+43_obj
+user, deletion, confirmation key, system, form, confirm, message, successful, class list.
+44_verb
+Displays, activate
+44_obj
+displays, list, enrollments, activated
+45_verb
+Search, display
+45_obj
+Search, users, archive, display, list
+46_verb
+Activates, Displays, List, Enrollments, Activated
+46_obj
+activates, user, system, displays, list, enrollments, activated
+47_verb
+Deletes, Displays, list, be, activated
+47_obj
+Deletes, system, enrollment, request, displays, list, enrollments, activated
+48_verb
+Displays, related, searched, shown, found
+48_obj
+Displays, list, entities, searched, keywords, active, Classes, Teachings, Addresses, Users, found.
+49_verb
+shows, access
+49_obj
+system, user, screen, classes, database, button, record
+50_verb
+selects, Clicks, Shows, select, is, sends, sends
+50_obj
+User, absent, students, clicks, save, screen, pupils, radio buttons, select, present, default, system, sends, data, server, absence, e-mail, notification, parent
+51_verb
+selects, clicks, shows, select, activated, select, sends
+51_obj
+User, tardies, Confirm, system, screen, pupils, present, checkbox, activated, fields, time, delay, data, server.
+52_verb
+Select, Displays, teaches, Displays, associated.
+52_obj
+Select, academic year, interest, displays, list, which, lecturer, teaches, associated, selected, class
+53_verb
+View, related. Date, Absences, Disciplinary, Notes, Tardiness, Excuses
+53_obj
+View, information, related, class register, Date, Absences, Disciplinary Notes, Tardiness, Excuses.
+54_verb
+Select, view, display, click, teach, choose, refer
+54_obj
+academic year, interest, classes, student, report card, quarter, button, list, teacher, pupils, user, term
+55_verb
+Select, displays.
+55_obj
+Select, report card, interest, system, displays, logged-in, students, file, details, selected
+56_verb
+Fill, Click, Displays, Performs, Enters, Activate
+56_obj
+Fill, form fields, click, save button, system, displays, user entry form, fields, first name, last name, email, cell, login, password, confirmation, performs checks, validity, entered data, enters, new user, archive, invalid, activate, use case, error data.
+57_verb
+Search, View
+57_obj
+Search, archive, data, record, class, student, belongs, view, date, absences, disciplinary notes, tardies, excuses
+58_verb
+View, see, display
+58_obj
+View, summary table, information, children, Date, Absences, Disciplinary Notes, Tardiness, Excuses.
+59_verb
+Select, Displays
+59_obj
+Select, report card, interest, display, student, details, selected.
+60_verb
+Search, Displays, retrieved.
+60_obj
+Search, students, number, absences, notes, threshold, displays, retrieved, information.
+61_verb
+Select Display Search Display belong.
+61_obj
+Select, academic year, display, screen, interest, search, archive, digital records, associated, class
+62_verb
+Displays, shows, specifying, manage
+62_obj
+Displays, screen, information, register, organized, date, list, pupils, absent, present, late entries, form, manage, justifications, disciplinary notes.
+63_verb
+selects, displays, chooses, views, clicling, associated, referring
+63_obj
+Selects, academic year, class, student, report card, view, quarter, button, display, list, system, associated, pupil, user, semester.
+64_verb
+Fills, Submits, Displays, Enters.
+64_obj
+Fills, form fields, Submits, registration form, First name, Last name, Mobile phone, e-mail, username, password, password confirmation, Enters, registration request, system.
+65_verb
+View, extract, view
+65_obj
+View, users, detailed, information, First Name, Last Name, e-mail, cell, login, password.
+66_verb
+Click, Performs, Checks, Edits, Activate
+66_obj
+Click, edit button, System, performs, checks, validity, entered data, user, invalid, activate, use case, ErrorData
+67_verb
+Deletes, Displays,  updated
+67_obj
+Deletes, user, archive, Displays, list, updated.

@@ -1,0 +1,556 @@
+1_verb
+logs, displays, entering, submits, receives, verifies, allows
+1_obj
+Administrator, system, login form, data, user name, password, authentication request, verifies, allows, access permissions
+2_verb
+end, clicks, disconnects, returns
+2_obj
+employee, work session, Logout button, system, main screen, disconnects
+3_verb
+accesses, responds, letting, know, meet, takes, note, wishes, access, called
+3_obj
+Citizen, screen, system, Civil Defense volunteer, requirements, form, use case, DownloadModule
+4_verb
+accesses, take note, responds, is, has, is, approved
+4_obj
+Citizen, service, hierarchical composition, Civil Defense, system, curiosity, screen, organizational chart, components, Municipal Civil Defense, governmental institutions, law, Municipal Council.
+5_verb
+accesses, register, responds, download, fill, submit
+5_obj
+Citizen, screen, register, Civil Service, system, page, download, form, fill out, submit, Civil Defense office.
+6_verb
+accesses, wants, join, responds, view, acknowledges, decides, start, downloading, saving
+6_obj
+Citizen, download, form, Volunteer Action, system, view, acknowledge, file, saving
+7_verb
+authenticating, accesses, edit, responds, display, select, modified
+7_obj
+employee, system, Civil Defense feature, forms, screen, use cases, UpdateAtmosphericConditions, UpdateEnvironmentalAnalysis, UpdateCompetitionsBands, feature, form
+8_verb
+access, view, decides, learn, trigger, responds, prevent, deals
+8_obj
+Citizen, access, section, view, Risks use case, learn, possible causes, trigger fires, system, responds, need, detailed description, prevent fires, deals
+9_verb
+accesses, satisfy, knowing, monitored, responds, view, being, performed
+9_obj
+Citizen, screen, satisfy, curiosity, know, situation, monitored, Civil Defense, municipal water, system, respond, information, view, bacteriological, update, latest analysis, samples taken
+10_verb
+accesses, wants, knows, performs, monitoring, adopts, responds, displaying, describing, keep
+10_obj
+Citizen, screen, Civil Defense, monitoring, volcanoes, municipality, nationwide territory, description, information technologies, system, request, information sheet, volcanic activity.
+11_verb
+extracts, accesses, take advantage, contact, responds, allowing, display, concerned, view, divided, communicating, decides
+11_obj
+Citizen, page, telephone, contact, information, danger, system, display, descriptive card, numbers, agencies, safety, screen, advice, procedures, categories, communication, Call Center, contact person, municipal body, emergency, support, service.
+12_verb
+accesses, responds, allowing, display
+12_obj
+citizen, descriptive sheet, general information, municipal body, system, information functionality, display, description, active roles, Civil Protection
+13_verb
+presses, displays, enters, saves
+13_obj
+employee, edit citizen button, system, form, editing, clerk, data, changes, saves
+14_verb
+accesses, wants, know, is, protected, helps, responds, pointed, view
+14_obj
+Citizen, fact sheet, waste situation, municipality, environment, Civil Defense, municipal agencies, system, need, large screen, goals, Municipal Council, informative notes, waste fires, waste collection, use case, ViewResultsToxicologicalAmbiental.
+15_verb
+accesses, deals, responds, view, want, decides, activating, monitors, makes
+15_obj
+Citizen, screen, meanings, hazards, Civil Defense, specific images, videos, rescue operations, system, request, causes, landslides, floods, coastal erosion, phenomena, interventions, descriptive sheet, other hazards, body, use cases, Fire, Volcanic, Seismic, SanitaryAntropic, Hydrological monitoring, fact sheets.
+16_verb
+accesses, responds, providing, distributing
+16_obj
+Citizen, screen, environmental hazards, description, system, request, detailed explanation, use case, practical terms, advice, standard procedures
+17_verb
+accesses, get, clarifies, call
+17_obj
+Citizen, section, information, usefulness, others, system, screen display, goals, civil service, general information, ability, call, DownloadIscription, use case.
+18_verb
+accesses, takes, acquire, use, responds, providing, view, collaborate
+18_obj
+Citizen, screen, seismic monitoring, territory, information, earthquake, measurement, prevention technologies, specialists, operational core, system, opportunity, descriptive manner, instruments, work, national bodies, collaboration.
+19_verb
+accesses, be, aware, kept, at, risk, exists, responds, carry, out
+19_obj
+Citizen, tab, environmental situation, municipality, control, values, risk, system, descriptive screen, toxicological values, chemical analyses, Civil Defense, environment, municipal land.
+20_verb
+accesses, responds, displaying, knowing, becomes, selects, called, allowing, view
+20_obj
+Citizen, introductory screen, system, descriptive tab, general information, Civil Defense, prerequisites, participation, link, use case, ComeBecomeVolunteer, description.
+21_verb
+accesses, wants, know, viewing, responds, making, available, view, being, monitored, invoke, provides, learn
+21_obj
+Citizen, tab, Risks, volcanic situation, municipality, Civil Defense, monitoring methods, system, display, screen, types of eruptions, volcano, current, MonitoraggioVulcanico, link, learn, actual situation.
+22_verb
+presses, presents, selects, shows, enters, verifies, computes
+22_obj
+Citizen, button, tax, calculation, function, System, list, fees, amount, form, data, correctness, computes, shows
+23_verb
+presses, presents, selects, shows, fills, enters, verifies, fails, perform, notifying
+23_obj
+Citizen, button, tax calculation, System, list, taxes, fees, amount, form, data, calculation, correctness, failure, user, reason.
+24_verb
+accesses, shows, enter, presses, updates
+24_obj
+Administrator, email, edit form, system, enter, new email, confirmation button, updates.
+25_verb
+clicks, access, redirects, clicks, searches, selects, wishes, make, dispute, displays, filled, enters, verifies, forwards, notifies
+25_obj
+Citizen, button, online fine management feature, System, section, online fine payment button, fines, database, payment, dispute, available information, form, necessary information, correct, dispute request, appropriate person, notifies
+26_verb
+clicks, access, displays, selects, redirects, showing, confirms, initiates, selecting, performs, displays
+26_obj
+Citizen, button, Online Tax Payment area, System, list of taxes, Municipal Property Tax, payment, redirects, section, form, amount, confirms, information, transaction, payment method, performs, successful message.
+27_verb
+clicks, access, displays, selects, enters, redirects, showing, confirms, selects, initiates, performs, displays
+27_obj
+Citizen, button, Online Tax Payment area, System, list of fees, Advertising, Public Display Tax, payment, file code, section, form, amount, payment method, transaction, successful payment message.
+28_verb
+clicks, access, displays, selects, redirects, showing, be, paid, confirms, selects, initiates, performs, displays
+28_obj
+Citizen, button, Online Tax Payment area, System, list of taxes, section, Personal Income Tax, payment, redirects, form, amount, confirms, information, payment method, transaction, successful payment message.
+29_verb
+clicks, access, redirects, displays, selects, starts
+29_obj
+Citizen, button, forms, section, System, redirects, various, download
+30_verb
+clicks, access, redirects, pay, searches, selects, wishes, make, displays, verifies, initiates, selecting, performs, displays
+30_obj
+Citizen, button, online, fine, management, feature, System, section, pay, fines, searches, database, payment, received, selects, wishes, make, form, amount, displayed, verifies, information, correct, initiates, transaction, preferred, method, performs, successful message.
+31_verb
+clicks, access, displays, selects, redirects, showing, initiates, allow
+31_obj
+Citizen, button, Online Payment area, taxes, fines, System, list, online, tax, fine, interest, section, form, transaction, problems, payment method.
+32_verb
+clicks, access, redirects, search, charged, paid, unpaid, displays, browse
+32_obj
+Citizen, button, online, fine management, feature, System, redirects, section, fines, charged, paid, unpaid, database, displays, list, browse, information.
+33_verb
+clicks, access, redirects, selects, displays, obtaining, enters, confirms, sends, notifies
+33_obj
+Citizen, button, municipality's, service request area, system, necessary section, Advertising, Public Display Tax request, form, relevant, data, additional data, correct completion, information, request, employee.
+34_verb
+displays, shows, certifies, checking, enables, sends
+34_obj
+Clerk, notification, citizen, request, validity, data, bureaucratic procedure, service, confirmation, e-mail
+35_verb
+accesses, shows, enter, presses, updates
+35_obj
+Citizen, edit, e-mail, form, system, enter, new, email, confirmation, button, updates
+36_verb
+displays, shows, reveals, rejects, sends
+36_obj
+Clerk, notification, System, request, citizen, error, procedure, service
+37_verb
+clicks, access, redirects, selects, displays, obtaining, enters, confirms, sends, notifies
+37_obj
+Citizen, button, municipalitys service request area, section, Tax for the Occupation of Public Land and Areas, form, data, completion, information, request, employee.
+38_verb
+displays, shows, certifies, checking, enables, sends
+38_obj
+Clerk, notification, System, request, citizen, validity, data, bureaucratic procedure, service, confirmation e-mail
+39_verb
+displays, shows, reveals, rejects, sends
+39_obj
+Clerk, notification, System, request, citizen, error, procedure, service
+40_verb
+clicks, access, displays, selects, redirects, showing, confirms, selects, initiates, performs, displays
+40_obj
+Citizen, button, Online Tax Payment area, System, list of taxes, section, Environmental Hygiene Fee, payment, form, fee, amount, information, payment method, transaction, successful payment message.
+41_verb
+clicks, access, displays, paid, selects, enters, redirects, showing, confirms, selects, initiates, performs, displays
+41_obj
+Citizen, button, Online Tax Payment area, System, list of taxes, section, Tax for the Occupation of Public Land and Areas, file code, necessary section, form, fee, amount, payment method, transaction, successful payment message.
+42_verb
+clicks, access, redirects, displays, selects, starts.
+42_obj
+Citizen, button, forms section, System, redirects, required section, forms, download.
+43_verb
+enters, presents, accesses, clicking, wants, receive, presents, explaining, performed
+43_obj
+Citizen, dedicated, online, help, section, system, screen, list, features, accesses, information, clicking, link, functionality, wants, receive, explaining, methods, actions, performed, specific.
+44_verb
+displays, indicating, entered, reads, resubmits
+44_obj
+System, message, terminal screen, request, incorrect, Citizen, notification, input form.
+45_verb
+displays, indicating, reads, resubmits
+45_obj
+System, message, terminal screen, request, Citizen, notification message, input form
+46_verb
+accesses, shows, enters, presses, updates
+46_obj
+employee, edit, email, form, system, show, entry, new, press, confirmation, button, update
+47_verb
+presses, displays, enters, saves
+47_obj
+administrator, EditEmployee button, system, form, editing, employee, data, saves, changes made
+48_verb
+wants, change, presses, displays, entering, presses, notifies
+48_obj
+administrator, password, button, system, form, old, new, confirm, notifies, changed
+49_verb
+change, presses, displays, entering, presses, confirm, notifies
+49_obj
+citizen, password, button, system, form, old password, new password, confirm, notify.
+50_verb
+wants, change, presses, displays, entering, presses, confirm, notifies
+50_obj
+employee, password, button, system, form, old password, new password, confirm, notify, changed
+51_verb
+forgotten, presses, displays, requires, entering, presses, verifies, sends
+51_obj
+Citizen, password, Recover, button, system, display, recovery, screen, user, name, ID card code, data, confirmation, verify, correctness, send, email address
+52_verb
+logs in, displays, entering, submits, verifies, grants
+52_obj
+Citizen, authentication session, system, login form, data, username, password, request, accuracy, access.
+53_verb
+forgotten, presses, shows, entering, enters, presses, confirms, verifies, sends
+53_obj
+administrator, password, recovery, button, system, form, entering, freshman, matriculation, number, confirmation, verifies, data, sends, email, address
+54_verb
+forgotten, presses, shows, entering, presses, verifies, sends
+54_obj
+employee, password, recovery, button, system, form, entering, matriculation number, confirmation, verifies, data, sends, email address
+55_verb
+accesses, displays, enters, presses, checks, saves, sends
+55_obj
+Citizen, registration form, system, data, confirmation button, correctness, e-mail, successful registration.
+56_verb
+accesses, displays, enters, presses, checks, saves, sends
+56_obj
+Citizen, registration form, system, data, confirmation button, correctness, saves, e-mail, successful registration.
+57_verb
+presses, displays, performs, returns
+57_obj
+administrator, Employee Search button, system, form, search, employee, data
+58_verb
+presses, shows, enters, notifies, stored, logs, views, verifies, fills, confirms, saves, updates.
+58_obj
+Citizen, Change of Residence button, system, form, data, new residence, request, successfully submitted, stored, clerk, logs into, views, received, verifies, fills in, document, rest of the data, entered, confirms, operation, saves, updates.
+59_verb
+presses, shows, enters, notifies, stored, logs, views, verifies, fills, confirms, saves, updates, sends
+59_obj
+change of residence, citizen, button, system, form, data, request, successfully submitted, stored, clerk, logs into, views, received, verifies, fills in, document, rest of the data, confirms, operation, saves, updates, sends, other municipality, positive notification
+60_verb
+presses, shows, enters, submits, sends
+60_obj
+Citizen, Change Family Status button, system, form, household, request, clerk.
+61_verb
+presses, delete, asks, confirms, deletes
+61_obj
+citizen, delete practice button, ID Card, Change of Residence, practice, system, confirmation, operation
+62_verb
+presses, displays, enters, saves
+62_obj
+citizen, press, practice, edit button, ID Card, Change of Residence, initialize, system, display, form, enter, data, save, change.
+63_verb
+logs, displays, entering, submits, verifies, allows
+63_obj
+Employee, authentication, session, system, login, form, data, username, password, request, verifies, accuracy, allows
+64_verb
+displays, selects, enters, presses, confirms, shows, be, shown, confirms, notifies
+64_obj
+Citizen, family status, family member, system, form, personal data, height, special marks, payment method, confirm button, screen, documentation, counter, days, hours, office, transaction, clerk, request.
+65_verb
+displays, shows, certifies, checking, enables, sends, goes
+65_obj
+clerk, notification, system, citizen, request, identity card, validity, data, ID card, creation, procedure, confirmation e-mail, counter
+66_verb
+displays, shows, detects, rejects, sends
+66_obj
+clerk, notification, citizen, identity card, error, data, rejection, ID card creation, e-mail
+67_verb
+selects, displays, enters, sends
+67_obj
+citizen, certificate, marital status, data, person, screen, payment, shipping method
+68_verb
+selects, displays, enters, stores, shows, selects, sends
+68_obj
+citizen, certificate, marital status, data, person, system, form, interested, special, screen, mode, payment, shipping, sends
+69_verb
+presses, shows, enters, presses, creates, sends, receives, publishes
+69_obj
+Citizen, RequestToMarry button, system, form, data, partners, confirmation button, self-certification, family status, applicant, clerk, notification, marriage application.
+70_verb
+presses, displays, chooses, print, send, executes
+70_obj
+Citizen, Family Status, Button, System, Print, Send, E-mail, Choice, Execute
+71_verb
+presses, sends, goes, renew
+71_obj
+Citizen, Identity Card Renewal button, renewal request, clerk, counter, ID card
+72_verb
+presses, sends, goes
+72_obj
+Citizen, LoseIdentityCard button, system, lost card notification, appropriate clerk, clerks office, copy, loss report
+73_verb
+presses, sends, goes
+73_obj
+Citizen, Lost Electoral Card button, system, card notification, clerk, office, copy, lost card report
+74_verb
+presses, asks, confirms, deletes
+74_obj
+clerk, delete-citizen, system, confirmation, operation, citizen
+75_verb
+presses, displays, confirms, sends, receive, be delivered
+75_obj
+Citizen, Electoral Card button, system, card request form, operation, notification, clerk, voter card, home.
+76_verb
+clicks, view, displays
+76_obj
+Citizen, button, view, practices, ID card, Change of Residence, system, screen, concern.
+77_verb
+accepts, sets, sends
+77_obj
+Clerk, file, system, practice, accepted, notification, Citizen
+78_verb
+rejects, sets, sends
+78_obj
+Clerk, file, system, practice, rejected, notification, Citizen.
+79_verb
+selects, view, shows
+79_obj
+Employee, View Requests on Hold, System, list, pending practices
+80_verb
+selects, selecting, displays, entering, enters, specifies, submits, picks up, sent, notified
+80_obj
+user, Social Assistance feature, Night Reception Request, system, form, applicant, recipient, data, third person, relationship, alternative, home, address, date, appointment, social workers, master, requesting citizen, receiving citizen, requestor, household, Social Services office, submission, notified.
+81_verb
+selects, displays, allows, requesting, print
+81_obj
+User, Request, Sickness Allowance, System, Displays, Page, Information, INPS Office, Print.
+82_verb
+selects, displays, enters, specifies, selects, attaches, specifies, submits, retrieves, sends, notified
+82_obj
+user, Social Assistance feature, Housing Assistance Request, Evictions, form, applicants, recipients, data, recipient, third person, relationship, new domicile, attached documentation, enforceable eviction, registered lease, ISEE model, submits, system, master data, citizen, household, request, Social Services office, notified, submission
+83_verb
+User selects, displays, enters, retrieves, specifies, attaches, issues, submits, picks up, forwards, notifies
+83_obj
+User, selects, Request, home care, elderly, minors, disabled, system, displays, form, entering, applicant, recipient, data, enters, master, third person, relationship, retrieves, citizen, household, psycho-physical conditions, attached documents, disability certificate, ASL commission, health card, attending physician, certificate, pension provider, ISEE model, date of appointment, social workers, submit, picks up, social welfare services, forwards, request, Social Services office, notifies.
+84_verb
+selects, displays, enters, specifies, retrieves, specifies, attaching, issued, specifying, submit, picks, forwards, notifies
+84_obj
+User, Request economic assistance, elderly, minor orphans, AIDS patients, prisoners, adults, system, form, entering, data, applicant, recipient, third person, relationship, citizen, householde, psycho-physical conditions, documents, disability certificate, ASL commission, health card, attending physician, certificate, pension provider, ISEE model, date, appointment, social workers, submit, social welfare services, Social Services office, notifies.
+85_verb
+presses, asks, confirms, deletes
+85_obj
+administrator, delete, employee, button, system, asks, confirmation, confirms, operation, deletes
+86_verb
+selects, displays, enters, specifies, submits, retrieves, sends, notified
+86_obj
+user, Social Assistance feature, Request for Assistance, GirlsMothers, Minors in Difficulty, system, form, entering, applicants, recipients, data, own data, recipient, request, person, relationship, appointment date, Social Workers, submits, retrieves, master data, citizen, household, Social Services office, notified, submission
+87_verb
+selects, displays, enters, retrieves, specifies, submits, forwards, notifies
+87_obj
+User, Request, residential, semi-residential care, system, displays, form, entering, applicants, recipients, data, enters, own, third person, relationship, retrieves, master data, applicant, citizen, household, psycho-physical condition, reason, type of service, hours, submits, forwards, ASL, notifies
+88_verb
+selects, displays, be downloaded, sent, offering, print
+88_obj
+user, selects, feature, Application, Solidarity Fund Allocation, Victims, Usury, Extortion, system, displays, information, related forms, downloaded, sent, Prefecture, offering, possibility, print.
+89_verb
+selects, displays, shows, download, send, providing, print, links, request
+89_obj
+User, Request Accompaniment Allowance, system, information, disability pension, link, download, relevant form, INPS, option, print, direct links, request, family status, marital status
+90_verb
+displays, regarding, selected, Accept, Reject, complete, verifying, print
+90_obj
+system, information, practice, acceptance, rejection, Clerk, complete, documentation, necessary, signatures, verifying, print, data.
+91_verb
+selects, displays
+91_obj
+user, remotely, selects, Social Assistance feature, Zone Plan, assistance services, system, displays, zone plan, regarding.
+92_verb
+selects, shows, be downloaded, sent, offering, print, shows, requesting.
+92_obj
+user, object words, Request for Recognition of Qualification, veteran, orphan of labor, feature, system, information, forms, Prefecture, option, print, link, page, Birth Certificate, Residence Certificate, Death Certificate.
+93_verb
+selects, selecting, displays, entering, attaches, issued, submits, picks up, sent, notified
+93_obj
+user, selects, Social Assistance, feature, Disabled Parking Release, system, displays, form, entering, applicant, recipient, data, different, enters, master, necessary, specifying, relationship, type, documentation, attached, traffic police command, medical-legal certificate, issued, ASL commission, submits, picks up, citizen, request, sent, notified, submission
+94_verb
+selects, displays, enters, specifies, picks up, specifies, attach, issued, submit, picks up, forwards, notifies
+94_obj
+User, Disabled Mobility and Transportation Service, system, form, entering, applicant, recipient, data, third person, relationship, citizen, master data, household, psycho-physical conditions, attached documents, disability certificate, ASL commission, health card, attending physician, certificate, pension provider, ISEE model, date of appointment, social workers, submit, social welfare services, request, Social Services office, notifies.
+95_verb
+requests, displays, confirm, unsubcribe, deletes
+95_obj
+Citizen, unsubscription, advertisement service, informagiovani news, system, form, confirm, request, deletes
+96_verb
+logs, activates, displays, enters, submits, receives, checks
+96_obj
+clerk, system, citizen, registration, procedure, form, data, submission, request, check, already
+97_verb
+requests, displays, entering, verifies, membership, confirms, deletion, deletes
+97_obj
+Citizen, cancellation, CardGiovani, system, form, entering, number, verifies, existence, card, citizens, membership, confirming, request, deletion, youth, repository.
+98_verb
+decides, cancel, enters, receives, notifies, cancelled, resubmits
+98_obj
+Citizen, cancel, youth card, form, system, notifies, cancelled, resubmits.
+99_verb
+requests, cancellation, displays, confirm, deletion, eliminates
+99_obj
+Citizen, interview reservation, counseling center, system, form, request, deletion, reservation, eliminates.
+100_verb
+requests, view, allows, choose, returns, displaying, invoking
+100_obj
+Citizen, requests, view, list, consulting rooms, system, allows, counseling centers, chooses, center, returns, information, chosen, consultatory displaying, data, location, opening dates, times, list, booked interviews, use case, VisualizationReservationConsultory.
+101_verb
+requests, allows, view, select, returns, specifying, publication, expiration, description
+101_obj
+Citizen, requests, view, list, informagiovani, news, system, allows, information, special, employment, official gazette, local, competition, notices, study, trips, selects, desired, returns, specifying, date, publication, expiration, description
+102_verb
+applies, displays, enters, receives, verifies, submits, notifies, displays
+102_obj
+Citizen, youth card, system, form, request, data, card number, summary.
+103_verb
+requests, displays, enters, receives, verifies, submits
+103_obj
+Citizen, subscription, informagiovani news, service-related advertisements, system, form, request data, receives, verifies, submits.
+104_verb
+requests, displays, editing, makes, confirms, modifies
+104_obj
+Citizen, request, change, interview, reservation, counseling center, system, display, form, edit, field, make, confirm, modification.
+105_verb
+decides, wants, cancel, enters, receives, notifies, been, cancelled, resubmits
+105_obj
+Citizen, cancel, informagiovani, news, enters, form, system, receives, notifies, cancelled, resubmits.
+106_verb
+requests, displays, enters, receives, verifies, submits, prints
+106_obj
+citizen, interview, counseling center, system, form, request, data, reservation, submits, prints, booking
+107_verb
+logs, activates, displays, enters, submits, receives, verifies, generates, saves, displays
+107_obj
+administrator, system, terminal, employee, form, data, registration, request, matriculation, password, notification, successful, employee
+108_verb
+decides, cancel, enters, receives, notifies, cancelled, resubmits
+108_obj
+Citizen, cancel, interview, reservation, form, system, receive, notify, booking, resubmit.
+109_verb
+requests, viewing, made, returns, displaying
+109_obj
+Citizen, reservation, consulting room, system, information, chosen, displaying, data, date, time, consultatory.
+110_verb
+requests, displays, chooses, displays, confirms, receives, clears
+110_obj
+Employee, news, deletion, system, list, existing, items, chooses, item, display, form, confirmation, operation, confirms, receives, clears, data.
+111_verb
+requests, view, allows, viewing, chooses, returns, displaying
+111_obj
+Citizen, libraries, system, view, chooses, returns, information, chosen, displaying, data, location, opening dates, times, link, website
+112_verb
+requests, view, allows, choosing, returns, displaying
+112_obj
+Citizen, events, system, view, list, chooses, event, information, chosen, displaying, location, date, time, site, managing, Pro-loco
+113_verb
+requests, view, allows, displayed, chooses, returns, displaying
+113_obj
+Citizen, requests, view, list, museums, system, allows, displayed, chooses, museum, returns, information, chosen, displaying, data, location, opening dates, times, link, website.
+114_verb
+requests, view, allows, displayed, chooses, returns
+114_obj
+Citizen, requests, view, list, territorial promotions, system, allows, displayed, chooses, promotion, returns, information, chosen.
+115_verb
+requests, displays, submitting, enters, receives
+115_obj
+employee, news entry, system, form, request, data item
+116_verb
+requests, displays, chooses, enters, receives, updates
+116_obj
+Employee, news, system, list, existing, items, chooses, form, editing, enters, data, receives, updates.
+117_verb
+requests, view, returns, displaying
+117_obj
+Citizen, requests, view, information, territory, system, returns, displaying, data, libraries, events, museums, promotions.
+118_verb
+wants, end, clicks, disconnects, returns
+118_obj
+administrator, work session, Logout button, system, main screen
+119_verb
+accesses, displays, entering, verifies, activates, confirms, sends, notifying, makes, printout, delivered
+119_obj
+citizen, communications area, link, system, form, data, start of works, D.I.A., end of works, correctness, completeness, summary screen, use case, DatiErrati, operation, printing, message, employee, request, printout, municipal office, revenue stamp.
+120_verb
+accesses, displays, enters, verifies, activates, confirms, displays, sends
+120_obj
+citizen, system, request, area, definition, building, offenses, link, form, data, verifies, correctness, completeness, summary, screen, activates, use case, DatiErrati, confirms, operation, message, notifying, sends, notification, employee
+121_verb
+accesses, displays, enters, verifies, displays, activates, confirms, displays, sends, notifying
+121_obj
+citizen, area, Dichiarazione sostitutiva dell'atto di notorietà, link, system, form, data, request, correctness, completeness, summary screen, DatiErrati, use case, operation, notification message, employee.
+122_verb
+accesses, displays
+122_obj
+citizen, accesses, Regulatory Plan area, appropriate, link, system, displays, document
+123_verb
+accesses, displays, enters, verifies, displays, activates, confirms, sends, notifies, makes, delivered.
+123_obj
+citizen, system, building project area, link, form, data, correctness, completeness, summary screen, use case, DatiErrati, operation, printing, message, employee, request, printout, municipal office, required documents, revenue stamp.
+124_verb
+accesses, displays, enters, shows, selects, displays
+124_obj
+citizen, search area, system, form, key, results, file
+125_verb
+accesses, displays, entering, verifies, displays, activates, confirms, displays, sends, makes, delivered
+125_obj
+citizen, certificate, authorization, issuance area, link, system, form, data, request, e.g., water network, sewer network, correctness, completeness, summary screen, use case, DatiErrati, operation, printing, message, employee, printout, municipal office, stamp, attachments
+126_verb
+requests, sends, notifies, submitted, sent
+126_obj
+citizen, file, button, system, clerk, request, notifies, copy, sent
+127_verb
+accesses, displays, enters, verifies, confirms, sends
+127_obj
+Citizen, request, area, definition, condono, link, system, form, data, required, verifies, correctness, completeness, summary, screen, activates, use case, DatiErrati, confirms, operation, message, notifying, sends, notification, employee.
+128_verb
+accesses, displays, enters, verifies, activates, confirms, sends
+128_obj
+citizen, request, area, house number, link, system, form, data, correctness, completeness, summary screen, use case, DatiErrati, operation, message, notification, employee.
+129_verb
+end, clicks, disconnects, returns
+129_obj
+citizen, work session, Logout button, system, main screen
+130_verb
+accesses, displays, enters, verifies, activates, confirms, makes, sends, notifies, submitted, sent
+130_obj
+citizen, municipal cadastral service area, link, system, form, data, request, correctness, completeness, summary screen, use case, DatiErrati, transaction, payment method, choice, message, employee, submission, copy
+131_verb
+accesses, displays, entering, verifies, activates, confirms, sends, notifies, makes, delivered
+131_obj
+citizen, system, certificate, permit, area, link, form, data, issuance, fitness, habitability, summary screen, use case, DatiErrati, operation, printing, message, employee, request, printout, municipal office, revenue stamp
+132_verb
+accesses, displays, chooses, displays
+132_obj
+citizen, circulars, area, link, system, displays, numbered list, chooses, chosen circular
+133_verb
+authenticating, updates, provides, carried, responds, providing, report, completes, submits, updates, allows, viewed
+133_obj
+municipal clerk, system, form, report, analysis, environment, Civil Defense, chemical experts, employee, field, information, Citizen, view
+134_verb
+update, authenticate, provide, complete, submit, allow, view
+134_obj
+municipal clerk, authenticating, updates, associations, published, notice of competition, system, responds, form, complete, fields, association_logo, description, association_name, notice, submits, viewed, Citizen
+135_verb
+authenticate, update, respond, provide, complete, submit, view
+135_obj
+municipal, employee, system, weather conditions, municipality, regional provinces, clerk, form, tempMin, tempMax, stateAtmospheric, nameCity, date, citizen.
+136_verb
+selecting, accesses, choosing, provides, allows, visit, help, maintain, chooses, responds, displaying, requested
+136_obj
+Citizen, screen, use case, Woods, Waste, system, user, services, visit, environmental conditions, page.
+137_verb
+accesses, view, support, respond, allowing, hire, receive, download, takes, provides, chooses, made, receive, participate, responds
+137_obj
+Citizen, home screen, opportunity, associations, Civil Defense, system, need, view, hire staff, small image, possibility, download, notice, form, choose, news, recruitment, participation, competition, modalities
+138_verb
+accesses, learn, makes, avoid, have, provides, follow, prevent, occurrence, call
+138_obj
+Citizen, screen, learn, advice, Civil Defense, forest fires, system, rules, follow, third parties, prevent, occurrence, arson, authority, call.
+139_verb
+accesses, view, responds, allowing, belongs, update, view, express
+139_obj
+Citizen, screen, weather situation, municipality, system, provinces, region, update date, minimum temperatures, maximum temperatures, weather conditions, descriptive image

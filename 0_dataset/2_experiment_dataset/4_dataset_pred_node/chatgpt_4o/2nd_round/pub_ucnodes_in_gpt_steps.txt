@@ -1,0 +1,2074 @@
+1_verb
+Start, Click, Set, Enter, confirm, provide, Click, create
+1_obj
+Start Click Set Enter confirm provide Click create created locked
+2_verb
+selects, is transferred, navigates, selects, prompts, enters, validates, is, gains
+2_obj
+selects,transferred to,navigates to find,selects,prompts,enters,validates,is,unlocked,gains access to
+3_verb
+Open Access Organize Add Delete Save Close
+3_obj
+open access organize add delete save close
+4_verb
+selects displays selects generates prints
+4_obj
+selects displays selects generates prints
+5_verb
+Provide, input, Allow, enter, Retrieve, matches, Display, contain, are, related, Allow, refine, entering, Update, Allow, select, Provide
+5_obj
+provide, allow, enter, retrieve, display, allow, refine, update, allow, select, provide
+6_verb
+selects enters validates ensure follows confirms creates add
+6_obj
+selects, enters, validates, confirms, creates, add
+7_verb
+selects accesses modifies confirms updates displays
+7_obj
+selects, accesses, modifies, confirms, updates, displays
+8_verb
+selectsnavigatesselectspromptconfirmsdeletesends
+8_obj
+selectsnavigatesselectspromptconfirmsdeletesends
+9_verb
+selects chooses appears input appears selects search appear
+9_obj
+selects, chooses, appears, input, appears, selects, appear
+10_verb
+clicks, opens, completes, leave, clicks, create
+10_obj
+clicks,opens,completes,leave,clicks,create
+11_verb
+selects, clicks, opens, modifies, modifies, modifies, modifies, modifies, modifies, modifies, attaches, clicks
+11_obj
+selects clicks opens modifies modifies modifies modifies modifies modifies modifies attaches clicks
+12_verb
+Select, duplicate, Click, Duplicate, Create, copy, Add
+12_obj
+Select duplicate Click Duplicate Create copy Add entry
+13_verb
+selects, clicks, appears, informing, confirms, clicking, cancels, clicking
+13_obj
+selects, clicks, appears, confirms, cancels, clicking
+14_verb
+clicks, selects, has downloaded, selects, wants, selects, is redirected, selects
+14_obj
+clicksselectsselectsselectsis redirected toselects
+15_verb
+Display, Prompt, enter, Validate, Prompt, enter, Validate, Authenticate, grant, display, return
+15_obj
+display prompt validate prompt validate authenticate grant display return
+16_verb
+Display, Select, assign, remove, Select, assign, remove, Validate, assigning, Assign, Validate, assigned, removing, Remove, Provide, assigning, removing
+16_obj
+Display, Select, Select, Validate, Assign, Validate, Remove, Provide
+17_verb
+Log in, Navigate, Select, Choose, assigning, select, assign, removing, select, assigned, remove, Confirm, assign, remove, Save, Log out
+17_obj
+Log in, Navigate, Select, teachings, teachings, Select, teachings, teachings, Confirm, Save, Log out
+18_verb
+Display, associate, remove, Prompt, select, associate, remove, selects, associate, proceed, selects, remove, proceed, Display, associate, Prompt, select, associate, Associate, update, Return, Display, remove, Prompt, select, remove, Remove, update, Return
+18_obj
+display, prompt, select, associate, proceed, display, prompt, select, associate, update, return, display, prompt, select, remove, update, return
+19_verb
+Open, Authenticate, Navigate, Retrieve, Display, Allow, Provide, Handle, Close
+19_obj
+Open, Authenticate, Navigate, Retrieve, Display, Allow, Provide, Handle, Close
+20_verb
+Open, Navigate, Click, Enter, Save, Verify, Close
+20_obj
+Open Navigate Click Enter Save Verify Close
+21_verb
+selects retrieves displays has go exit
+21_obj
+selects retrieves displays has 
+22_verb
+selects, navigates, selects, clicks, prompts, confirms, removes, displays
+22_obj
+selects, navigates, selects, clicks, prompts, confirms, removes, displays
+23_verb
+selects retrieves displays can scroll can select view perform can choose go back perform
+23_obj
+selects retrieves displays can scroll can select can choose perform
+24_verb
+Display, Prompt, enter, Validate, ensure, are, filled, Save, Display, added, End
+24_obj
+Display, Prompt, enter, Validate, Save, Display, added, End
+25_verb
+Open, Log, Navigate, Enter, select, Click, Retrieve, display, display, Provide, edit, update, allow, view, Close, navigate
+25_obj
+Open, Log, Navigate, Enter, select, Click, Retrieve, display, display, Provide, edit, update, allow, view, Close, navigate
+26_verb
+Display, indicating, Clear, Allow, re-enter, Provide, reset
+26_obj
+display, clear, allow, provide
+27_verb
+selects prompts deleting confirms removes displays
+27_obj
+selects prompts confirms removes displays
+28_verb
+Select, assigned, removed, Choose, assign, remove, Select, assigned, removed, Confirm, assign, remove
+28_obj
+Select, assigned, removed, Choose, assign, remove, Select, assigned, removed, Confirm, assign, remove
+29_verb
+Open, Navigate, Retrieve, Display, Allow, scroll, Enable, view, selecting, selects, display, Provide, go, Continue, allowing, view, navigate, completed, Close, finished
+29_obj
+Open, Navigate, Retrieve, Display, Allow, Enable, View, Selecting, Selects, Display, Provide, Go, Continue, Allowing, View, Navigate, Close
+30_verb
+selects prompts provide enters validates adds displays ends
+30_obj
+selects prompts enters validates adds displays ends
+31_verb
+Open, Navigate, Search, want, view, Select, Display, Provide, view, Allow, navigate, perform, Close
+31_obj
+Open, Navigate, Search, Select, Display, Provide, Allow, Close
+32_verb
+selects, displays, modify, makes, saves, made, validates, updates, displays, edited
+32_obj
+selects  
+displays  
+modify  
+makes  
+saves  
+validates  
+updates  
+displays  
+33_verb
+selects prompts confirm confirms removes displays
+33_obj
+selects prompts confirm confirms removes displays
+34_verb
+selects want retrieves displays
+34_obj
+selectsretrievesdisplays
+35_verb
+selects, displays, selects, retrieves, displays, view, go, exit
+35_obj
+selects, displays, selects, retrieves, displays, view, go back, exit
+36_verb
+Open, Log, Select, create, Enter, Save, Verify, Submit, update, Log
+36_obj
+Open, Log, Select, Enter, Save, Verify, Submit, Log
+37_verb
+clicks confirms clears logs redirects
+37_obj
+clicks
+confirms
+clears
+logs
+redirects
+38_verb
+Login, Access, Enter, Validate, Save, Verify, Submit, Log
+38_obj
+Login 
+Access 
+Enter 
+Validate 
+Save 
+Verify 
+Submit 
+Log
+39_verb
+logs, navigates, selects, chooses, insert, delete, enters, validates, saves, prompts, confirms, removes, notifies, logs
+39_obj
+logs, navigates, selects, chooses, enters, validates, saves, prompts, confirms, removes, notifies, logs
+40_verb
+Log in
+Navigate
+Select
+Modify
+Save
+Verify
+Log out
+40_obj
+log in navigate select modify save verify log out
+41_verb
+logs, navigates, selects, prompts, confirms, deletes, displays, logs
+41_obj
+logs, navigates, selects, prompts, confirms, deletes, displays, logs
+42_verb
+selects retrieves displays reviews exits
+42_obj
+selects retrieves displays reviews exits
+43_verb
+OpenLog inNavigateRetrieveDisplayAllowviewselect
+43_obj
+Open, Log in, Navigate, Retrieve, Display, Allow, view, selecting
+44_verb
+Display, Prompt, enter, Validate, Save, Display, indicating, has been saved, End
+44_obj
+Display, Prompt, Validate, Save, Display
+45_verb
+selects, prompts, enter, enters, validates, prompts, enter, enters, validates, saves, displays, ends
+45_obj
+selects  
+prompts  
+enters  
+validates  
+prompts  
+enters  
+validates  
+saves  
+displays
+46_verb
+Open, Log, Navigate, Locate, Click, View, include, download, print, Close
+46_obj
+Open
+Log
+Navigate
+Locate
+Click
+open
+View
+include
+download
+print
+Close
+viewing
+47_verb
+selects retrieves displays selects retrieves displays choose navigate perform ends
+47_obj
+selects retrieves displays selects retrieves displays choose perform ends
+48_verb
+selects, prompts, enter, enters, validates, is, prompts, enters, validates, prompts, re-enter, re-enters, compares, ensure, match, updates, displays, indicating, has
+48_obj
+selects prompts enter enters validates prompts enters validates prompts re-enter re-enters compares updates displays
+49_verb
+selectsdisplaysmakessavessupdatesdisplays
+49_obj
+selects, displays, makes, saves, updates, displays
+50_verb
+selects retrieves modifies saves updates displays indicating
+50_obj
+selects, retrieves, modifies, saves, updates, displays
+51_verb
+Select,right-click,open,Click,pop,asking,delete,Click,confirm,handle,cleanup,Display
+51_obj
+select, right-click, open, click, pop up, asking, click, confirm, delete, handle, display
+52_verb
+selects searches selects prompts confirms deletes displays
+52_obj
+selects, searches, selects, prompts, confirms, deletes, displays
+53_verb
+Identify, needs, be, queried, Retrieve, records, Calculate, Retrieve, Display, associated
+53_obj
+identify retrieve calculate retrieve display
+54_verb
+logs navigates selects retrieves selects displays view print download logs
+54_obj
+logs, navigates, selects, retrieves, selects, displays, view, print, download, logs
+55_verb
+Login, Navigate, Select, Click, Enter, Save, Display
+55_obj
+Login, Navigate, Select, Click, Enter, Save, Display
+56_verb
+Start, Display, Allow, modify, Validate, ensure, fails, display, prompt, make, Save, Display, indicating, updated, End
+56_obj
+Start, Display, Allow, Validate, display, prompt, Save, Display, End
+57_verb
+logs navigates selects confirms deletes displays
+57_obj
+logs navigates selects confirms deletes displays
+58_verb
+Log in, Navigate, View, filter, search, Click, view, Take, approving, rejecting, Log out
+58_obj
+log in, navigate, view, filter, search, click, view, take, approving, rejecting, log out
+59_verb
+Access, Navigate, Retrieve, Display, Provide, filter, search, Allow, select, Ensure, updated, reflect, made, Provide, restrict
+59_obj
+Access
+Navigate
+Retrieve
+Display
+Provide
+Allow
+Ensure
+Provide
+60_verb
+Log in, Access, Review, Verify, Click, approve, Update, Notify, Log out
+60_obj
+log in, access, review, verify, click, approve, update, notify, log out
+61_verb
+Log in, Navigate, Search, entering, Select, Click, Confirm, Provide, rejecting, updates, Notify, Log out
+61_obj
+Log in, Navigate, Search, Select, Click, Confirm, Provide, updates, Notify, Log out
+62_verb
+DisplayRetrieveSearchDisplayAllowView
+62_obj
+search interface, keywords, system, entities, search results, administrator, detailed information, entity, search results
+63_verb
+opens, logs, navigates, retrieves, displays, selects, retrieves, displays, choose, view, log, logs, exit
+63_obj
+openslogs innavigatesretrievesdisplaysselectsretrievesdisplaysviewlogs outlogs out
+64_verb
+Access, Select, collect, Choose, start, collecting, Enter, Verify, Save, Repeat, collected, Review, finalize, Save, Close
+64_obj
+Access, Select, Choose, Enter, Verify, Save, Repeat, Review, finalize, Save, Close
+65_verb
+Access, Select, Choose, begin, Enter, Save, Repeat, Verify, validate, Finalize, Confirm
+65_obj
+Access, Select, Choose, Enter, Save, Repeat, Verify, Validate, Finalize, Confirm
+66_verb
+Log in, Navigate, Select, Retrieve, Display, Display, Allow, Provide, Allow, Perform, Provide, Log out
+66_obj
+Log in, Navigate, Select, Retrieve, display, Display, Allow, select, Provide, sort, filter, Allow, perform, editing, adding, Provide, go, navigate, Log out
+67_verb
+selects displays selects retrieves displays has enters searches displays has selects sorts displays has selects generates prompts provides saves ends
+67_obj
+selects, displays, selects, retrieves, displays, has, enters, searches, displays, has, selects, sorts, displays, has, selects, generates, prompts, provides, saves
+68_verb
+Retrieve, Calculate, Calculate, Generate, Populate, Display
+68_obj
+Retrieve, Calculate, Calculate, Generate, Populate, Display
+69_verb
+Retrieve, Retrieve, Format, Display, Allow, view, interact
+69_obj
+Retrieve, Retrieve, Format, Display, Allow
+70_verb
+Display, Collect, Validate, Check, create, Store, Display
+70_obj
+Display, Collect, Validate, Check, create, Store, Display
+71_verb
+openslogs inregistersnavigatesretrievesdisplaysreviews
+71_obj
+opens logs registers navigates retrieves displays reviews
+72_verb
+opens, logs, verifies, navigates, selects, view, retrieves, displays, choose, view, navigate, select, view, logs
+72_obj
+opens, logs, verifies, navigates, selects, retrieves, displays, choose, navigate, logs
+73_verb
+Retrieve, Calculate, Calculate, Display, Allow, print, save
+73_obj
+Retrieve, Calculate, Calculate, Display, Allow
+74_verb
+inputs retrieves filters displays
+74_obj
+inputs retrieves filters displays
+75_verb
+selectsfetchesdisplays
+75_obj
+selects fetches displays
+76_verb
+opens navigates selects retrieves displays view search displays make adding removing save print export close exit
+76_obj
+opens navigates selects retrieves displays has view search displays make add removing save print export close exit
+77_verb
+selects retrieves displays print save logs
+77_obj
+selects retrieves displays has logs
+78_verb
+selects prompts enter enters validates prompts enter enters validates prompts enter enters validates prompts confirm confirms validates prompts select selects validates prompts upload uploads validates prompts review reviews submits saves sends displays completes
+78_obj
+selects,
+prompts,
+enter,
+enters,
+validates,
+prompts,
+enters,
+validates,
+prompts,
+enters,
+validates,
+prompts,
+enters,
+validates,
+prompts,
+confirms,
+validates,
+prompts,
+selects,
+validates,
+prompts,
+uploads,
+validates,
+prompts,
+reviews,
+submits,
+saves,
+sends,
+displays,
+79_verb
+Select, Input, search, Retrieve, Display, Allow, verify, provide, print, export, End
+79_obj
+select, input, search, retrieve, display, allow, view, verify, provide, print, export, end
+80_verb
+selects displays modifies saves validates updates confirms
+80_obj
+selects displays modifies saves validates updates confirms
+81_verb
+Identify, Verify, Confirm, Remove, Update, Notify, Log, End, Update
+81_obj
+Identify, Verify, Confirm, Remove, Update, Notify, Log, End, Update
+82_verb
+Display, Prompt, Provide, Allow, save, Validate, ensure, Display, End
+82_obj
+Display, Prompt, Provide, Allow, Validate, Display, End
+83_verb
+Select, Confirm, Delete, Display
+83_obj
+Select Confirm Delete Display
+84_verb
+Log in, Navigate, Select, record, Enter, search, Select, Enter, Save, Repeat, Log out
+84_obj
+Log, credentials, Navigate, tab, Select, option, record, results, visit, Enter, details, search, record, Select, examination, visit, Enter, results, notes, Save, results, Repeat, process, examinations, patients, Log, system
+85_verb
+Login, Navigate, Search, Select, Click, Update, Save, Verify, Log
+85_obj
+Login, Navigate, Search, Select, Click, Update, Save, Verify, Log
+86_verb
+selects, selects, prompts, confirms, removes, displays
+86_obj
+selects, selects, confirms, removes, displays
+87_verb
+Log in, Access, Review, Check, confirm, Notify, Update, Close, Log out
+87_obj
+Log in, Access, Review, Check, confirm, Notify, Update, Close, Log out
+88_verb
+Log in, Navigate, Search, Select, Click, edit, Modify, Save, Notify, Log out
+88_obj
+log in, navigate, search, select, click, modify, save, notify, log out
+89_verb
+receives verifies confirms is proceeds updates notifies informs
+89_obj
+receives verifies confirms proceeds updates notifies informs
+90_verb
+Log in, Navigate, Search, Select, Click, Update, Save, Verify
+90_obj
+log in, navigate, search, select, click, update, save, verify
+91_verb
+opens, navigates, selects, enters, saves, validates, displays, prompts
+91_obj
+opens navigates selects enters saves validates displays prompts
+92_verb
+Login, Access, Select, Review, Acknowledge, Fulfill, Update, Save, Log
+92_obj
+Login, Access, Select, Review, Acknowledge, Fulfill, Update, Save, Log
+93_verb
+Select, modify, Enter, access, Search, providing, Retrieve, associated, Update, Validate, ensure, Save, Confirm, Exit
+93_obj
+Select, modify, analysis, Enter, required, authentication, access, modification, Search, provide, Retrieve, existing, anagrafica, associated, analysis, Update, necessary, required, Validate, modified, ensure, Save, changes, anagrafica, analysis, Confirm, successful, modification, Exit
+94_verb
+Display, Prompt, enter, Validate, display, allow, retry, entering, authenticate, grant, Provide, perform, End
+94_obj
+display, prompt, validate, display, allow, authenticate, grant, provide, perform, end
+95_verb
+Authenticate, verifying, Retrieve, Retrieve, Display, Allow, select, Retrieve, Display, End
+95_obj
+Authenticate, verifying, Retrieve, retrieving, Display, Allow, retrieving, Display, End
+96_verb
+selects, retrieves, displays, scroll, view, selects, view, displays, go, exit, filter, applies, updates, repeat, view
+96_obj
+selects, retrieves, displays, scroll, selects, displays, go, exit, filter, applies, updates, repeat, view
+97_verb
+selects retrieves displays reviews closes ends
+97_obj
+selects, retrieves, displays, reviews, closes
+98_verb
+Authenticate, Display, Allow, Retrieve, Display, Provide, End
+98_obj
+Authenticate Display Allow Retrieve Display Provide End
+99_verb
+Capture Verify Retrieve Compare grant deny prompt
+99_obj
+Capture, Verify, Retrieve, Compare, grant, deny, prompt
+100_verb
+selects retrieves generates displays view print save
+100_obj
+selects retrieves generates displays print save
+101_verb
+Open, Navigate, Select, Enter, Enter, Enter, Save, Repeat, To view, search, view, To view, search, view
+101_obj
+Open Navigate Select Enter Enter Enter Save Repeat Search View Search View
+102_verb
+Log in, Navigate, Select, Enter, Click, View, export, Log out
+102_obj
+Log in, Navigate, Select, Enter, Click, View, export, Log out
+103_verb
+inputs retrieves calculates displays
+103_obj
+inputs retrieves calculates displays
+104_verb
+Select, Search, select, Click, Confirm, Verify, End
+104_obj
+Select, Search, needs, Select, Click, Confirm, Verify, End
+105_verb
+Open, Log, Navigate, Select, Retrieve, Display, Implement, Allow, Print, Close, Log
+105_obj
+open, log, navigate, select, retrieve, display, implement, allow, select, print, close, log
+106_verb
+Open, Navigate, Click, Enter, Click, Verify
+106_obj
+Open, Navigate, Click, Enter, Click, Verify
+107_verb
+Select, modify, Search, entering, Display, Edit, Validate, Save, Display, indicating
+107_obj
+modify, Search, entering, Display, Edit, Validate, Save, Display
+108_verb
+selects searches selects prompts confirms deletes displays
+108_obj
+selects searches selects prompts confirms deletes displays
+109_verb
+inputs verifies grants logs are displays perform
+109_obj
+inputs verifies grants logs displays perform
+110_verb
+Access, Enter, Select, Record, Enter, Save, Confirm
+110_obj
+Access, Enter, Select, Record, Enter, Save, Confirm
+111_verb
+Select, Search, locate, Select, open, Locate, click, Modify, Save, Close, Verify, are, reflected
+111_obj
+Select,Search,locate,Select,open,Locate,click,Modify,Save,Close,Verify
+112_verb
+Enter Validate grant display prompt End
+112_obj
+Enter, Validate, grant, display, prompt, re-entry
+113_verb
+Verify, End, Clear, Redirect, Display
+113_obj
+VerifyEndClearRedirectDisplay
+114_verb
+navigates browses selects learns reviews clicks fills submits confirms notifies
+114_obj
+navigates, browses, selects, learn, reviews, clicks, fills, submits, confirms, notifies
+115_verb
+CreateAddAssignSetCreateConductDocumentReviewapproveArchive
+115_obj
+create add assign set create conduct document review approve archive
+116_verb
+Display, selects, download, verifies, prompts, confirm, confirms, initiates, notifies
+116_obj
+display, selects, verifies, prompts, confirms, initiates, notifies
+117_verb
+Display, Allow, select, Validate, check, Prompt, confirm, Start, Display, Verify, Install, Display, End
+117_obj
+display allow select validate check prompt confirm start display verify install display end
+118_verb
+selects displays chooses add edit delete selects prompts enter selects edit displays modify selects delete asks deleting updates choose go exit
+118_obj
+selects displays chooses selects prompts, enter selects, displays selects, asks, deleting updates choose, go back, exit
+119_verb
+Identify, Notify, Record, Display, Update, Generate, Provide, becomes
+119_obj
+Identify, Notify, Record, Display, Update, Generate, Provide
+120_verb
+Retrieve, Process, Calculate, Compare, Generate, Surpasses, Display, Provide, Export, Allow, Configure, Enable, Acknowledge, Resolve
+120_obj
+Retrieve, Process, Compare, Generate, Display, Provide, Allow, Enable
+121_verb
+Retrieve, Analyze, detected, raise, Notify, Record, monitor, Update, Generate, Provide
+121_obj
+Retrieve, Analyze, detected, raise, Notify, Record, monitor, Update, Generate, Provide
+122_verb
+Identify, required, Create, needs, Allow, add, edit, delete, Provide, find, Implement, categorize, Ensure, accessed, viewed, Allow, set, Provide, export
+122_obj
+Identify, required
+Create, list
+Allow, add, edit, delete, list
+Provide, functionality, find 
+Implement, feature, categorize
+Ensure, list, accessed, viewed
+Allow, set, preferences
+Provide, option, export, list
+123_verb
+Receive, Verify, Dispatch, Notify, Monitor, Update, Close
+123_obj
+Receive, Verify, Dispatch, Notify, Monitor, Update, Close
+124_verb
+accesses, displays, modifies, validates, saves, prompts, makes, resubmits, saves, confirms, concludes
+124_obj
+accesses,displays,modifies,validates,saves,prompts,makes,resubmits,saves,confirms
+125_verb
+opens selects inputs inputs selects confirms submits stores displays add exit
+125_obj
+opens, selects, inputs, inputs, selects, confirms, submits, stores, displays, add, exit
+126_verb
+Identify, Categorize, Evaluate, Determine, Implement, Test, Monitor, Update
+126_obj
+Identify, Categorize, Evaluate, Determine, Implement, Test, Monitor, Update
+127_verb
+opens, selects, enters, adds, specifies, assigns, sets, marks, edit, delete, saves, exits
+127_obj
+opens, selects, enters, adds, specifies, assigns, sets, marks, edit, delete, saves, exits
+128_verb
+Gather, documentation, Create, sign, Develop, verify, Implement, choose, Design, develop, Create, take, Develop, evaluate, Generate, distribute, Provide, review, Maintain, update, meet
+128_obj
+gather, create, develop, implement, design, develop, create, develop, generate, distribute, provide, maintain, update
+129_verb
+Collect, Preprocess, Analyze, Identify, Generate, Notify, Store
+129_obj
+Collect, Preprocess, Analyze, Identify, Generate, Notify, Store
+130_verb
+selects, retrieves, displays, reviews, choose, print, save ends
+130_obj
+selects retrieves displays reviews choose print save ends
+131_verb
+logs,navigates,views,selects,views,signs,confirms,logs
+131_obj
+logs, navigates, views, selects, views, signs, confirms, logs
+132_verb
+Capture, Validate, Query, retrieve, Display, Allow, search, exit
+132_obj
+Capture Validate Query Display Allow
+133_verb
+Receive, Calculate, multiplying, Apply, Display
+133_obj
+Receive, Calculate, multiplying, Apply, Display
+134_verb
+Receive, Parse, extract, Calculate, multiplying, Sum, Apply, Generate, showing, Display, save
+134_obj
+Receive, Parse, Calculate, Sum up, Apply, Generate, Display, save
+135_verb
+Display Select Retrieve Allow make Validate Update Display indicating edited
+135_obj
+Display, Select, Retrieve, Allow, Validate, Update, Display
+136_verb
+clicks presents fill enters submits validates notifies updates sends confirms prompts corrects logs
+136_obj
+clicks, presents, fill, enters, submits, validates, notifies, updates, sends, prompts, logs
+137_verb
+Start, Log, Navigate, Enter, select, Click, Validate, Process, Display, perform, End, logging, returning
+137_obj
+start log navigate enter select click validate process display perform end
+138_verb
+Login, Access, Enter, Define, Input, Select, Analyze, Generate, Review, Validate, Make, take, Log
+138_obj
+Login, Access, Enter, Define, Input, Select, Analyze, Generate, Review, Validate, Make, take, Log out
+139_verb
+Collect, Gather, Calculate, Apply, Deduct, Generate, Display, Allow, save, print
+139_obj
+Collect, Gather, Calculate, Apply, Deduct, Generate, Display, Allow, save, print
+140_verb
+Identify, Design, Implement, Implement, Implement, Implement, Implement, Test
+140_obj
+identify design implement implement implement implement implement test
+141_verb
+selects, displays, selects, prompts, enters, verifies, displays, prompts, processes, updates, sends, displays
+141_obj
+selects, displays, selects, prompts, enters, verifies, displays, prompts, processes, updates, sends, displays
+142_verb
+Display, Provide, Allow, Verify, retry, is, prompt, contact, Log
+142_obj
+message, option, user, details, payment, user, payment transaction
+143_verb
+DisplayenterValidateensureSubmitRetrieveDisplayAllowviewinteract
+143_obj
+Display Validate Submit Retrieve Display Allow
+144_verb
+selects, enters, validates, generates, reviews, confirms, saves, notifies, completed
+144_obj
+selects, enters, validates, generates, reviews, confirms, saves, notifies
+145_verb
+submits verifies checks meets accepts sends meets rejects logs
+145_obj
+submit verify check meet meet send reject log
+146_verb
+Display, Provide, Allow, modify, Validate, Save, Display, indicating
+146_obj
+DisplayProvideAllowValidateSaveDisplay
+147_verb
+submits validates checks identifies retrieves processes stores sends ends
+147_obj
+submits, validates, checks, identifies, retrieves, processes, applies, stores, sends, confirming
+148_verb
+selects prompts input provides validates generates sends notifies
+148_obj
+selects prompts input provides validates generates sends notifies
+149_verb
+Display, Provide, accept, clicks, Validate, filled, passes, mark, Notify, accepted, Update, accepted
+149_obj
+display, provide, clicks, validate, filled, passes, mark, notify, update
+150_verb
+selects prompts enter inputs validates meets generates sends reviews approves rejects notifies requested notifies prompts
+150_obj
+selects, prompts, inputs, validates, generates, sends, reviews, approves, rejects, notifies, prompts
+151_verb
+opens, logs, navigates, inputs, submits, validates, processes, notifies, logs
+151_obj
+opens, logs, navigates, inputs, submits, validates, processes, notifies, logs
+152_verb
+Display Allow scroll Provide accept accepts proceed rejects allow access Log
+152_obj
+Display Allow scroll Provide an option accept proceed rejects Log
+153_verb
+Display, Allow, Display, Allow, Validate, Provide, Allow, Process, Save, Display
+153_obj
+Display, Allow, Display, Allow, Validate, Provide, Allow, Process, Save, Display
+154_verb
+selects, displays, selects, retrieves, displays, reads, has, request, is, connects, provides, interacts, resolve, is, ends
+154_obj
+selects, displays, selects, retrieves, displays, reads, request, requested, connects, provides, interacts, resolve, ends
+155_verb
+Determine, Define, Develop, Design, Implement, Create, Generate, Test, Deploy
+155_obj
+Determine, requirements, handling, Define, types, need, be, Develop, strategy, identifying, Design, method, flagging, marking, Implement, validation, checks, prevent, entry, Create, error, handling, mechanisms, prompt, correct, Generate, reports, logs, further, analysis, resolution, Test, functionality, Ensure, work, be, Deploy, updated, system, manage
+156_verb
+Display stating Provide retry fails notify try contact
+156_obj
+Display, Provide, retry, notify
+157_verb
+Retrieve, Display, Allow, edit, Validate, Update, Display
+157_obj
+Retrieve employee information, Display the current email address, Allow the user to edit the email address, Validate the new email address format, Update the employees email address, Display a confirmation message
+158_verb
+SelectDisplayAllowmodifyValidateSaveDisplay
+158_obj
+Select,Display,Allow,Validate,Save,Display
+159_verb
+selects, displays, prompts, enter, enters, submits, validates, verifies, matches, displays, prompts, enters, submits, validates, verifies, meets, updates, displays, indicating, ends
+159_obj
+selects, displays, enters, submits, validates, verifies, displays, enters, submits, validates, verifies, updates, displays
+160_verb
+enters, validates, enters, confirms, validates, meets, updates, notifies, changed
+160_obj
+enters, validates, enters, confirms, validates, updates, notifies
+161_verb
+selects, prompts, enter, enters, confirms, verifies, validates, updates, displays
+161_obj
+selects, prompts, enter, enters, confirms, verifies, validates, updates, displays
+162_verb
+clicks prompts enter enters submits validates checks exists is found generates sends receives clicks validates prompts enter enters submits validates updates receives ends
+162_obj
+clicks prompts enter submits validates checks generates sends receives clicks validates prompts enter submits validates updates receives ends
+163_verb
+enters verifies authenticated notified prompted re-enter
+163_obj
+enters verifies authenticated notified prompted
+164_verb
+navigates enters validates sends clicks prompts enter enters confirms validates updates displays
+164_obj
+navigates, enters, validates, sends, clicks, prompts, enters, confirms, validates, updates, displays
+165_verb
+selects prompts enters submits validates generates sends receives clicks verifies prompted enter enters confirms validates matches updates receives ends
+165_obj
+selects, prompts, enters, submits, validates, generates, sends, receives, clicks, verifies, prompted, enters, confirms, validates, matches, updates, receives
+166_verb
+Display, capture, Validate, store, Generate, Send, Notify
+166_obj
+Display capture Validate store Generate Send Notify End
+167_verb
+Display, Prompt, enter, Validate, ensure, Check, generate, Store, Send, Display, confirming, End
+167_obj
+Display, Prompt, Validate, Check, If, generate, Store, Send, Display, End
+168_verb
+enters validates processes retrieves displays selects view displays
+168_obj
+enters validates processes retrieves displays selects displays
+169_verb
+selects displays enter enters validates saves sends ends
+169_obj
+selects, displays, enters, validates, saves, sends, ends
+170_verb
+selects, selects, enters, confirms, validates, updates, displays
+170_obj
+selects, selects, enters, confirms, validates, updates, displays
+171_verb
+selects, displays, selects, retrieves, prompts, selects, verifies, display, return, is, updates, notifies, returns
+171_obj
+selects, displays, selects, retrieves, prompts, selects, verifies, display, return, updates, notifies, returns
+172_verb
+Display, Allow, select, delete, Confirm, want, delete, confirmed, remove, Display, indicating, was, deleted, End
+172_obj
+Display Allow Confirm remove Display End
+173_verb
+Display, Select, Retrieve, Display, Allow, make, Validate, fails, display, allow, succeeds, update, Display, Return
+173_obj
+Display, Select, Retrieve, Display, Allow, Validate, display, allow, update, Display, Return
+174_verb
+entersverifiesauthenticategrantdenydisplay
+174_obj
+enters, verifies, authenticate, grant, deny, display
+175_verb
+accesses, provides, validates, reviews, confirms, generates, sends, reviews, verifies, approves, rejects, generates, issues, receives, collects
+175_obj
+accesses, provides, validates, reviews, confirms, generates, sends, reviews, verifies, approves, rejects, generates, issues, receives, collects
+176_verb
+submits, verifies, checking, generates, stores, sends, acknowledging, initiates, checking, retrieves, validates, comparing, generates, informing, updates, generates, informing, updates, sends, logs, ends
+176_obj
+submits, verifies, generates, stores, sends, initiates, retrieves, validates, generates, updates, generates, updates, sends, logs
+177_verb
+PromptenterValidateNotifyProvideAllowmakecorrectionsresubmit
+177_obj
+enter, validate, notify, provide, allow
+178_verb
+enters validate grant selects prompts provide enters validate generates logs sends acknowledges view tracks updates notifies download marks archives provide review
+178_obj
+enters, validates, grants, selects, prompts, provide, enters, validates, generates, logs, sends, acknowledging, view, tracks, updates, notifies, download, marks, archives, provide, review
+179_verb
+selects, prompts, enter, provides, validates, generates, sends, waits, receives, associates, notifies, downloads, is
+179_obj
+selects, prompts, enter, provides, validates, generates, sends, waits, receives, associates, notifies, downloads
+180_verb
+selects, clicks, sends, accept, reject, sends, sends, informing
+180_obj
+selects, clicks, sends, accept, reject, sends, sends
+181_verb
+selects prompts enter enters validates retrieves displays prompts want chooses request chooses exit end
+181_obj
+selects, prompts, enter, enters, validates, retrieves, displays, prompts, request, repeat, chooses, request, chooses, exit, end
+182_verb
+initiates, prompts, input, enters, validates, prompts, upload, selects, uploads, verifies, confirms, generates, displays, prompts, make, selects, completes, confirms, updates, notifies, acknowledges, saves, sends, generates, prints, receives, updates, forwards, review, update, request, receives, upload, uploads, verifies, review, update, notifies, acknowledges, updates, generates, receives, collects, updates, notifies, acknowledges, updates, provides, initiate
+182_obj
+initiates, prompts, enters, validates, prompts, selects, uploads, verifies, confirms, generates, displays, prompts, selects, completes, confirms, updates, notifies, acknowledges, saves, sends, generates, prints, receives, updates, forwards, review, update, request, receives, uploads, verifies, review, update, notifies, acknowledges, updates, generates, receives, collects, updates, notifies, acknowledges, updates, provides
+183_verb
+reports, captures, generates, is, flags, sends, verifies, updates, can, follow
+183_obj
+reports, captures, generates, is provided, flags, sends, verifies, updates, can follow up
+184_verb
+clicks prompts enter enters clicks displays confirm confirms clicking generates notifies provides ends
+184_obj
+clicks, prompts, enter, enters, clicks, displays, asking, confirms, clicking, generates, notifies, provides, ends
+185_verb
+selects, prompts, confirm, confirms, verifies, processes, updates, notifies, displays, ends
+185_obj
+selects prompts confirms verifies processes updates notifies displays.
+186_verb
+logs navigates enters uploads reviews submits verifies generates sends forwarded
+186_obj
+logs navigates enters uploads reviews submits verifies generates sends forwarded
+187_verb
+navigates retrieves displays selects retrieves displays
+187_obj
+navigates retrieves displays selects retrieves displays
+188_verb
+selects enters confirms saves displays
+188_obj
+selects enters confirms saves displays
+189_verb
+Retrieve, Identify, Determine, Notify, Log
+189_obj
+RetrieveIdentifyDetermineNotifyLog
+190_verb
+Authenticate Retrieve Display Allow view Provide approve reject request
+190_obj
+Authenticate Retrieve Display Allow Provide
+191_verb
+Receive, Prepare, Ensure, Greet, Verify, Provide, Ensure, Monitor, manage, Handle, arise, Update, Close
+191_obj
+Receive Prepare Ensure Greet Verify Provide Ensure Monitor Handle Update Close
+192_verb
+Collect,Verify,Calculate,Determine,Generate,Update,Notify,Provide
+192_obj
+Collect Verify Calculate Determine Generate Update Notify Provide
+193_verb
+logs navigates fills submits verifies checks meets generates receives forwarded track
+193_obj
+logs, navigates, fills, submits, verifies, checks, generates, receives, forwarded, track
+194_verb
+Login, Access, Create, Enter, Assign, Set, Save, notify, Monitor, Mark, Generate
+194_obj
+Login, Access, Create, Enter, Assign, Set, Save, Monitor, Mark, Generate
+195_verb
+Gather, Verify, Collect, Evaluate, Determine, Notify, Disburse, Monitor, Follow
+195_obj
+Gather, Verify, Collect, Evaluate, Determine, Notify, Disburse, Monitor, Follow
+196_verb
+selects prompts enter selects provides selects validates confirms displays confirm confirms deletes displays indicating deleted returns
+196_obj
+selects  
+prompts  
+enter  
+selects  
+provides  
+selects  
+validates  
+confirms  
+displays  
+confirm  
+confirms  
+deletes  
+displays  
+indicating  
+returns
+197_verb
+Display, Allow, Show, Provide, Log, Notify
+197_obj
+Display,Allow,Show,Provide,Log,Notify
+198_verb
+Verify, Collect, Create, Assign, Schedule, Review, confirm, Monitor, update, Generate, End, Archive
+198_obj
+Verify,availability,Collect,information,Create,profile,Assign,care provider,Schedule,assessment meeting,Review,care plan,Monitor,care progress,update,Generate,reports,End,service,Archive,profile
+199_verb
+Create, Define, Add, Record, Track, Allow, make, Notify, Provide, Allow, manage, add, remove, update, generate, Ensure, have
+199_obj
+Create,Define,Add,Record,Track,Allow,make,Notify,Provide,Allow,manage,add,remove,update,generate,Ensure
+200_verb
+initiates displays enters validates generates associates attaches verifies calculates displays confirms sends logs forwards reviews request provides verifies approves rejects updates generates sends receives verifies acknowledges updates ends
+200_obj
+initiates displays enters validates generates associates attaches verifies calculates displays confirms sends logs forwards reviews request provides verifies approves rejects updates generates sends sends receives verifies acknowledges updates ends
+201_verb
+Retrieve,attended,Display,attended,Provide,filtering,sorting,Allow,select,view,attended,Display,including,Offer,print,export
+201_obj
+Retrieve,Display,Provide,Allow,view,Display,Offer,print,export
+202_verb
+launches selects displays selects provides reviews takes exits
+202_obj
+launches,selects,displays,selects,provides,reviews,takes,exits
+203_verb
+Gather, Verify, Review, Determine, Issue, Notify, Update
+203_obj
+information, authenticity, criteria, requirements, eligibility criteria, qualification certificate, qualification status, database, war veterans qualification status
+204_verb
+Identify, Verify, Validate, Check, Generate, Notify, Update
+204_obj
+Identify, Verify, Validate, Check, Generate, Notify, Update
+205_verb
+Identify, Determine, Search, Display, Enable, Confirm, Notify, Track, Update, Complete
+205_obj
+Identify Determine Search Display Enable Confirm Notify Track Update Complete
+206_verb
+selects
+displays
+asking
+confirm
+confirms
+updates
+marking
+sends
+informing
+displays
+confirming
+ends
+206_obj
+selects  
+displays  
+confirm  
+confirms  
+updates  
+marking  
+sends  
+informing  
+displays
+207_verb
+Display, entering, Prompt, enter, Validate, ensure, Save, Display, indicating
+207_obj
+Display, Prompt, Validate, Save, Display
+208_verb
+VerifyhascancelRetrieveConfirmwantproceedUpdateNotify
+208_obj
+Verify, Retrieve, Confirm, Update, Notify
+209_verb
+Verify, requested, cancel, Retrieve, Check, pending, prompt, confirm, update, Notify, canceled, proceed, End
+209_obj
+Verify, Retrieve, Check, prompt, update, Notify, proceed, End
+210_verb
+selects, displays, selects, verifies, are, displays, returns, are, prompts, enter, enters, validates, are, displays, prompts, are, confirms, updates, displays, can, choose, continue, chooses, generates, provides, accomplish, completes, printing, emailing, returns, remains, are
+210_obj
+selects displays selects verifies displays returns prompts enters validates displays prompts confirms updates displays choose generates provides completes returns remains
+211_verb
+logs, navigates, selects, inputs, retrieves, displays, interact, save, share, print, logs
+211_obj
+logs navigates selects inputs retrieves displays interact logs
+212_verb
+Gather, Determine, Design, Implement, Implement, Test, Deploy, Monitor, Maintain
+212_obj
+Gather, Determine, Design, Implement, Implement, Test, Deploy, Monitor, Maintain
+213_verb
+Display, Allow, select, Verify, Display, Prompt, upload, Validate, Confirm, Notify
+213_obj
+Display Allow Verify Display Prompt Validate Confirm Notify
+214_verb
+selects, enters, validates, checks, adds, sends, ends
+214_obj
+selects enters validates checks adds sends ends
+215_verb
+Validate, Display, Allow, Present, Provide, Validate, save, Display
+215_obj
+Validate, Display, Allow, Present, Provide, Validate, save, Display
+216_verb
+RetrieveNotifysubscribedhas been canceledRemoveUpdateLog
+216_obj
+Retrieve Notify Remove Update Log
+217_verb
+Display, Select, Enter, Validate, Confirm, Send, Update
+217_obj
+Display, Select, Enter, Validate, Confirm, Send, Update
+218_verb
+Display, Prompt, enter, Validate, Save, Display, indicating
+218_obj
+Display, Prompt, Validate, Save, Display
+219_verb
+Verify Check Update Notify Update Record Send End
+219_obj
+Verify Check Update Notify Update Record Send End
+220_verb
+Log in, Access, Search, Select, View, print, save
+220_obj
+log in, access, search, select, view, print, save
+221_verb
+selects prompts confirm confirms deletes displays
+221_obj
+selects prompts confirms deletes displays
+222_verb
+logs navigates enters retrieves displays selects displays can download save logs
+222_obj
+logs, navigates, enters, retrieves, displays, selects, displays, download, save, logs
+223_verb
+Gather, Display, Allow, Provide, Allow, Enable, Allow, share
+223_obj
+Gather
+Display
+Allow
+Provide
+Allow
+Enable
+Allow
+224_verb
+Display, Allow, select, Show, Provide, get, Allow, save
+224_obj
+Display, Allow, Show, Provide, Allow
+225_verb
+selects, displays, selects, retrieves, displays, choose, promote, processes
+225_obj
+selects displays selects retrieves displays choose promote processes
+226_verb
+Display, Prompt, input, Validate, meets, Save, Display, indicate, has been saved
+226_obj
+Display Prompt Validate Save Display
+227_verb
+selects, displays, makes, saves, validates, updates, displays
+227_obj
+selects
+displays
+makes
+saves
+validates
+updates
+displays
+228_verb
+requests, checks, retrieves, displays, reviews, choose, exit, chooses, view, exit
+228_obj
+requests, checks, retrieves, displays, reviews, choose, view, exit, chooses, view, exit
+229_verb
+Click, Select, Confirm, Redirect
+229_obj
+Click,Select,Confirm,Redirect
+230_verb
+Identify, Determine, Choose, Create, Review, approve, Distribute, Monitor, track, Collect, Analyze, make, improve
+230_obj
+Identify, Determine, Choose, Create, Review, Approve, Distribute, Monitor, Track, Collect, Analyze, Make
+231_verb
+Gather, Access, Select, Enter, Enter, Assign, Define, Save, Verify, Repeat
+231_obj
+gather access select enter enter assign define save verify repeat
+232_verb
+selects, fills, validates, reviews, submits, stores, generates, provides
+232_obj
+selects, fills, validates, reviews, submits, stores, generates, provides
+233_verb
+Capture Validate Determine meets approve meet reject Notify
+233_obj
+Capture, Validate, Determine, meets, approve, meets, reject, Notify, meets
+234_verb
+logs, selects, fills, uploads, confirms, validates, saves, notifies, ends
+234_obj
+logs, selects, fills, uploads, confirms, validates, saves, notifies
+235_verb
+Display, Provide, enter, Retrieve, entered, Display, Allow, select, Display
+235_obj
+display provide enter retrieve display allow select display
+236_verb
+initiates validates checks generates associates logs notifies ends
+236_obj
+initiates validates checks generates associates logs notifies ends
+237_verb
+provides, verifies, exists, creates, displays, indicating, updates, ends
+237_obj
+provides verifies creates displays updates ends
+238_verb
+navigates, fills, validates, generates, sends, is, stored, is, forwarded, reviews, provides, notifies, can, view, download
+238_obj
+navigates fills out validates generates sends stored forwarded reviews provides notifies view download
+239_verb
+selects,displays,enter,enters,validates,generates,stores,confirms
+239_obj
+selects displays enter enters validates generates stores confirms
+240_verb
+Verify, is, logged, clear, log, Display, was, End, redirect, is, logged, display, is
+240_obj
+verify, logged, logged, clear, log, display, end, redirect, logged, display
+241_verb
+selects prompts input enters validates generates assigns notifies ends
+241_obj
+select, prompt, enter, validate, generate, assign, notify
+242_verb
+Verify, Collect, Validate, Generate, Review, Approve, Notify, Store
+242_obj
+Verify, Collect, Validate, Generate, Review, Approve, Notify, Store
+243_verb
+Login, Navigate, Search, entering, Select, View, download, print, Mark, provide, Logout
+243_obj
+Login, Navigate, Search, entering, Select, View, download, print, Mark, Comment, provide, Logout
+244_verb
+opens, selects, retrieves, makes, saves, validates, updates, notifies, ends
+244_obj
+opens, selects, update, retrieves, makes, saves, validates, updates, notifies
+245_verb
+Retrieve, Display, Allow, Retrieve, Display, Allow, Validate, Update, Display
+245_obj
+Retrieve, Display, Allow, Retrieve, Display, Allow, Validate, Update, Display
+246_verb
+Retrieve, Display, Allow, update, Verify, save, Display, End
+246_obj
+Retrieve, Display, Allow, Verify, save, Display, End
+247_verb
+Gather, Analyze, prioritize, Design, allow, Develop, support, Implement, Test, ensure, Deploy, implemented, Monitor, Maintain, update
+247_obj
+Gather, Analyze, Design, Develop, Implement, Test, Deploy, Monitor, Maintain, Update
+248_verb
+Display, Allow, view, Enable, search, Provide, create, Allow, edit, delete, Implement, alert, Enable, subscribe, Implement, approve, reject, Provide, track
+248_obj
+Display, Allow, Enable, Provide, Allow, Implement, Enable, Implement, Provide
+249_verb
+Identify, Determine, Design, Implement, display, Develop, support, Test, Deploy
+249_obj
+Identify functionality, Determine actions, interactions, Design interface, navigation, interaction, Implement system, display information, options, Develop functionalities, support processing, storage, Test feature, usability, functionality, performance, Deploy software, use case, environment
+250_verb
+Gather Retrieve Display Allow Provide Allow Allow Allow Provide
+250_obj
+Gather, Retrieve, Display, Allow, Provide, Allow, Allow, Allow, Provide
+251_verb
+clicks, fills, submits, validates, checks, checks, creates, sends, receives, clicks, activates, receives
+251_obj
+clicks fills out submits validates checks creates sends receives clicks activates receives
+252_verb
+EnterEnterClickValidatevalidlogdisplayEnd
+252_obj
+EnterEnterClickValidatecredentialslogcredentialsdisplay
+253_verb
+Click, Search, entering, Select, Click, make, Update, Save, Display, indicate
+253_obj
+Click, Search, entering, Select, Click, make, Update, Save, Display
+254_verb
+Click, Confirm, Redirect, End, Invalidate
+254_obj
+ClickConfirmRedirectEndinvalidate
+255_verb
+selects add verifies adds updates displays continues proceeds
+255_obj
+selectsverifiesaddsupdatesdisplayscontinuesproceeds
+256_verb
+selects, adds, proceeds, enters, selects, reviews, confirms, processes, sends
+256_obj
+selects, adds, proceeds, enters, selects, reviews, confirms, processes, sends
+257_verb
+Enter, Enter, Click, Validate, display, grant, display, do, grant
+257_obj
+Enter, Enter, Click, Validate, display, grant, display, grant
+258_verb
+Click prompts click confirm click cancel logs redirects
+258_obj
+Click, prompts, Click, confirm, click, cancel, logs, redirects
+259_verb
+Gather, Validate, Check, Generate, Create, Assign, Save, Display
+259_obj
+Gather,Validate,Check,Generate,Create,Assign,Save,Display,End
+260_verb
+Select, manage, Search, be, removed, Select, Choose, remove, Confirm, Verify, be, removed, End
+260_obj
+Select, manage, Search, Select, Choose, Confirm, Verify, End
+261_verb
+Authenticate Display modify Validate update Display indicating altered
+261_obj
+Authenticate Display Allow Validate Update Display
+262_verb
+Access, Look, Click, Browse, select, Click, upload, Follow, restart, Verify
+262_obj
+Access, Look, Click, Browse, Click, Follow, restart, Verify
+263_verb
+opens, navigates, selects, locates, selects, confirms, removes, confirms, exits, saves, updates
+263_obj
+opens, navigates, selects, locates, selects, confirms, removes, confirms, exits, saves, updates
+264_verb
+Identify, be, modified, Access, Locate, Select, make, modify, Modify, Save, Test, ensure, works, roll back, make, required, Verify, are, implemented, functional
+264_obj
+Identify, Access, Locate, Select, Modify, Save, Test, Roll back, Make, Verify
+265_verb
+Connect, Log, Access, Check, Select, install, Initiate, Monitor, Verify, Test, ensure, Update, Log
+265_obj
+Connect, Log, Access, Check, Select, Initiate, Monitor, Verify, Test, Update, Log
+266_verb
+Provide, Submit, Validate, log, display, prompt
+266_obj
+username,password,credentials,username,password,account,error,message,credentials
+267_verb
+Open, Locate, Click, Confirm, Verify, checking, End
+267_obj
+Open Locate Click Confirm Verify End
+268_verb
+Open, Click, Enter, Upload, Click, add, display, confirming, added, continue, adding, repeating, choose, exit
+268_obj
+Open Click Enter Upload Click display add repeating choose
+269_verb
+Log in, Navigate, Search, Select, Click, Confirm, Verify, removed, Log out
+269_obj
+Log in, Navigate, Search, Select, Click, Confirm, Verify, Log out
+270_verb
+Access, Navigate, Search, Select, Choose, Update, Save, Verify, Log
+270_obj
+Access
+Navigate
+Search
+Select
+Choose
+Update
+Save
+Verify
+Log out
+271_verb
+Collect, Validate, Check, Generate, Create, Store, Send, Display
+271_obj
+Collect, Validate, Check, Generate, Create, Store, Send, Display, End
+272_verb
+Enter Click Enter Enter Click Verify Redirect
+272_obj
+website URLLogincustomer account usernamecustomer account passwordLogincredentialscustomer account dashboard
+273_verb
+Retrieve,Display,Allow,modify,Validate,Update,Display,Display
+273_obj
+Retrieve, Display, Allow, Validate, Update, Display, Display
+274_verb
+Click, Select, Confirm, Redirect, End, invalidate
+274_obj
+Click, Select, Confirm, Redirect, End, invalidate
+275_verb
+DisplayAllowselectAddDisplayAllowcontinueproceed
+275_obj
+Display, Allow, select, Add, Display, Allow, continue, proceed
+276_verb
+selects, adds, views, verify, proceeds, enters, selects, verifies, verifies, calculates, selects, enters, verifies, validates, generates, displays, receives
+276_obj
+selects, adds, views, proceeds, enters, selects, verifies, calculates, selects, enters, verifies, validates, generates, displays, receives
+277_verb
+Log in, Access, Select, Update, Save, Verify, Log out
+277_obj
+Log in, Access, Select, Update, Save, Verify, Log out
+278_verb
+selects retrieves displays modifies saves updates displays indicating ends
+278_obj
+selects retrieves displays modifies saves updates displays ends
+279_verb
+Collect Validate Add Update Display
+279_obj
+Collect asset information, asset information, new asset, inventory database, inventory list, confirmation message
+280_verb
+selects enters attaches submits validates assigns saves sends indicating
+280_obj
+selects, enters, attaches, submits, validates, assigns, saves, sends
+281_verb
+logs, selects, displays, selects, prompts, enters, validates, updates, notifies, logs
+281_obj
+logs logs selects displays selects prompts enters validates updates notifies logs
+282_verb
+Login, Access, Review, Approve, Enter, Submit, Notify, Log
+282_obj
+Login, Access, Review, Approve, Enter, Submit, Notify, Log
+283_verb
+selects, displays, selects, displays, selects, provides, add, remove, selects, saves, confirms, ends
+283_obj
+selectsdisplaysselectsdisplaysselectsprovidesselectssavessaveconfirms
+284_verb
+providesvalidatesfailsreturnsvalidationpromptssucceedsgrants
+284_obj
+provides validates fails prompts returns succeeds grants
+285_verb
+Verify, is, authorized, perform, Display, Prompt, input, Retrieve, Display, Allow, view, End
+285_obj
+Verify Display Prompt Retrieve Display Allow End
+286_verb
+logs navigates selects inputs generates processes generates presents has save print download choose edit delete logs
+286_obj
+logs, navigates, selects, inputs, generates, processes, generates, presents, save, print, download, choose, edit, delete, logs
+287_verb
+requests, Input, processes, generates, Save
+287_obj
+requestsinputprocessessgeneratessave
+288_verb
+selects, provides, receives, validates, validates, applies, generates, notifies, provides, download
+288_obj
+selects provides receives validates validates applies generates notifies provides
+289_verb
+Display, Allow, select, Retrieve, Display
+289_obj
+DisplayAllowRetrieveDisplay
+290_verb
+initiates requests retrieves presents selects acknowledges
+290_obj
+initiatesrequestsretrievespresentsselectsacknowledges
+291_verb
+selects chooses open close save save create edit configure checks executes displays updates prompts provides saves prompts provides opens allows prompts provides creates allows allows displays selects applies ends
+291_obj
+selects, chooses, checks, executes, displays, updates, prompts, provides, saves, prompts, provides, opens, allows, prompts, provides, creates, allows, allows, displays, selects, applies, ends
+292_verb
+Apologies, is, generate, is, have, like, provide, assist, provide, will, be, generate, based
+292_obj
+extractgenerateassistgenerateprovidebe
+293_verb
+provide, provide, generate
+293_obj
+extract
+294_verb
+provide, provide, like, provide, help
+294_obj
+provide
+295_verb
+am, is, provide, am, provide, be, help
+295_obj
+provideprovidehelp
+296_verb
+selects accesses configures configures configures sets specifies establishes
+296_obj
+selects accesses configures configures configures sets specifies establishes
+297_verb
+generate, provide, generate, implement
+297_obj
+generate, work, provide, generate, implement
+298_verb
+generate, have, provide, assist, creating
+298_obj
+cannot generate
+299_verb
+provide, base, provide, help, implement
+299_obj
+extract
+300_verb
+provide, provide, assist, designing
+300_obj
+provide, assist, designing
+301_verb
+Display, Allow, select, unselect, Provide, navigate, Enable, Implement, expand, collapse, Allow, hiding, Include, finding, Implement, find
+301_obj
+Display, Allow, Provide, Enable, Implement, Allow, Include, Implement
+302_verb
+create, provide, will, assist, providing, implement
+302_obj
+create, provide, provide, assist, providing, implement
+303_verb
+generate, provide, assist, designing
+303_obj
+unable
+304_verb
+extract, provide, specify, assist
+304_obj
+need
+305_verb
+ provided am unable design have like provide
+305_obj
+design
+306_verb
+Identify, Define, List, Include, Validate, Implement
+306_obj
+IdentifyDefineListIncludeValidateImplement
+307_verb
+generate, implement, have, provide, help, provide
+307_obj
+generate, provide, help
+308_verb
+provide, cannot provide, assist, creating
+308_obj
+provide, provide, assist, creating
+309_verb
+provide give provide be able design implement
+309_obj
+provide, design, implement
+310_verb
+provideknowingprovideassist
+310_obj
+provide, provide, assist
+311_verb
+Load, Load, Apply, generate, Display, Implement, Allow, interact, selecting, searching
+311_obj
+Load, Load, Apply, Display, Implement, Allow
+312_verb
+provide
+312_obj
+provide
+313_verb
+provide, design
+313_obj
+provide
+314_verb
+Receive, receive, pass, applies, generate
+314_obj
+Receive, apply, Receive, Pass, applies, Generate
+315_verb
+logs navigates selects starts initiates monitors selects stops terminates logs
+315_obj
+logs into the system,navigates to the diagnostic processing section,selects the option,initiates diagnostic processing activities,monitors the progress,selects the option,terminates the diagnostic processing activities,logs out of the system
+316_verb
+selects retrieves displays
+316_obj
+selects retrieves displays
+317_verb
+selects retrieves displays reviews selects retrieves displays reviews selects navigates selects
+317_obj
+selects retrieves displays reviews selects retrieves displays reviews selects navigates selects
+318_verb
+Log in, Navigate, Define, Define, Specify, Select, Modify, Save, Verify
+318_obj
+log in, navigate, define, define, specify, select, modify, save, verify
+319_verb
+Identify,Define,require,Map,Implement,verify,Verify,allowing,Restrict
+319_obj
+Identify, Define, Map, Implement, Verify, Verify, Restrict
+320_verb
+Log in, Navigate, View, Filter, search, Select, view, Update, Assign, Add, Communicate, Save, made, Close, Log out
+320_obj
+log in, navigate, view, filter, search, select, update, assign, add, communicate, save, close, log out
+321_verb
+logs selects fills selects validates sends notifies
+321_obj
+logs, selects, fills, selects, validates, sends, notifies
+322_verb
+Log in, Access, Select, View, Select, View
+322_obj
+log in, access, select, view, select, view
+323_verb
+selects retrieves displays
+323_obj
+selectsviewretrievesdisplays
+324_verb
+logs, navigates, selects, edit, makes, saves, selects, notify, sends
+324_obj
+logs, navigates, selects, makes, saves, selects, sends
+325_verb
+selects confirms deletes notifies
+325_obj
+selects confirms deletes notifies
+326_verb
+Open, Login, View, Add, Edit, Remove, Search, Sort, Filter, Select, Specify, Confirm, Update, Generate, Logout, Close
+326_obj
+Open, Login, View, Add, Edit, Remove, Search, Sort, Filter, Select, Specify, Confirm, Update, Generate, Logout, Close
+327_verb
+Login, Navigate, Enter, Click, Verify, Navigate, Select, Select, Enter, Click, Verify
+327_obj
+Login,system,Navigate,Add New Item,Enter,details,new item,name,description,price,quantity,Click,Submit,Add Item,Verify,item,system,Navigate,Supply Item to Customer,Select,customer,item,Select,newly added item,list,available items,Enter,quantity,item,Click,Supply to Customer,Submit,Verify,item,customer
+328_verb
+Log in, Navigate, Select, View, Navigate, Select, View
+328_obj
+log in, navigate, select, view, view, navigate, select, view
+329_verb
+selects need retrieves displays reviews
+329_obj
+selects retrieve display reviews
+330_verb
+logs navigates wants edit displays makes saves updates verifies is
+330_obj
+logs, navigates, selects, displays, makes, saves, updates, verifies, is completed
+331_verb
+Identify, Verify, delete, Confirm, Remove, Update, reflect
+331_obj
+Identify, Verify, Confirm, Remove, Update
+332_verb
+Log in, Navigate, View, Add, Input, Save, Edit, Update, Save, Delete, Confirm, View, Log out
+332_obj
+Log in,Navigate,View,Add,Input,Save,Edit,Update,Save,Delete,Confirm,View,Log out
+333_verb
+Log in, Navigate, Select, Enter, Save, Navigate, Start, add, storing, supplying
+333_obj
+Log in
+Navigate
+Select
+Enter
+Save
+Navigate
+Start using
+334_verb
+Log in, Navigate, View, Filter, search, Review, edit, update, add, Log out
+334_obj
+Log in, Navigate, View, Filter, search, Review, edit, update, add, Log out
+335_verb
+selects, prompts, choose, selects, retrieves, displays, view
+335_obj
+selectspromptstoselectsretrievesdisplaysview
+336_verb
+selects, displays, modifies, validates, confirms, updates, notifies
+336_obj
+selects, displays, modifies, validates, confirms, updates, notifies
+337_verb
+accesses selects prompts delete confirms deletes updates
+337_obj
+accesses selects prompts confirms deletes updates
+338_verb
+Display, Provide, Allow, make, Validate, Save, Display, indicating
+338_obj
+displayprovideallowvalidatechangesdisplayindicating
+339_verb
+Retrieve, Display, Allow, view, Provide, take, approve, reject, Update, Save, Refresh
+339_obj
+Retrieve, Display, Allow, Provide, Update, Save, Refresh
+340_verb
+selects, retrieves, displays, reviews, go, perform
+340_obj
+selectsretrievesdisplaysreviewshasperform
+341_verb
+Receive, Check, Determine, Determine, proceed, determine, Notify, provide, provide, Update, Update, End
+341_obj
+Receive, Check, Determine, Determine, Determine, Notify, Provide, Provide, Update, Update
+342_verb
+opens, locates, updates, saves, validates, displays, prompts, updates, displays
+342_obj
+opens, locates, updates, saves, validates, displays, prompts, displays, indicating
+343_verb
+opens, navigates, fills, submits, validates, saves, displays
+343_obj
+opens,navigates,fills,submits,validates,saves,displays
+344_verb
+accesses, logs, navigates, retrieves, displays, views, selects, view, logs
+344_obj
+accesses, logs, navigates, retrieves, displays, views, selects, view, logs
+345_verb
+accesses makes saves notifies reviews
+345_obj
+accessesmakeschangessavessnotifiesreviews
+346_verb
+selects confirms deletes notifies
+346_obj
+selects confirms deletes notifies
+347_verb
+Log in, Navigate, View, Select, view, edit, Edit, update, Save, Add, Enter, Save, Delete, Confirm, Verify, Logout
+347_obj
+Log in, Navigate, View, Select, View, Edit, Edit, update, Save, Add, Enter, Save, Delete, Confirm, Verify, Logout
+348_verb
+accesses, selects, displays, entering, enters, submits, validates, adds, displays, indicating, complete
+348_obj
+accesses, selects, displays, enters, submits, validates, adds, displays
+349_verb
+Log in, Navigate, Retrieve, display, stored
+349_obj
+Log in, Navigate, Retrieve, display
+350_verb
+Authenticate, Display, Allow, select, Retrieve, Display
+350_obj
+Authenticate Display Allow select Retrieve Display
+351_verb
+selects displays makes saves updates notifies
+351_obj
+selects, displays, makes, saves, updates, notifies
+352_verb
+Authenticate, Display, Allow, select, delete, Confirm, Delete, Display, indicating
+352_obj
+Authenticate Display Allow Confirm Delete Display
+353_verb
+Log in, Navigate, View, Add, Edit, Delete, Search, View, clicking, Update, Save, Log out
+353_obj
+Log in, Navigate, View, Add, Edit, Delete, Search, View, clicking, Update, Save, Log out
+354_verb
+Open
+354_obj
+Open
+355_verb
+Log in, Navigate, Click, Retrieve, display, Allow, scroll, search, filter, Ensure, includes, Provide, view, perform, Ensure, is updated, reflect, made
+355_obj
+Log in, Navigate, Click, Retrieve, display, Allow, scroll, search, filter, Ensure, Provide, view, perform, Ensure, updated
+356_verb
+selects presents selects retrieves displays reviews choose navigate exit
+356_obj
+selects, presents, selects, retrieves, displays, reviews, choose, navigate, exit
+357_verb
+selects, displays, choose, selects, presents, updates, selects, notify, displays, customize, customizes, confirms, submits, saves, sends
+357_obj
+selects, displays, selects, presents, updates, selects, displays, customizes, confirms, submits, saves, sends
+358_verb
+Log in, Navigate, Locate, Select, Confirm, Verify, Log out
+358_obj
+Log inNavigateLocateSelectConfirmVerifyLog out
+359_verb
+Display, Allow, Display, Allow, Display, Allow, Display, Allow
+359_obj
+Display, Allow, Display, Allow, Display, Allow, Display, Allow
+360_verb
+Log, Access, Choose, Create, Ensure, Save, Verify, Exit
+360_obj
+Log in, Access, Choose, Create, Ensure, Save, Verify, Exit
+361_verb
+Log in, Navigate, Select, Add, provide, Save, Repeat, Ensure, Verify, is, completed, Log out
+361_obj
+Log in, Navigate, Select, Add, providing, Save, Repeat, add, Ensure, defined, Verify, completed, Log out
+362_verb
+Log in, Navigate, Find, Select, Create, modify, Ensure, Save, Log out
+362_obj
+Log in, Navigate, Find, Select, Create, modify, Ensure, Save, Log out
+363_verb
+Display, Provide, add, remove, is, prompt, enter, Add, Provide, add, remove, is, prompt, enter, Add, Provide, remove, is, prompt, select, Remove, Display, indicating, End
+363_obj
+Display, Provide, prompt, Add, Provide, prompt, Add, Provide, prompt, Remove, Display, End
+364_verb
+Log in, Navigate, Select, Enter, Save, Select, Enter, Save, Repeat, Review, finalize, Save, Log out
+364_obj
+Log in, Navigate, Select, Enter, Save, Select, Enter, Save, Repeat, Review, Save, Log out
+365_verb
+Log in, Navigate, Select, Enter, Save, Select, Link, Enter, Save, Repeat, Review, confirm
+365_obj
+Log in, Navigate, Select, Enter, Save, Select, Link, Enter, Save, Repeat, Review, Confirm
+366_verb
+Log in, Navigate, Select, Enter, Save, Select, Enter, choose, provide, Save, Repeat, Verify, Log out
+366_obj
+Log in, Navigate, Select, Enter, Save, Select, Enter, Save, Repeat, Verify, Log out
+367_verb
+Log in, Navigate, Select, will be, customized, Add, edit, Save, made, Select, will be, customized, Add, edit, Save, made, Review, Confirm, finalize, Log out
+367_obj
+Log in,Navigate,Select,customized,Add,edit,Save,Select,customized,Add,edit,Save,Review,Confirm,finalize,Log out
+368_verb
+Login, Navigate, Select, Choose, Add, modify, Save, Select, Choose, Add, modify, Save, Logout
+368_obj
+Login, Navigate, Select, Choose, Add, modify, Save, Select, Choose, Add, modify, Save, Logout
+369_verb
+Log in, Access, Select, Choose, Add, modify, Save, Select, Choose, Add, modify, Save, Confirm
+369_obj
+Log in Access Select Choose Add modify Save Select Choose Add modify Save Confirm
+370_verb
+Log in, Access, Select, will be defined, Define, Select, will be defined, Define, Save, Verify, are reflected
+370_obj
+Log in,Access,Select,Define,Select,Define,Save,Verify
+371_verb
+selects prompts enter enters validates checks adds displays selects prompts enter enters validates checks adds displays
+371_obj
+selects, prompts, enter, enters, validates, adds, displays, selects, prompts, enter, enters, validates, adds, displays
+372_verb
+Select, Verify, proceed, notify, Provide, modify, delete, split, allow, update, prompt, removing, ask, specify, create, Allow, view, End
+372_obj
+Select, Verify, proceed, notify, Provide, modify, delete, split, allow, prompt, ask, create, Allow, End
+373_verb
+Select, Verify, display, modifying, deleting, splitting, viewing, viewing, Implement, Implement, Implement, Implement, Implement
+373_obj
+select verify is display implementing modifying deleting splitting viewing implementing modifying implementing deleting implementing splitting implementing viewing implementing viewing
+374_verb
+Display, Select, Display, Provide, modify, delete, split, chooses, allow, update, chooses, prompt, removing, chooses, allow, specify, create, Save, Provide
+374_obj
+Display, Select, Display, Provide, modify, delete, split, allow, update, prompt, removing, allow, specify, create, Save, Provide
+375_verb
+Select, Check, proceed, View, View, Modify, Delete, Split, End
+375_obj
+Select, Check, proceed, View, View, Modify, Delete, Split, End
+376_verb
+Retrieve, Calculate, Calculate, Display, Allow, Update
+376_obj
+Retrieve Calculate Calculate Display Allow Update
+377_verb
+selects, specifies, indicates, was, is, prompted, enter, saves, access, search, search, view, arrives, is, created, is, created, becomes
+377_obj
+selects, specifies, indicates, was submitted, is prompted, enter, saves, access, search, search, view, arrives, is created, becomes
+378_verb
+proceeds, checks, receives, processes, generates, creates, enters, can, be, printed, served, can, print, need, processing, can, enter, cannot, add, complete, reviews, taking
+378_obj
+proceeds, checks, receives, processes, generates, creates, enters, generate, added, printed, served, print, enter, add, complete, reviews, taking
+379_verb
+selects, proceeds, indicates, initiates, processes, generates, updates, provides
+379_obj
+selects, item, to, purchase, proceeds, to, checkout, indicates, the, intent, to, purchase, initiates, the, sale, process, using, processes, the, payment, generates, a, transaction, record, updates, the, inventory, to, reflect, the, sale, of, the, item, provides, the, customer, with, a, receipt, or, confirmation, of, the, purchase
+380_verb
+Analyze,Identify,Determine,Access,Review,modify,Submit,Customize,Provide,Ensure,run,Submit,Save,Verify
+380_obj
+Analyze, Identify, Determine, Access, Review, modify, Submit, Customize, Provide, Ensure, Submit, Save, Verify
+381_verb
+Select,Submit,Choose,Set,Choose
+381_obj
+Select, Choose, Choose
+382_verb
+selects, chooses, selects, runs, are, displayed, exits
+382_obj
+selects,chooses,selects,runs,are displayed,exits
+383_verb
+Identify run Log on Setup Register
+383_obj
+Identify,run,Log on,Setup,Register
+384_verb
+selects, selects, chooses, prompts, select, selects, validates, ensure, meets, loads, displays, confirming, has been loaded
+384_obj
+selects, submits, chooses, loads, prompts, select, selects, validates, ensures, meets, loads, displays
+385_verb
+selects displays selects loads has proceed chooses make initiates runs provides
+385_obj
+selects, displays, selects, loads, edit, proceed, chooses, make, initiates, runs, provides
+386_verb
+Display
+Provide
+view
+Allow
+access
+
+386_obj
+display provide allow
+387_verb
+selects prompt confirm removes displays
+387_obj
+selects prompts confirm confirms removes displays
+388_verb
+selects retrieves displays displays interact choose go select view
+388_obj
+selects retrieves displays displays interact choose go backselect view
+389_verb
+Select, Retrieve, derived, Display, viewing
+389_obj
+Select Retrieve Display
+390_verb
+selects, displays, selects, retrieves, displays, reviews, exits
+390_obj
+selects,displays,selects,retrieves,displays,reviews,exits
+391_verb
+Open, Search, entering, Retrieve, Check, enabled, disabled, enabled, go, disabled, enable, Save, enabled, go, enabled, disable, Save, Close
+391_obj
+Open, Search, Retrieve, Check, go, enable, Save, go, disable, Save, Close
+392_verb
+Retrieve, Apply, Display, End
+392_obj
+Retrieve list accounts system Apply parameters accounts Display list accounts End
+393_verb
+Select, update, Input, Validate, Save, Display, confirming
+393_obj
+Select Input Validate Save Display
+394_verb
+Verify, Search, Confirm, Display, Prompt, remove, Display, Log
+394_obj
+Verify, delete, Search, be deleted, Confirm, Display, deleting, Prompt, confirm, remove, be confirmed, Display, confirming, Log
+395_verb
+Access, Select, Choose, Upload, provide, Verify, Save, Preview, Confirm, Ensure, Update
+395_obj
+Access, Select, Choose, Upload, Verify, Save, Preview, Confirm, Ensure, Update
+396_verb
+Retrieve, Retrieve, Count, Compare, proceed, proceed, Display, Display
+396_obj
+Retrieve Retrieve Count Compare Display Display
+397_verb
+Select, Click, Confirm, Verify
+397_obj
+SelectClickConfirmVerify
+398_verb
+selects, enters, uploads, validates, saves, generates, displays
+398_obj
+selects, enters, uploads, validates, saves, generates, displays
+399_verb
+Select, add, Choose, associate, Upload, Enter, Set, be, displayed, Position, Save, Verify, added, displayed
+399_obj
+add, choose, upload, enter, set, position, save, verify
+400_verb
+Display, Input, Input, Input, Input, Upload, Click, save, Validate, ensure, filled, Display, saved, End
+400_obj
+Display, Input, Input, Input, Input, Upload, Click, Validate, Display
+401_verb
+selects
+prompts
+confirms
+deletes
+displays
+401_obj
+selects prompts confirms deletes displays
+402_verb
+logs in, navigates, selects, displays, makes, saves, updates, logs out
+402_obj
+logs in, navigates, selects, displays, makes, saves, updates, logs out
+403_verb
+selects retrieves displays
+403_obj
+selects retrieves displays
+404_verb
+selects retrieves generates displays
+404_obj
+selects retrieves generates displays
+405_verb
+selects displays modifiessavupdates displays
+405_obj
+selects displays modifies saves updates displays
+406_verb
+Display, Prompt, enter, Validate, Search, Display, Allow, select, Open, view
+406_obj
+Display,Prompt,enter,Validate,provided,Search,matching,Display,Allow,select,Open,view
+407_verb
+selects,displays,selects,confirms,removes,updates,is
+407_obj
+selects displays selects confirm removes updates complete
+408_verb
+Display,Prompt,enter,Validate,entered,found,prompt,enter,found,proceed,Retrieve,display,entered
+408_obj
+Display, Prompt, Validate, Prompt, Proceed, Retrieve, Display
+409_verb
+Select, Access, Modify, Validate, Save, Update, Verify
+409_obj
+select, access, modify, validate, save, update, verify
+410_verb
+selects prompts enter enters submits validates creates saves displays completes
+410_obj
+selects, prompts, enters, submits, validates, creates, saves, displays, completes
+411_verb
+navigates selects prompts enter enters verifies allows prompts enter enters requires confirm confirms entering updates displays indicating
+411_obj
+navigates, selects, prompts, enters, verifies, allows, prompts, enters, requires, confirms, updates, displays
+412_verb
+Display, requesting, enter, Retrieve, Verify, meets, display, indicating, proceed, Verify, comparing, matches, grant, display, indicating, Provide, retry, entering, Repeat, enters, chooses, exit, End
+412_obj
+display retrieve verify display proceed verify grant display provide repeat end
+413_verb
+Define, Identify, prioritize, Create, Develop, Implement, Test, ensure, Deploy
+413_obj
+requirements, functional requirements, design specifications, system architecture, software components, system, requirements, system
+414_verb
+logs, selects, enters, selects, retrieves, displays, can filter, refine, can select, can save, download, can log
+414_obj
+logs, selects, enters, selects, retrieves, displays, filter, refine, select, save, download, selects, log
+415_verb
+Verify, Check, Authenticate, Retrieve, Grant, Redirect, Allow, Log, choose
+415_obj
+Verify, Check, Authenticate, Retrieve, Grant, Redirect, Allow, Log out
+416_verb
+Display, indicating, Prompt, re-enter, Allow, make, Verify, Repeat, provided, chooses
+416_obj
+Display,Prompt,Allow,Verify,Repeat
+417_verb
+Receiveend Save Log Clear Display Close Terminate Return
+417_obj
+request data changes user system session data variables message session files connections session screen
+418_verb
+selects specifies validates uploads verifies saves associates displays confirming
+418_obj
+selects, specifies, validates, uploads, verifies, saves, associates, displays
+419_verb
+Log in, Navigate, Select, needs, Choose, edit, Click, replace, Upload, Adjust, Save, Verify, is, displayed, Log out
+419_obj
+Log, Navigate, Select, Choose, Click, Upload, Adjust, Save, Verify, Log
+420_verb
+Capture,Validate,Query,Retrieve,Filter,Sort,Display
+420_obj
+Capture, Validate, Query, Retrieve, Filter, Sort, Display
+421_verb
+selects confirms removes updates displays
+421_obj
+selects confirms removes updates displays
+422_verb
+Log, Access, Select, Remove, Add, Specify, Save, Review, Publish, Log
+422_obj
+Log, Access, Select, Remove, Add, Specify, Save, Review, Publish, Log
+423_verb
+Select, Choose, Locate, Click, Confirm, Verify
+423_obj
+Select Choose Locate Click Confirm Verify
+424_verb
+Access,Select,needs,be,associated,Click,change,Enter,Save,Verify,updated
+424_obj
+Access, Select, Click, Enter, Save, Verify
+425_verb
+Identify, Gather, Schedule, Discuss, Negotiate, Define, Ensure, Draft, Outline, Review, Ensure, Make, Obtain, Distribute, Implement
+425_obj
+Identify, Gather, Schedule, Discuss, Negotiate, Define, Draft, Outline, Review, Make, Obtain, Distribute, Implement
+426_verb
+Access, Select, Choose, Generate, Review, export, Close
+426_obj
+access select choose generate review export close
+427_verb
+navigates selects modify saves updates displays is
+427_obj
+navigates selects modify saves updates displays complete
+428_verb
+initiates, verifies, displays, selects, provides, validates, updates, notifies, confirms, logs, ends
+428_obj
+initiates, verifies, displays, selects, provides, validates, updates, notifies, confirms, logs, ends
+429_verb
+accesses selects makes saves updates displays indicating
+429_obj
+accesses, selects, makes, saves, updates, displays
+430_verb
+navigates retrieves displays scroll view select view perform choose go navigate
+430_obj
+navigates retrieves displays scroll view select view perform choose go navigate
+431_verb
+selects retrieves displays reviews
+431_obj
+selects retrieves display sreviews
+432_verb
+requests retrieves displays
+432_obj
+requests retrieves displays
+433_verb
+selects triggers validates checks inserts provides ends
+433_obj
+selects, triggers, validates, checks, inserts, provides
+434_verb
+selects, prompts, confirm, confirms, removes, displays, ends
+434_obj
+selects prompts confirms removes displays ends
+435_verb
+None
+436_verb
+selects displays makes confirm saves saves displays
+436_obj
+selects  
+displays  
+makes  
+confirms  
+saves  
+displays
+437_verb
+provide proceed designing
+437_obj
+provide, proceed, designing
+438_verb
+Open Retrieve Display End
+438_obj
+OpenRetrieveDisplayEnd
+439_verb
+selects, enters, processes, retrieves, displays, selects, displays
+439_obj
+selects,enters,processes,retrieves,displays,selects,displays
+440_verb
+Identify, need, be, viewed, Access, provides, Log, be, using, Navigate, Enter, search, locate, Select, Retrieve, display, Review, ensure, be, navigate, access, Repeat, view, be, Log, be, finished, viewing
+440_obj
+identify, access, log in, navigate, enter, select, retrieve, display, review, navigate, repeat, log out
+441_verb
+selects, prompts, select, selects, prompts, confirms, removes, displays, indicate, updates, associated, returns
+441_obj
+selects, prompts, select, prompts, confirms, removes, displays, updates, returns
+442_verb
+Identify, Verify, Generate, Update, Forward, Notify, reviews, checks, assign, ask, Update, provided, repeat, assigned, update, Notify, reviews, contacts, Collect, Coordinate, Update, Generate, Update, Provide, Execute, make, update, Generate, send, Follow, collect, Update, Close, mark
+442_obj
+request, refreshment point, request, status, request, department, staff member, convention request, request, request details, conflicts, schedule, request, staff member, conflicts, date/time preferences, refreshment point, request, preferences, steps, staff member, status, request, staff member, refreshment point, request, refreshment point, details, information, convention, date, time, number, attendees, menu preferences, point, menu, logistics, request, details, message, refreshment point, request, status, request, system, staff member, details, setup, execution, convention, convention, services, convention, status, request, system, invoice, services, point, point, feedback, convention, request, feedback, request, system
+443_verb
+selects, displays, makes, saves, validates, prompts, updates, confirms
+443_obj
+selects, displays, makes, saves, validates, prompts, updates, confirms
+444_verb
+Retrieve, Filter, Return
+444_obj
+Retrieve Filter Return
+445_verb
+selects,create,enters,validates,creates,selects,searches,retrieves,selects,disable,sets,logs
+445_obj
+selects, enters, validates, creates, selects, searches, retrieves, selects, sets, logs
+446_verb
+logs, navigates, selects, enter, edit, enters, edits, saves, reviews
+446_obj
+logs, navigates, selects, enters, edits, saves, reviews
+447_verb
+logs, navigates, selects, fills, saves, updates, logs
+447_obj
+logs navigates selects fills saves updates logs
+448_verb
+Authenticate,Access,View,Identify,Analyze
+448_obj
+Authenticate Access View Identify Analyze
+449_verb
+opens,logs,navigates,enters,verifies,displays,selects,add,remove,enters,added,selects,removed,validates,updates,notifies,addition,removal,choose,adding,removing,navigate,log
+449_obj
+opens, logs, navigates, enters, verifies, displays, selects, enters, selects, validates, updates, notifies, choose, navigate, log
+450_verb
+accesses navigates selects chooses reviews selects adds modifies saves reviews exits
+450_obj
+accesses, navigates, selects, chooses, reviews, selects, adds, modifies, saves, reviews, exits
+451_verb
+accesses selects selects retrieves analyzes checks satisfies checks satisfies exhibits exhibits displays includes
+451_obj
+accesses selects selects retrieves analyzes checks satisfies checks exhibits displays includes
+452_verb
+selects, chooses, selects, selects, generates, is, meet, displayed, includes, is, sorted
+452_obj
+selects  
+chooses  
+selects  
+selects  
+generates  
+includes  
+is sorted
+453_verb
+Log in, Navigate, Select, Fill, Save, edit, selecting, Update, Save, delete, selecting, Confirm, Log out
+453_obj
+Log in, Navigate, Select, Fill in, Save, edit, Update, Save, delete, Confirm, Log out
+454_verb
+Verify, is, Check, is, meet, send
+454_obj
+Verify, Check, meet, send
+455_verb
+selects enters saves repeat created presented reviews approves completed
+455_obj
+selects, enters, saves, repeat, created, presented, reviews, approves, completed
+456_verb
+chooses, view, provides, presents, views, obtains, minimized, Display, Display, Include, Include, Display, Sort, Display, Determine, passing, Display, Sort, Display, Display, Sort
+456_obj
+chooses, provides, presents, views, obtains, display, display, include, include, display, sort, display, determine, display, sort, display, display, sort
+457_verb
+logs navigates selects retrieves displays
+457_obj
+logs into the system navigates to the list of previous requests selects the particular patient request retrieves the comprehensive patient reportdisplays the comprehensive patient report
+458_verb
+Display Wait Store Store Store Store End
+458_obj
+Display, Wait, Store, Store, Store, Store, End
+459_verb
+selects, enters, selects, validates, validates, retrieves, matches, filters, retrieves, displays, choose, perform
+459_obj
+selects enters selects validates validates retrieves matches filters retrieves displays choose perform
+460_verb
+creates views reassigns removes adds updates views views records updates logged
+460_obj
+creates views reassigns removes adds updates views views records updates
+461_verb
+Receive, Determine, Generate, Use, send, Include, Notify
+461_obj
+Receive notification, Determine type, notification, Generate email alert message, type, notification, Use fake email utility, send, email alert, iTrust user, Include relevant information, email, Notify user, email alert, sent successfully
+462_verb
+selects retrieves displays displays clicks view sorts displayed
+462_obj
+selects, retrieves, displays, displays, clicks, view, sorts, displayed
+463_verb
+selects retrieves displays sorted selects retrieves ranked displays linked given ordered
+463_obj
+selects retrieves displays selects retrieves displays displays
+464_verb
+enters verifies is checks directs starts remains terminates request change logs closes end
+464_obj
+enters verifies checks directs starts terminates request logs closes
+465_verb
+Allow, compose, Allow, compose, Enable, reply, Allow, view, Enable, sort, Allow, modify, save, Enable, view
+465_obj
+compose compose compose reply view sort modify save view
+466_verb
+Click View Select Click view
+466_obj
+Click View Select Click
+467_verb
+selects retrieves filters filters include presents satisfy
+467_obj
+selects retrieves filters filters presents
+468_verb
+Sending, refers, receiving, views, sending, views, patient, views, sending, edits, sending, cancels, log
+468_obj
+refers views views views edits cancels Log
+469_verb
+logs, navigates, adds, entering, confirming, selects, input, enters, stored, stored, navigates, views, inputs, recorded
+469_obj
+logs, navigates, adds, entering, confirming, selects, input, enters, stored, stored, navigates, views, inputs, recorded
+470_verb
+selects prompts provide enters experienced occurred records provided prompts confirm submit confirms submits acknowledges
+470_obj
+selects, prompts, enters, records, prompts, confirms, submits, acknowledges
+471_verb
+logs, navigates, selects, selects, retrieves, displays, chooses, selects, generates, displays, logs
+471_obj
+logs navigates selects selects retrieves displays chooses selects generates displays logs
+472_verb
+opens, navigates, selects, is, selects, choosing, checks, are, proceed, are, found, displays, is, provided, proceed, cancel, chooses, proceed, completes, chooses, cancel, remains, maintains, select
+472_obj
+opens, navigates, selects, is presented, selects, checks, displays, is provided, chooses, completes, chooses, remains, maintains
+473_verb
+Log in, Navigate, Select, Enter, Enter, Add, Save, navigate, Select, Search, Confirm, Verify, Logout
+473_obj
+log, navigate, select, enter, enter, add, save, navigate, select, search, confirm, verify, logout
+474_verb
+Display, entering, editing, enters, edits, Validate, fails, display, Highlight, Allow, correct, succeeds, update, Display, Provide, add
+474_obj
+Display, enters, edits, Validate, fails, display, Highlight, Allow, correct, succeeds, update, Display, Provide
+475_verb
+Create Create Create Create Create Create Create
+475_obj
+Create
+476_verb
+Display,Display,Provide,search,search,Display,Allow,select,Provide,add
+476_obj
+Display, Display, Provide, Display, Allow, Provide
+477_verb
+Display, view, selects, allow, enter, Prompt, select, want, view, Retrieve, Display, provide, Provide, navigate
+477_obj
+Display, view, selects, allow, enter, Prompt, select, Retrieve, Display, provide, Provide, navigate
+478_verb
+logs navigates selects retrieves displays has download print logs
+478_obj
+logs, navigates, selects, retrieves, displays, has, download, print, logs

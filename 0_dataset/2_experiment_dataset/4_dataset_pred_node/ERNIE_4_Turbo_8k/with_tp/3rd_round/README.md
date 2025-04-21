@@ -1,0 +1,1 @@
+# no_seg是没有对node分step存储时的版本

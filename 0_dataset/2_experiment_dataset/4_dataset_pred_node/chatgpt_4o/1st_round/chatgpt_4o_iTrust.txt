@@ -1,0 +1,136 @@
+1_verb
+Create, Disable
+1_obj
+Create, patient, Disable, selected, S12, S2
+2_verb
+selects, enter, edit, enters, views
+2_obj
+HCP, selects, enter, edit, personal health records, option, enters, information, patient, views, entered.
+3_verb
+Select, document, office, visit, Choose, edit, patient, S1
+3_obj
+Select, option, document, office visit, Choose, edit, patient S1.
+4_verb
+Authenticate, Display, Show, Break down
+4_obj
+Authenticate, software tester, iTrust Medical Records system, UC2, Display, operational profile, Show, percentage, total transactions, transaction logging type, Break down, percentages, user types, patient, LHCP, UHCP, admin, tester.
+5_verb
+enters, selects, add, remove, registered, user, personal, health, representative, patient, MID, HCP, option
+5_obj
+HCP, MID, patient, E12, selects, option, add, remove, registered, user, personal health representative, E1
+6_verb
+Select, maintain
+6_obj
+Select, standards, list, maintain, immunizations, S1, diagnoses, S2, allowable, drugs, S3, physical, services, S4
+7_verb
+selects, analyzed, Determine, exhibits, Check, satisfies, provide, display
+7_obj
+LHCP, chronic disease, patient, Personal Health Records page, database, risk factors, Diabetes Type 1, Diabetes Type 2, Heart Disease, preconditions, warning message, display.
+8_verb
+Select, Choose, Identify, Needing, Display, Satisfying, Include, Sort
+8_obj
+Select, Office Visit Reminders, Choose, Identify, Chronic Patients, Office Visit, Older Patients, Flu Shot, Patient, Overdue, Immunization, Display, Listing, Selected Condition, Include, Patient Name, Home Phone Number, Reminder Calls, Sort, List, Alphabetically, Last Names, First Names
+9_verb
+Display, hospital, listing, maintenance, option, administrator
+9_obj
+Display, hospital, listing, maintenance, option, administrator
+10_verb
+selects, view, checks, is, associated, sent
+10_obj
+User, selects, view, prescription, reports, System, checks, LHCP, patients, DLHCP, UAP, associated, message, sent, patient, personal representative.
+11_verb
+creates, presented, approve
+11_obj
+Admin, creates, LHCP, ER, LT, PHA, UAPs, presented, detailed, confirmation, screen, approve
+12_verb
+Present, Obtain, Containing, List, Sorted
+12_obj
+patient confirmation, printable report, Name, Age, Gender, Emergency contact, phone number, Allergies, Blood type, diagnosis codes, chronic, long-term, short term, 30 days, ICD-9CM code, current prescriptions, National Drug Code, immunizations, CPT Code, most recent.
+13_verb
+enters, selects, view, retrieves, displays, requested, desired
+13_obj
+LHCP, system, option, view, comprehensive, patient, reports, specific, S1, report, retrieves, displays, list, previous, requested, desired, S2, select, view.
+14_verb
+Select, Choose, Answer, Wait, See, Satisfy, Provide, Store
+14_obj
+Select, previous office visit, Data Format 6.13.2, answer, questions, minutes, wait, waiting room, examination room, physician, satisfied, office visit, treatment, information, received, provide, answers, selected, question(s), store, survey.
+15_verb
+selects, view, results, inputs, code, retrieves, practicing, provided, matching, filters, out, displays, details, filtered, Name, Address, Average, waiting, time, room, examination, office, visit, satisfaction, treatment, information, Percentage, visits, available.
+15_obj
+User, view, physician satisfaction survey results, inputs, zip code, hospital code, selects, optional physician type, pull-down list, general, surgeon, heart specialist, pediatrician, OB/GYN, System, retrieves physicians, practicing, provided, matches, filters out, first three digits, displays, details, filtered physician, Name, Address, Average waiting time, waiting room, examination room, office visit satisfaction, treatment/information satisfaction, Percentage, visits, satisfaction information available.
+16_verb
+creates, views, reassigns, removes, adds, updates, views, records, updates, logged
+16_obj
+HCP, lab procedure, office visit, previously created, reassigns, removes, adds, commentary, pending, updates, status, completed, Patient, views, own, results, Lab Technician, priority queue, records, received, events, logged.
+17_verb
+Detect, change, request, generate, implement, send
+17_obj
+Detect, changed password, status change, laboratory procedure, request, comprehensive report generation, generate, email alert message, implement, sending email, functionality, fake email utility
+18_verb
+Retrieve, Display, Make, Clickable, View, Sort
+18_obj
+Retrieve, patients, office visits, LHCP, Display, name, address, date, last office visit, Make, clickable, view, PHR, Sort, list, descending order
+19_verb
+Select, Display, Sorted, List, Filter, Handled, Rank, Treated, Given, Ordered, Linked
+19_obj
+Select, My Diagnoses, option, Display, diagnoses, date, specific diagnosis, List, LHCPs, patients living area, zip code, Filter, handled, last three years, Rank, quantity, unique patients, treated, diagnosis, Display, each, LHCP, Name, contact information, prescriptions, given, laboratory procedures, ordered, average visit satisfaction, treatment satisfaction.
+20_verb
+enters, authenticates, directs, terminate, logs, closes, end
+20_obj
+User, enters, MID, password, system, authenticates, authenticated, direct, personalized, home page, role, terminate, inactive session, ten minutes, logs out, closes, application, end, session.
+21_verb
+Send, Reply, View, Sort, Modify, Save
+21_obj
+Send, message, LHCP, patient, personal representative, DLHCP, reply, received, view, inbox, outbox, sort, messages, modify, save, filter, including, filtered, criteria, saved.
+22_verb
+selects, presents, sorted, displays, view
+22_obj
+Patient, selects, My Expired Prescription Reports, System, presents, list, patients, expired prescriptions, sorted, start date, specific, displays, LHCP, wrote, view, contact information, displayed
+23_verb
+Select, Display, Meet, Is, Has, Will, Expire
+23_obj
+Select, Potential Prescription-Renewals, option, Display, list, patients, meet, conditions, HCP, DLHCP, patient, special, diagnosis, history, prescription, expire, within, 7 days, current date.
+24_verb
+Sending, refers, receiving, views, previously, sent, details, edits, cancels.
+24_obj
+Sending HCP, refers, patient, receiving HCP, views, list, received referrals, previously sent, details, edits, cancels.
+25_verb
+creates, adding, confirming, inputs, views, reports
+25_obj
+LHCP, UAP, list, monitored patients, adding, confirming, MID, remote monitoring, Patient, inputs, blood pressure, glucose levels, weight, height, pedometer readings, views, representative, reports, physiologic data points, day.
+26_verb
+Select, report, choose, provide, details
+26_obj
+Select, option, report, adverse event, Choose, between, prescription drug, S1, immunization, S2, Provide, details
+27_verb
+selects, requests, see, related
+27_obj
+PHA, selects, specific, time period, requests, detailed, listing, all, adverse, events, related, prescription drugs, S1, immunizations, S2, see, trends, S4, S5
+28_verb
+Select, drug, NDC, name, office, visit, documentation, Check, allergies, interactions, Choose, proceed, prescription, cancel, stay, page, override, reason, needed
+28_obj
+Select, drug, NDC, name, office, visit, documentation, Check, allergies, interactions, Choose, proceed, prescription, cancel, stay, page, override, reason, needed
+29_verb
+Record, drug, interaction, between, two, prescription, drugs, Delete
+29_obj
+Record, drug, interaction, between, two, prescription, drugs, Delete
+30_verb
+Accept, user, input, demographic, information, Validate, save, entered, edited, Display, success, failure, message, Update, form, correct, add, more
+30_obj
+Accept, user input, demographic information, Validate, save, entered, edited, Display, success, failure, message, Update, form, correct, add more.
+31_verb
+Log in, View, Edit, Delete
+31_obj
+Log in, View, Edit, Delete, event
+32_verb
+Display, Allow, Add, Select, Searching, Designated.
+32_obj
+Display, LHCPs, patient, office visit, designated, Allow, add, searching, name, specialty, Select, provider list
+33_verb
+Select, view, access, log, Choose, own, person, personal, health, representative, beginning, end, date, period
+33_obj
+Select, view, access log, choose, own, person, personal health representative, beginning, end date, period.
+34_verb
+selects, view, displays, including
+34_obj
+User, selects, option, view, medical records, System, displays, including, family history

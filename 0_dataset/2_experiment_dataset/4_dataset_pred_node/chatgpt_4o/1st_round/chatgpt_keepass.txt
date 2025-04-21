@@ -1,0 +1,56 @@
+1_verb
+Display, Provide, Prompt, Implement, Re-enter, Validate, Allow, View, Offer, Fail, Guide, Pass, Proceed, Make, Confirmed, Encrypt, Associate, Store, Indicating, Setup, Secure, Backup
+1_obj
+welcome screen, application, option, database, master password, password guidelines, field, confirmation, validations, password strength meter, error messages, metadata, confirmation message, backup, main interface, KeePass
+2_verb
+selects, open, launches, directed, navigates, locate, clicking, highlighting, confirms, clicking, prompts, enter, inputs, verifies, entered, stored, unlocks, grants, provides, allows, re-enter, unlocked, opens, presents, implement, maintain, closed, times
+2_obj
+option, database, application, interface, file explorer window, users documents directory, desired database file, database file, selection, master password, password field, prompt, stored credentials, error message, users data, interaction, session management, users access
+3_verb
+Open, Authenticate, Retrieve, Decrypt, View, Display, Organize, Create, Add, Name, Move, Manage, Initialize, Input, Save, Edit, Select, Modify, Delete, Confirm, Remove, Trigger, Update, Encrypt, Store, Close, Prompt, Set
+3_obj
+Database, User, Passwords, Entries, Groups, Subgroups, Entry, Form, Details, Changes, Operation, Intervals.
+4_verb
+Add, work, selecting, display, showing, Enable, select, aggregate, prepare, Generate, Format, Show, review, Provide, confirm, send, display, indicating, Implement, manage, provide
+4_obj
+User, Interface, Design, Option, Print, Button, Database, Data, Dialog, Dropdown, List, Entries, Backup, Password, Groups, Group, Tree, Title, Username, URL, Notes, Creation, Time, Access, Modification, Expires, Icon, UUID, Attachment, Selection, Aggregation, Report, PDF, Word, Document, Preview, Content, Execution, Option, Printer, Completion, Confirmation, Message, Process, Error, Handling, Feedback.
+5_verb
+Initialize, Create, Detect, Handle, Perform, Ensure, Connect, Retrieve, Construct, Include, Search, Use, Accommodate, Triggering, Execute, Remain, Retrieve, Aggregate, Update, Displaying, Highlight, Emphasize, Match, Allow, Take, Implement, Exceed, Navigate, Provide, Optimize, Prevent, Test, Log
+5_obj
+search, module, application, user, interface, component, field, input, keystroke, event, validation, characters, database, tables, usernames, groups, passwords, URLs, notes, titles, query, records, technique, matches, operator, character, results, categories, entries, format, parts, identification, pagination, scrolling, number, navigation, errors, feedback, performance, datasets, security, measures, access, functionality, accuracy, speed, usability, queries, metrics, analysis, optimizations
+6_verb
+Initialize, Create, store, Design, handle, prompt, Validate, check, Add, Provide, enter, update, reflect, Refresh, save, load, Implement, starts, Display, Test
+6_obj
+data structure, groups, subgroups, dictionary, tree, user interface elements, input fields, group/subgroup name, button, link, entries, action, method, parent group, selection, required fields, data types, list, tree view, persistent storage, database, file, application, state, error handling, validation errors, duplicate names, issues, error messages, functionalities
+7_verb
+Validate, Verify, Display, Allow, Prompt, Check, Ensure, Save, Provide, Reflect, Update, Send, Record, Refresh.
+7_obj
+user, system, permissions, group, subgroup, name, database, data, storage, message, metadata, notifications, members, audit log, interface, views
+8_verb
+navigates, selects, highlights, marks, clicks, prompts, confirms, verifies, ensures, deletes, updates, provides, indicating
+8_obj
+groups, subgroups, screen, group, subgroup, list, system, menu, option, dialog, deletion, permissions, success, message
+9_verb
+Display, Capture, Process, Confirm, Render, Detect, Open, Implement, Present, Allow, Initiate, Display, Interaction, Select, Edit, View, Handle
+9_obj
+groups, subgroups, user, selection, group, subgroup, file, menu, option, window, search, characters, sequences, dropdown, list, criteria, title, user name, password, URL, notes, group name, search operation, results, main window, interaction, matches, input
+10_verb
+implement, set, clicked, opens, displaying, design, include, submit, set, capture, add, verify, send, handle, display, clear, close, refresh
+10_obj
+Add Entry Button Form Window Menu Event Listener Fields Group Dropdown Text Title User Name Password Repeat URL Notes Textarea Expiration Date Picker Attachment File Upload Validation Checks Specification Submit OK Submission Data Handling Logic Verification Creation Database Back-end Service Entry Success Failure Response Message Clear Close Optional Refresh
+11_verb
+Display, Allow, select, retrieve, Open, Enable, modify, Provide, submit, validate, update, Save, Provide, confirming.
+11_obj
+list, entries, user, entry, data, form, fields, Group, Title, User Name, Password, URL, Notes, Expiration Date, Attachment File, OK button, changes, validation, information, database, data store, feedback
+12_verb
+Display, Enable, select, activate, Add, retrieve, Create, replicating, Identify, Update, Provide, Refresh, show.
+12_obj
+list, entries, user, option, entry, Duplicate Entry button, event listener, details, entry object, group, original entry, feedback, duplication process, display
+13_verb
+Retrieve, display, Allow, select, Provide, linked, Trigger, clicked, Present, Provide, Confirm, Cancel, Process, selects, Proceed, delete, Update, reflect, selects, Dismiss, making, Provide, display, confirming
+13_obj
+entries, user, entry, list, Delete Entry, confirmation dialog, warning message, options, Confirm, Cancel, database, user interface, feedback, message
+14_verb
+Add, Change, selected, display, listing, downloaded, Load, apply, Save, selects, redirect, Allow, download, Provide, Provide, Ensure, stored, Display, Provide, Conduct, Validate, Update, Ensure
+14_obj
+Interface, Design, Change, Language, option, menu, application, Language, Selection, dialog, box, list, available, downloaded, language, packs, local, storage, Language, Application, user, interface, setting, preferences, sessions, Download, Language, Pack, user, KeePass, websites, language, section, instructions, process, Automated, Language, Pack, Updates, function, directory, Error, Handling, messages, fallback, default, Testing, Validation, usability, translations, Documentation, manual, instructions, files, tooltips, users, feature.

@@ -1,0 +1,168 @@
+1
+1. Create patient S1
+2. Disable selected patient S2
+2
+1. HCP selects "Enter/edit personal health records" option.
+2. HCP enters/edit personal health information for patient.
+3. HCP views/edits the entered personal health information.
+3
+1. Select option to document office visit.
+2. Choose to document or edit an office visit for patient S1.
+4
+1. Authenticate the software tester in the iTrust Medical Records system (UC2).
+2. Display the actual operational profile of the iTrust Medical Records system.
+3. Show the percentage of total transactions for each transaction logging type.
+4. Break down the percentages by user types: patient, LHCP, UHCP, admin, tester.
+5
+1. HCP enters the MID of the patient E1
+2. HCP selects the option to add or remove a registered user as a personal health representative to patient E1
+6
+1. Select the standards list to maintain (immunizations S1, diagnoses S2, allowable drugs S3, or allowable physical services S4).
+7
+1. LHCP selects a chronic disease and a patient through the Personal Health Records page.
+2. Data in the database is analyzed based on the chosen chronic disease's risk factors.
+3. Determine if the patient exhibits one or more risk factors for the chosen chronic disease (Diabetes Type 1, Diabetes Type2, or Heart Disease).
+4. Check if the chosen patient satisfies the preconditions of the chosen chronic disease E1.
+5. If the patient exhibits three or more risk factors, provide a warning message to the LHCP.
+6. The warning message will display the risk factors that the patient exhibits.
+8
+1. Select Office Visit Reminders
+2. Choose to identify chronic patients needing office visit (S1), older patients needing flu shot (S2), or any patient overdue for immunization (S3)
+3. Display listing of patients satisfying the selected condition
+4. Include patient name and home phone number for reminder calls
+5. Sort the list alphabetically by last names, then by first names.
+9
+1. Display the hospital listing maintenance option to the administrator.
+10
+1. User selects to view prescription reports
+2. System checks if the LHCP is one of the patients DLHCP or the UAP associated with one of their DLHCP
+3. If LHCP is not associated, a message is sent to the patient and their personal representative
+11
+1. Admin creates LHCP, ER, LT, or PHA.
+2. LHCP creates UAPs.
+3. Admin or LHCP is presented with a detailed confirmation screen to approve.
+12
+Present patient confirmation E2, Obtain printable report containing: Name, Age, Gender, Emergency contact (name and phone number), Allergies, Blood type, List of all diagnosis codes (chronic/long-term and short term within last 30 days) with ICD-9CM code and name, List of all current prescriptions with National Drug Code and name, List of all immunizations with CPT Code and name (sorted by most recent first).
+13
+1. LHCP enters the system.
+2. LHCP selects the option to view comprehensive patient reports.
+3. LHCP selects the specific patient (S1) for whom the report is requested.
+4. System retrieves and displays the list of previous comprehensive reports requested by the LHCP (S3).
+5. LHCP selects the desired comprehensive patient report (S2) from the list.
+6. System displays the selected comprehensive patient report (S2) for LHCP to view.
+14
+1. Select a previous office visit based on Data Format 6.13.
+2. Choose to answer one or more of the following questions: 
+   - How many minutes did you wait in the waiting room?
+   - How many minutes did you wait in the examination room before seeing your physician?
+   - How satisfied were you with your office visit?
+   - How satisfied were you with the treatment or information you received?
+3. Provide answers to the selected question(s).
+4. Store the answers to the survey.
+15
+1. User selects to view physician satisfaction survey results.
+2. User inputs a zip code (E1) or a hospital code.
+3. User selects an optional physician type from the pull-down list (general, surgeon, heart specialist, pediatrician, OB/GYN).
+4. System retrieves physicians of the selected type practicing in the provided zip code or matching the hospital code.
+5. System filters out physicians based on the first three digits of the provided zip code.
+6. System displays the following details for each filtered physician: Name, Address, Average waiting time in waiting room, Average waiting time in examination room, Average office visit satisfaction, Average satisfaction with treatment/information, Percentage of office visits with satisfaction information available.
+16
+1. HCP creates lab procedure for office visit
+2. HCP views previously created lab procedure for office visit
+3. HCP reassigns previously created lab procedure
+4. HCP removes previously created lab procedure
+5. HCP adds commentary to pending lab procedure and updates status to completed
+6. Patient views own lab procedure results
+7. Lab Technician views priority queue of lab procedures
+8. Lab Technician records results of lab procedure
+9. Lab Technician updates status of lab procedure as received
+10. All events are logged
+17
+1. Detect a changed password or status change in laboratory procedure or request for comprehensive report generation.
+2. Generate an email alert message.
+3. Implement sending email functionality through the fake email utility.
+18
+1. Retrieve all patients with office visits by the LHCP.
+2. Display patient's name, address, and date of last office visit.
+3. Make the patient's name clickable to view PHR.
+4. Sort the list by the date of the last office visit in descending order.
+19
+1. Select "My Diagnoses" option
+2. Display all own diagnoses sorted by diagnosis date (recent first)
+3. Select a specific diagnosis
+4. List LHCPs in the patient's living area based on the first three numbers of their zip code
+5. Filter LHCPs who have handled the selected diagnosis in the last three years
+6. Rank the LHCPs by the quantity of unique patients treated for that diagnosis
+7. Display for each LHCP: Name linked to contact information, quantity of unique patients treated, list of prescriptions given, list of laboratory procedures ordered, LHCP's average visit satisfaction, LHCP's average treatment satisfaction.
+20
+1. User enters MID and password
+2. System authenticates user
+3. If authenticated, direct user to personalized home page based on role
+4. Terminate inactive session after ten minutes
+5. User logs out or closes application to end authenticated session
+21
+1. Send message from LHCP to patient/personal representative S2.
+2. Send message from patient/personal representative to DLHCP or representative S1.
+3. Reply to received message by LHCP or patient/representative S3.
+4. Reply to received message by LHCP or patient/representative S4.
+5. View message inbox or outbox by LHCP or patient/representative S5.
+6. Sort messages in inbox or outbox by LHCP or patient/representative S6.
+7. Modify and save message filter by LHCP or patient/representative S7.
+8. View message inbox including filtered criteria by LHCP or patient/representative from saved filter S5.
+22
+1. Patient selects "My Expired Prescription Reports".
+2. System presents a list of the patient's expired prescriptions (S1), sorted by start date.
+3. Patient selects a specific expired prescription in the list (S1).
+4. System displays the LHCP who wrote the selected expired prescription (S2).
+5. Patient selects to view contact information of the displayed LHCP.
+23
+1. Select "Potential Prescription-Renewals" option.
+2. Display list of patients who meet all conditions:
+   a. HCP is a DLHCP for the patient.
+   b. Patient has a special diagnosis history.
+   c. Patient's prescription will expire within 7 days from the current date.
+24
+S1: Sending HCP refers a patient to receiving HCP, S2: Receiving HCP views list of received referrals, S3: Sending HCP views list of previously sent referrals, S4: Patient views details of referrals, S5: Sending HCP edits previously sent patient referral, S6: Sending HCP cancels previously sent patient referral.
+25
+1. LHCP/UAP creates list of monitored patients by adding and confirming patients by MID for remote monitoring.
+2. Patient inputs blood pressure and/or glucose levels.
+3. Patient inputs weight, height, and/or pedometer readings.
+4. LHCP views blood pressure and glucose levels for monitored patients.
+5. LHCP views weight, height, and pedometer readings for monitored patients.
+6. UAP or patient representative inputs blood pressure, glucose levels, height, weight, or pedometer readings for a patient.
+7. Patient, UAP, or personal representative reports up to 10 physiologic data points in a day.
+8. Patient, UAP, or personal representative reports one height, weight, or pedometer data point in a day.
+26
+1. Select option to report adverse event
+2. Choose between prescription drug S1 or immunization S2
+3. Provide details of the adverse event
+27
+1. PHA selects a specific time period.
+2. PHA requests a detailed listing of all adverse events related to prescription drugs S1 or immunizations S2.
+3. -OR- PHA requests to see trends in adverse events related to prescription drugs S4 or immunizations S5.
+28
+1. Select drug NDC and name during office visit documentation.
+2. Check for allergies and interactions.
+3. Choose to proceed with the prescription or cancel and stay on the office visit page.
+4. Select override reason (if needed).
+29
+1. Record drug interaction between two prescription drugs
+2. Delete drug interaction between two prescription drugs
+30
+1. Accept user input for demographic information.
+2. Validate and save the demographic information entered or edited.
+3. Display a success or failure message to the user.
+4. Update the form for the user to correct or add more information.
+31
+Log in event (S1), View event (S2), Edit event (S3), Delete event (S4)
+32
+1. Display all LHCPs the patient has had an office visit with and those designated
+2. Allow patient to add LHCP by searching name and/or specialty
+3. Select LHCP to add to provider list
+33
+1. Select to view access log
+2. Choose to view own access log or access log for person as a personal health representative
+3. Select beginning and end date for the period to view access log
+34
+1. User selects the option to view medical records.
+2. System displays the medical records, including family history.

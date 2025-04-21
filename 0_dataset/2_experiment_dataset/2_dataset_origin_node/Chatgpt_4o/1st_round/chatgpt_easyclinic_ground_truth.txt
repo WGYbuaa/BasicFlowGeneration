@@ -1,0 +1,120 @@
+1_verb
+activates, View, enter, Inserts, Confirm, Verify, Stores, Notify
+1_obj
+operator, execution, anagrafica, input, service, Laboratory, View, mask, information, Inserts, data, laboratory, Confirm, placement, Verify, Stores, Notify, operation, success
+2_verb
+activates, View, Select, Confirm, Delete, Notify
+2_obj
+operator, execution, service, elimination, visit, list, visits, order, selection, mask, viewing, examinations, operation
+3_verb
+activates, execution, View, record, Input, registration, Confirm, Verify, inserted, Stores, confirm, elimination, Notify, concluded
+3_obj
+operator, execution, input, service, data, examination, View, mask, record, registration, Confirm, Verify, Stores, elimination, Notify, operation
+4_verb
+activates, modify, View, carried, Select, Confirm, View, Change, Confirm, Verify, updates, Notify
+4_obj
+operator, execution, service, examination, list, tests, order, selection, mask, modification, data, changes, operation
+5_verb
+activates, view, select, confirm, confirms, delete, notify
+5_obj
+operator, execution, service, elimination, examination, list, examinations, order, selection, mask, viewing, deletion, operation
+6_verb
+activates, received, View, Select, Inserts, Confirm, Verify, See, Stores, Notify
+6_obj
+operator, execution, service, booking, service1, request, visit, mask, outpatient, type, patient, motivation, data, sequence, reservations, BrValSeq, dates, reservation, operation
+7_verb
+activates, changing, View, Select, Confirm, confirms, verifies, See, updates, Notify
+7_obj
+operator, execution, service, reservation, list, patient, selection, mask, dates, sequence, BrValSeq, data, operation
+8_verb
+activates, execution, view, select, changing, confirm, verify, see, cancel, notify
+8_obj
+operator, execution, service, cancellation, Reservations1, list, reservations, patient, reservation, sequence, BrValSeq, Notify, operation
+9_verb
+activates, View, Change, Confirm, Verify, Remember, Notify
+9_obj
+operator, execution, change, Service, anagrafica, patient, View, mask, editing, Confirm, Changes, Verify, data, Remember, updates, Notify, operation, success
+10_verb
+View, Inserts, Confirm, Verify, Build, assigns, See
+10_obj
+mask, input, information, data, anagrafica, Patient, operator, Hospital Card, BrCreCar10, visit
+11_verb
+activates, execution, access, view
+11_obj
+operator, execution, service, access, section, patient1, patient2, view, mask
+12_verb
+activates, changing, View, Select, Confirm, editing, Verify, updates, Notify
+12_obj
+operator, service, changing, anagrafica, laboratory, list, laboratories, SIO2, mask, editing, data, updates, notify, operation, success
+13_verb
+active, enforcement, input, Confirm, Verify, Get, Transfer
+13_obj
+Operator, enforcement, specific, patient1, mask, validation, patient2, code, hospital, Card3, validation, code, tax, identify, patient, SIO5, information6, data, memory
+14_verb
+activates, access, retrieves, view
+14_obj
+patient, execution, service, clinic folder1, database, information, clinic folder2, details, list, visits, chronological order, pathology
+15_verb
+activates, displaying, Access, retrieves, View
+15_obj
+patient, service, reservations, database, information, reservation, list, bookings, order
+16_verb
+activates, display, access, retrieves, view
+16_obj
+patient, execution, service, anagrafica, data1, database, information, data2, anagrafiche
+17_verb
+access, displaced, valid, find, Transfer, View
+17_obj
+Patient, locations, outpatient, patient, information, data, memory, root, mask, box, tower
+18_verb
+access, view, input, confirm, verify, identifies
+18_obj
+Patient, Box Tower, mask, login operation, code, Hospital Card PIN, validation, couple, identifies, SIO
+19_verb
+activates, view, viewing, select, confirm, access, found, view, obtained
+19_obj
+operator, execution, service, report, reservation, mask, time, gap, type, information, summary, selection, database, training
+20_verb
+activates, execution, view, viewing, select, confirm, access, found, obtained
+20_obj
+operator, execution, service, record, visits, mask, reporting, time, gap, type, information, summary, selection, database, training, view
+21_verb
+activates, execution, view, viewing, select, confirm, access, found, view, obtained
+21_obj
+operator, execution, reporting, service, examinations, mask, viewing, storm, selection, database, training, information
+22_verb
+activates, calculating, view, see, start
+22_obj
+operator, execution, service, time, mask, result, calculation, estimation, average, request, reservations, function, results
+23_verb
+activates, execution, elimination, View, Select, Confirm, eliminate, Confirm, delete, Notify
+23_obj
+operator, execution, elimination, anagrafica, laboratory, list, laboratories, SIO, mask, delete, data, operation, success
+24_verb
+activates, view, print, Select, Enable, Access, found
+24_obj
+operator, execution, service, plans, reservations1, mask, reservations2, type, visit3, database, training, information
+25_verb
+View, Insert, Confirm, Verify, Store, Notify, Display, Take, Underpinned
+25_obj
+mask, input, information, data, doctor, anagrafica, operator, message, fields, form
+26_verb
+activates, View, Select, Confirm, View, Changing, Confirm, Verify, Remember, Notify
+26_obj
+operator, execution, Chanching service, doctor, anagrafica, anagrafica1, list, doctors, SIO, selection, mask, data, updates, operation
+27_verb
+activates, execution, delete, view, select, changing, confirm, notify
+27_obj
+operator, execution, delete, register, service, laboratory, list, laboratories, SIO, doctor, anagrafica, selection, mask, data, operation, success
+28_verb
+tries, log, View, Inserts, Confirm, verify, identify, allows
+28_obj
+operator, system, mask, validation, login, password, data, SIO, access
+29_verb
+activates, view, inputs, confirm, verify, stores, notify
+29_obj
+operator, execution, registration, service, visit1, mask, record, visit2, data, visit3, input, verification, stores, notification
+30_verb
+activates, editing, View, Select, Confirm, View, Changing, Verify, Remember, Notify
+30_obj
+operator, execution, service, visit, list, visits, order, selection, mask, modification, data, changes, updates, operation

@@ -1,0 +1,1 @@
+As described in the paper, industrial datasets do not require upfront semantic information processing.

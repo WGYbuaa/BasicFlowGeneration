@@ -1,0 +1,776 @@
+1_verb
+clicks, initiate, prompts, fill, enters, validates, creates, displays
+1_obj
+Customer, button, link, registration process, first name, last name, billing address, shipping address, email address, password, fields, information, account, session cookie, home page.
+2_verb
+clicks, initiate, prompts, verifies, creates, displays
+2_obj
+Customer, button, link, login process, email, password, information, session cookie, account, home page.
+3_verb
+clicks, initiate, edit, displays, verify, stores
+3_obj
+Customer, button, link, process, edit, account, home page, details, system, verify, changes, store, new, information.
+4_verb
+clicks, initiate, terminate, displays
+4_obj
+Customer, button, link, logout, process, System, session, cookie, home page.
+5_verb
+clicks, add, prompts, edit, remove, confirms, stores, returns
+5_obj
+Customer, button, link, cart, quantity, item, system, edit, remove, confirm, cookie, details, product listings.
+6_verb
+clicks, calculate, appends, presents, confirms, stores, sends
+6_obj
+Customer, button, link, checkout process, system, order, items, shopping cart, cookie, flag, account details, payment methods, confirmation, email
+7_verb
+clicks, initiate, prompts, verifies, creates, displays
+7_obj
+Administrator, button, link, login, process, email, password, information, session cookie, account, home page
+8_verb
+clicks, initiate, terminates, displays
+8_obj
+Administrator, button, link, logout process, System, session cookie, home page.
+9_verb
+clicks, initiate, prompts, fill, validates, creates, displays
+9_obj
+Administrator, button, link, Add user process, first name, last name, username, email address, password, privileges, user, information, account, home page.
+10_verb
+clicks initiate prompts select searching viewing displays confirms deletion displays
+10_obj
+Administrator, button, link, initiate, remove, user, process, System, prompts, select, searching, viewing, list, users, information, confirms, deletion, selected, account, home page.
+11_verb
+clicks, initiate, prompts, select, searching, viewing, displays, alters
+11_obj
+Administrator, button, link, change, user, properties, process, System, prompts, select, searching, viewing, list, users, information, alters, account, home page.
+12_verb
+clicks, initiate, prompts, upload, installs, validates, changes, displays
+12_obj
+Administrator, button, link, Plug-in, installation, process, System, prompts, upload, module, installs, validates, changes, displays, options
+13_verb
+clicks, initiate, prompts, select, removes, validates
+13_obj
+Administrator, button, link, initiate, Plug-in deletion process, System, prompts, select, desired, module, removes, validates, changes.
+14_verb
+clicks, initiate, prompts, select, displays, confirms
+14_obj
+Administrator, button, link, Plug-in Options process, System, prompts, select, desired, Plug-in module, displays, plug-in options, confirms, changes
+15_verb
+clicks, initiate, prompts, upload, installs, reinitializes, confirms
+15_obj
+Administrator, button, link, Patching process, System, prompts, upload, patch, installs, reinitializes, software, confirms, successfully installed.
+16_verb
+clicks, initiate, prompts, verifies, creates, displays
+16_obj
+Sales Person, button, link, login process, System, email, password, information, session cookie, account home page
+17_verb
+clicks, initiate, terminates, displays
+17_obj
+Sales Person, button, link, logout process, System, terminates, session cookie, displays, home page
+18_verb
+clicks, initiate, prompts, fill, upload, validates, creates, displays
+18_obj
+Sales Person, button, link, Add Product process, System, Sales Person, product name, product id, product description, product price, product image, inventory, availability, product information, product page, newly created, displays
+19_verb
+clicks, initiate, prompts, select, searching, viewing, validates, removes, displays, created
+19_obj
+Sales Person, button, link, Remove Product process, System, prompts, select, product, searching, viewing, list, validates, information, removes, page, displays, newly created.
+20_verb
+clicks, initiate, prompts, select, searching, viewing, displays, allows, update, validates, updates
+20_obj
+Sales Person, button, link, process, System, Sales Person, product, search, list, attributes, update, name, id, description, price, image, availability, number, items, inventory, validates, information, updates, page, newly.
+21_verb
+clicks, initiate, prompts, fill, enters, validates, creates, displays
+21_obj
+Customer, button, link, registration process, first name, last name, billing address, shipping address, email address, password, fields, information, account, session cookie, home page.
+22_verb
+clicks, initiate, prompts, verifies, creates, displays
+22_obj
+Customer, button, link, login process, system, email, password, information, session cookie, account, home page.
+23_verb
+clicks, initiate, edit, displays, verifies, stores
+23_obj
+Customer, button, link, process, edit, account, home page, details, System, verifies, changes, stores, new, information
+24_verb
+clicks, initiate, terminates, displays
+24_obj
+Customer, button, link, logout process, System, terminates, session cookie, displays, home page
+25_verb
+clicks, add, adds, prompt, edit, remove, confirms, stores, returns
+25_obj
+Customer, button, link, cart, quantity, items, prompt, edit, remove, confirm, details, cookie, product, listings
+26_verb
+clicks, initiate, calculates, appends, presents, confirms, stores, sends
+26_obj
+Customer, button, link, checkout process, system, order, items, shopping cart, cookie, flag, account details, payment methods, confirmation, email
+27_verb
+Begins, searching, Edit, modify
+27_obj
+Use case, Inventory Admin, searching, asset, Edit, modify, properties
+28_verb
+Use, begins, start, searching, Edit
+28_obj
+Use case, Inventory Admin, searching, asset, Edit
+29_verb
+begins, start, select, fill
+29_obj
+Administrator, asset, type, location, owner, properties.
+30_verb
+select, type, specifying, click, submit
+30_obj
+User, select, basic, request, form, type, small, text, specifying, assets, location, click, submit
+31_verb
+Use, begin, start, returning, select
+31_obj
+Use case, Inventory Admin, start, returning, select, asset state, available
+32_verb
+display, select, approve, confirmed, send
+32_obj
+Use case, Inventory Admin, pending request list, System, requests, privileges, approve, confirmed, send notes, users
+33_verb
+begins, press, select, modify
+33_obj
+Administrator, use case, change, permission, select, user, modify, permissions
+34_verb
+begins, write, press, authenticated, log
+34_obj
+Use case, user, application, user name, password, login, authenticated, main page
+35_verb
+start, fill, search, press, submit, display
+35_obj
+Use case, object words, User, start, fill, searching field, Press, submit, Search results, displayed.
+36_verb
+click, displayed, filtered, sorted
+36_obj
+Use case, User, click, report type, General report, displayed, Report, filtered, Fields, sorted
+37_verb
+selects, parse, compares, sends, start, writes
+37_obj
+User, option, parse, transformation, language, program, currently, open, application, ALT, file, tlp, Refer, Use Case, HATS-GUI, time stamps, lexical specification, grammar files, parser, youngest, three, sends, message, Host OS, start, ParseTarget, ParseProgram, names, target, output, input, writes, end.
+38_verb
+selects, execute, compares, clears, sends, start, redirects, collects, writes, contains, handle, End
+38_obj
+User, selects, option, execute, transformation, language, program, currently, selected, application, file, Refer, Use Case 4, ALT, HATS-GUI, compares, time stamp, lexical, specification, grammar, parser, younger, compares, parsed, user-defined, library, clears, displays, standard error, output, sends, message, Host OS, start, ApplyTransformations, names, redirects, streams, process, collects, data, written, later display, HATS-SML, ApplyTransformation, writes, SDTs, files, named, references, input, output, handles, ApplyTransformaion, End.
+39_verb
+requests, returns, displays, selects, sets
+39_obj
+System, Host OS, list, applications, current directory, files, display, user, selects, application, current application, use case.
+40_verb
+requests, returns, displays, selects, sets, End
+40_obj
+System, Host OS, file, directory, list, display, user, select, current file, use case
+41_verb
+selects, close, asks, confirms, close, checks, saved, sets, none, end
+41_obj
+User, selects, option, close, currently, selected, application, System, asks, confirmation, confirms, ALT, checks, changes, configuration, saved, sets, none, End, use case.
+42_verb
+selects, save, requests, save, saves, informs
+42_obj
+User, selects, option, save, currently, selected, application, System, requests, Host OS, configuration, file, saves, non-volatile storage, ALT, informs, saved, End, use case, Software Requirements Specification.
+43_verb
+selects, save, requests, enters, selects, confirms, requests, create, creates, copy, copies, informs
+43_obj
+user, save, application, directory name, system, requests, name, open, enters, selects, unique, host OS, create, new directory, confirmation, copy, core files, configuration files, .tlp files, inform, saved, end
+44_verb
+selects, edit, checks, determine, associates, sends, start, passes, initiates, puts, end
+44_obj
+User, option, edit, file, application, Use Case, System, checks, determine, editor, associated, configuration, explicitly, associates, type, ALT, HATS-GUI, sends, message, Host OS, start, preferred, new, process, passes, name, initiates, puts, argument, End.
+45_verb
+selects, create, Close, Refer, asks, enter, requests, create, informs, End
+45_obj
+User, option, create, application, close, existing, selected, system, asks, enter, name, location, new, enters, requests, Host OS, informs, created, End, use case.
+46_verb
+selects, configure, prompts, enters, saves
+46_obj
+User, option, configure, editor, system, prompt, name, configuration, information, sufficient, start, Host OS, enter, parameter, ALT 1, save, application, end, use case.
+47_verb
+selects, configure, displays, given, types, containing, supported, sets
+47_obj
+User, option, configure, colors, shapes, graphical representation, SDT, system, list, types, displayed nodes, current, configured, given, Table 4.3, type, node, select, supported, sets, selected values, color, shape, end, use case.
+48_verb
+selects, configure, asks, enter, selects, expand, entered, sets, end
+48_obj
+User, option, configure, default, number, levels, expand, response, single, mouse click, System, asks, enter, select, natural, selected, sets, default, End, use case.
+49_verb
+selects, associate, displays, refer, End, initiate, request
+49_obj
+User, selects, option, associate, file, types, editors, System, displays, list, configured, User, selects, type, editor, System, associates, selected, When, user, tries, edit, request, Host OS, initiate, process, associated, End, use case.
+50_verb
+selects, save, saves, end
+50_obj
+User, configuration, system, application, use case.
+51_verb
+selects, view, manipulate, display, contains, displays, labels, presented, facilitate, respond, dragging, pressing, shifting, respond, displayed, drawn, necessary, see, remaining
+51_obj
+User, option, view, manipulate, graphical representation, SDT, system, display, on-screen work area, elements, window, displayed graph, text window, labels, leaf nodes, currently displayed, scroll bars, facilitate scrolling, respond, dragging, scroll buttons, pressing, arrow keys, shifting, appropriate direction, large, separate, small, compressed view, entire, drawn, nodes, structure, high-level, small box, locator box, main, remaining, scenarios.
+52_verb
+selects, described, be, clicking, pressing, moved, drawing, holding, selecting, is, highlighted, finds, corresponding, portion, displaying, find, highlight, displaying, find, highlight, displayed, will, find
+52_obj
+User, selects, nodes, displayed, selection, methods, single, mouse, click, keyboard, cursor, enter, key, tab, several, drawing, box, desired, holding, shift, individual, set, operations, unselected, system, highlights, smallest, well-formed, tree, leaf, text, portion, pretty-printed, SDT, highlighted, window, End, use case.
+53_verb
+clicks, determines, redraws, updates
+53_obj
+user, mouse, navigation window, SDT display, system, node, displayed graph, mouse cursor, center, main display, locator box, end, use case
+54_verb
+points, clicks, displays, expanding, given, exist, displayed, changes, indicate
+54_obj
+User, mouse cursor, node, left mouse button, system, tree, descendants, graph, levels, application configuration, chosen, shape, color, selected node, expanded node, use case.
+55_verb
+points, clicks, removes, changes, indicate
+55_obj
+User, mouse cursor, node, left mouse button, descendants, displayed graph, shape, color, selected node, application configuration, collapsed node, use case.
+56_verb
+selects, hide, removes, changes, indicate, End
+56_obj
+User, nodes, option, system, graph, types, screen, hidden, end
+57_verb
+selects, search, asks, enters, finds, creates, highlighted, match, displayed, corresponding, highlighted, displayed
+57_obj
+User, option, search, SDT, sub-tree, system, criteria, nodes, appendix, E.3, enters, finds, matching, first, keyboard, cursor, location, ALT 1, creates, displayed, graph, highlighted, pretty-printed text, corresponding, end, use case.
+58_verb
+selects, repeat, search, finds, starting, creates, displayed, matching, highlight, match, are displayed, corresponding, highlighted, End of use case.
+58_obj
+User, option, search, SDT, sub-tree, System, matching, keyboard, cursor, location, Software Requirements Specification, displayed, graph, criteria, nodes, highlighted, Pretty-printed text, highlighted, use case.
+59_verb
+displays, selects, highlights, copy, puts
+59_obj
+System, text, leaf nodes, graph, window, User, portion, highlights, selected, option, copy, Minimally, Ctrl-Insert, key combination, Host OS, paste buffer, End, use case.
+60_verb
+selects, refresh, disposes, reads, displays, generated, contains
+60_obj
+user, option, refresh, display, SDT, system, dispose, currently, read, file, newly, generated, contains, approximately, number, nodes, previously, End, use case
+61_verb
+selects, view, manipulate, displays, contains, facilitate, scrolling, respond, dragging, pressing, shifting, manipulate
+61_obj
+User, object, option, text, transformation, Use Case 4.3, System, work window, area, display, window, information, scroll bars, scrolling, dragging, scroll buttons, arrow keys, display, direction, scenarios, end
+62_verb
+selects, described, be, clicking, dragging, moving, unselected, highlights, displayed, finds, corresponding, end
+62_obj
+User, selects, portion, displayed, pretty-printed text, Text selection methods, described, here, area, clicking, dragging, mouse, selected, holding, shift key, moving, keyboard cursor, arrow keys, previously, unselected, System, highlights, both, graphical representation, SDT, finds, corresponding, nodes, End, use case.
+63_verb
+selects, search, asks, enters, selects, finds, highlights, match, displayed, finds, highlights, corresponds
+63_obj
+User, option, search, pretty-printed text, desired text, system, asks, criteria, Appendix F, enters, selects, finds, portions, match, highlights, ALT 1.5, graphical representation, SDT, displayed, corresponding, nodes, selected, End, use case
+64_verb
+selects, pretty-print, associated, prompts, verifies, exists, becomes, sends, start, applies, writes, terminates.
+64_obj
+User, option, pretty-print, target, application, SDT, Refer, Use Case, ALT, style file, associated, HATS-GUI, prompts, generates, file name, appending, .txt, root name, verifies, exists, current directory, output file, Host OS, start, program, sends, message, target SDT file, command line arguments, HATS-SML, applies, writes, output, specified, command line, terminates, End.
+65_verb
+launches, displays, starts, selecting, Include, requests, confirmatory, confirms, desire, processing, displays, active, responds, remains, authenticated, secures, selecting, returns, elapses, secure, revert
+65_obj
+user, tool, icon, application, splash screen, developing, sponsoring organizations, copyright information, main window, diagnostic processing, menu item, Start Diagnostics, Status, Authenticate User, privilege, administrator, confirmatory response, desire, processing, animated indication, active, confirmation, authenticated, secure, Logout, File, current user, general user, period, minutes, revert.
+66_verb
+displays, listing, selects, tiled
+66_obj
+tool, main initial window, buildings, diagnosis, user, building of interest, subsystems window, subsystem, condition window, diagnostic, diagnostic information window
+67_verb
+clicks, displays, depicting, provides, scrolling, extends, Sliding, change, displayed, adding, dropping, close, dismisses.
+67_obj
+user, clicks, History, button, tool, displays, diagnostic, window, depicting, historical, results, selected, condition, interest, default, viewing, period, form, color, map, provides, scroll, bar, scrolling, data, available, backward, one, week, prior, current, date, sliding, change, displayed, time, resolution, one, hour, slides, forward, view, previous, up, current, results, adding, beginning, ending, dropping, opposite, close, Close, dismisses, information, makes, current.
+68_verb
+select, authenticate, include, display, click, read, populate, make, save, close, request, enter, cancel, confirm, relay, dismiss, ignore, return, reject
+68_obj
+main window, user, configure diagnostics, file, authenticate, administrator, privilege, tool, configuration, recall, read, saved changes, disk file, database, data, save, close, confirmation, name, disk file, modified data, permanent storage, cancel, operation, relayed, diagnostic processing, immediate use, processing, active, potential loss, dismiss
+69_verb
+displays, validate, establish, enters, attempts, authenticate, indicates, succeeded, unsuccessful, returned, reenter, permits, dismissing, cancel, return
+69_obj
+tool, window, authenticating information, user name, password, privileges, user, attempts, authentication, unsuccessful, reenter, dismiss, cancel, process, previous window
+70_verb
+press, use, manage
+70_obj
+coordinator, object, press, manage, requests, function
+71_verb
+press, fills, send
+71_obj
+coordinator, object, press, add, request, fill, form, send, supplier
+72_verb
+press, view
+72_obj
+coordinator, press, view, requests, list
+73_verb
+press, view, views
+73_obj
+coordinator, press, view, request, details
+74_verb
+press, modifies, send
+74_obj
+coordinator, object, Edit Request, modify, request information, send, notification, supplier
+75_verb
+press, show, processing, delete, send
+75_obj
+coordinator, delete, request, information, show, processing, deleting, notification, supplier
+76_verb
+press, use, manage
+76_obj
+coordinator, object, manage, items, function
+77_verb
+press, fills, save.
+77_obj
+coordinator, press, Add Item, fills, item form, save
+78_verb
+press, view
+78_obj
+coordinator, press, View Items, view, list of Items
+79_verb
+press, view
+79_obj
+coordinator, press, view, item, details
+80_verb
+press, modifies, send
+80_obj
+coordinator, object, Edit Item, modifies, item information, send, notification, supplier, customer
+81_verb
+press, show, processing, deleting
+81_obj
+coordinator, item, show, delete, processing
+82_verb
+press, use, manage
+82_obj
+coordinator, manage, resources, locations, function
+83_verb
+press, fills, save
+83_obj
+coordinator, press, Add Location, fills, location form, save
+84_verb
+press, view
+84_obj
+coordinator, press, view, locations, list
+85_verb
+press, view
+85_obj
+coordinator, press, view, location, details
+86_verb
+press, modifies
+86_obj
+coordinator, press, Edit, Location, modify, information
+87_verb
+press, show, processing, deleting
+87_obj
+coordinator, location, press, Delete, information, show, processing.
+88_verb
+clicks, make, changes, clicks, submit, saved, returned
+88_obj
+clicks, link, edit, profile, changes, submit, values, saved, main menu
+89_verb
+clicks, view, listed
+89_obj
+clicks, proper, link, view, supply requests, list, pending, requests.
+90_verb
+clicks, view, listed, display
+90_obj
+clicks, proper, link, view, supply, requests, list, pending, display, details
+91_verb
+input, submits, displayed
+91_obj
+input, feedback, submit, success, error, message, display
+92_verb
+clicks, edit, makes, clicks, submit, saved, returned
+92_obj
+clicks, link, edit, profile, changes, submit, values, saved, returned, main menu.
+93_verb
+press, fills, send
+93_obj
+Customer, object, Request, form, Coordinator.
+94_verb
+press, view
+94_obj
+Customer, press, view, requests, list
+95_verb
+press, modifies, sent
+95_obj
+Customer, Edit Request, modifies, request information, notification, Coordinator
+96_verb
+press, show, processing, deleting, send
+96_obj
+Customer, press, Delete Request, information, request, show, Delete, processing, sending, notification, supplier
+97_verb
+press, use, manage
+97_obj
+coordinator, press, Manage, Customers, use, function, manage, all
+98_verb
+press, fills, send
+98_obj
+coordinator, object words, press, Add Customer, fills, new customer form, send, customer, supplier
+99_verb
+press, view
+99_obj
+coordinator, press, view, customers, list
+100_verb
+press, view
+100_obj
+coordinator, object, press, View, Customer Details, views, details, customer
+101_verb
+press, modifies, send
+101_obj
+coordinator, Edit Customer, modifies, request information, send, notification, customer
+102_verb
+press, show, processing, deleting, send
+102_obj
+coordinator, customer, information, notification, option, delete, press, processing, show
+103_verb
+press, use, manage
+103_obj
+coordinator, press, manage, suppliers, function
+104_verb
+press, fills, send
+104_obj
+coordinator, press, Add Supplier, fills, new, form, send, Supplier
+105_verb
+press, view
+105_obj
+coordinator, press, view, suppliers, list
+106_verb
+press, view
+106_obj
+coordinator, press, View, Supplier, Details, views
+107_verb
+press, modifies, send
+107_obj
+coordinator, Supplier, Edit, modify, information, notification, send
+108_verb
+press, show, Press, processing, deleting, send.
+108_obj
+coordinator, press, delete, supplier, information, customer, show, processing, deleting, notification, option
+109_verb
+accesses, displays, clicks, contains, categories, leaf, displays, clicks, displays, clicks, displays, lis, clicks, displays, category, clicks, displays, under, happens.
+109_obj
+User, main inventory screen, departments, cell, categories, sub-categories, leaf category, Unique Item, items, Stock Item, Under $5.
+110_verb
+accesses, displays, clicks, enters, validates, adds, taken
+110_obj
+User, main inventory screen, Add Department button, clicks, enters, Department data, validates, adds, new Department, inventory, taken, back.
+111_verb
+navigates, see, displays, clicks, edits, validates, updates, is taken
+111_obj
+User, Department, View, Inventory, System, Edit, Button, Data, Validate, Update, Information, Screen
+112_verb
+navigates, see, displays, clicks, validates, removes, taken
+112_obj
+User, Department, View Inventory, Edit Department, Delete Department, System, data, deletion, inventory, main screen.
+113_verb
+navigates, see, displays, clicks, enters, validates, adds, taken, back
+113_obj
+User, Department, Category, Inventory, Add, Button, Unique, Item, Stock, Screen, Type, Data, Validate, New, Parent.
+114_verb
+navigates, displays, clicks, edits, validates, updates, taken
+114_obj
+User, Category, View, Inventory, System, Edit, Button, Screen, Type, Unique, Item, Stock, Data, Validate, Update, Information, Take, Back.
+115_verb
+navigates, see, displays, clicks, deletes, validates, removes, taken
+115_obj
+User, Category, View, Inventory, System, Edit, Button, Screen, Type, Unique, Item, Stock, Delete, Validates, Deletion, Removes, Parent, Department
+116_verb
+navigates, see, displays, clicks, selects, choose, create, hold, move, make, merge, add, validates, enters, taken
+116_obj
+User, Department, Category, View Inventory, Move, Button, Screen, Select, Target, Location, Categorized, Inventory, Existing, Create, New, Hold, Parent, Data, Type, Perform, Children, Merge, Contents, Items, Add, Validate, Entered, Data, Validate, Back, Parent.
+117_verb
+accesses, displays, clicks, filters, view, clicks, taken.
+117_obj
+User, main inventory screen, System, Edit Attributes button, Edit Attributes screen, existing item attributes, attribute x department assignments, filter, view, attribute status, active, inactive, all, Done button.
+118_verb
+accesses, displays, clicks, displays, displays, filters, view, clicks, taken
+118_obj
+User, main inventory screen, system, Edit Details button, Edit Details screen, existing item details, department, category assignments, view, detail status, active, inactive, all, Done button.
+119_verb
+accesses, displays, clicks, filters, edits, changes, creates, validates, updates, taken
+119_obj
+User, accesses, main inventory screen, System, displays, Edit Attributes button, Edit Attributes screen, existing item attributes, attribute, department assignments, Optionally, filters, view, status, active, inactive, all, edits, changes, data, active, inactive, status, creates, new, validates, updates, Item Attribute information, Done button, taken back
+120_verb
+accesses, displays, clicks, filters, edits, changes, creates, validates, updates, taken
+120_obj
+User, main inventory screen, Edit Details button, Edit Details screen, existing item details, department, category assignments, filters view, detail status, active, inactive, all, edits details, changes, data, active, inactive status, creates new detail, validates, updates, Item detail information, Done button.
+121_verb
+accesses, displays, see, drills, presented, displayed, clicks, fills, confirms, addition, updates, gives, printing, prints, attaches
+121_obj
+User, main inventory screen, departments, matrix format, View Inventory, category, item, donation processing mode, entry screen, inventory management mode, existing inventory items, Add Item button, item entry screen, item information, addition, inventory, updated, system, printing, item tag, unique, stock items, attaches.
+122_verb
+accesses, displays, select, edit, move, drills, see, view, presented, modifies, validates, updates, gives, re-prints, attaches
+122_obj
+User, inventory, screen, departments, matrix format, select, edit, move, existing, item, view, detail, information, modify, validate, updated, system, validate, re-printing, tag, attaches
+123_verb
+accesses, displays, drills, see, presented, changes, displays, specify, validates, updated
+123_obj
+User, inventory, screen, departments, matrix, item, quantity, confirmation, adjustment, reason, system, validation, information, update.
+124_verb
+accesses, displays, drills, see, presented, clicks, displays, builds, clone, add, selects, confirms, validates, updated, maintaining
+124_obj
+User, main inventory screen, departments, matrix format, existing inventory item, View Inventory, detail screen, Split Item button, Item Split screen, list, original item, clone, attributes, categories, Stock, confirm, validate, updated, parental history.
+125_verb
+accesses, displays, drills, see, presented, clicks, displays
+125_obj
+User, main inventory screen, inventory departments, matrix format, desired existing inventory item, View Inventory, item detail screen, Item History button, Item History screen, current information, historical information, inventory item
+126_verb
+accesses, see, manage, shows, based, modifies, makes
+126_obj
+User, inventory entry screen, Add Item to Inventory, Manage Inventory Items, System, price recommendations, current item data, default price suggestion configuration options, modifies, new price suggestions.
+127_verb
+accesses, displays, filter, changing, clicks, display
+127_obj
+User, acquisitions, screen, list, latest, top, filter, filtering options, record, system, details, expected items
+128_verb
+arrives, locates, displays, enters, added, cloning, clicking, removed, sets, prints, writes, given, prints, attaches, closes
+128_obj
+Donor, Primary Contact, receiving dock, donation number, Receiving Associate, donation request, View Acquisitions, system, donation information, donated item, Add Item to Inventory, new item, cloning, Add Item button, removed item, received quantity, prints donation receipt, writes information, receipt, condition, donation receipt, item tags, unique items, stock items, attaches printed tags, closes donation request
+129_verb
+arrives, scans, processes, updates, reflects
+129_obj
+Buyer, cashier, checkout desk, items, sales associate, item tags, QuickBooks POS, system, inventory, sale.
+130_verb
+chooses, Set up, run, decides, defines, determines, creates, applies, supplies, specifies, write, choose, receive, start, end, termination, provides, given, run, save, submit, go, through, action, sequence, save, submits
+130_obj
+User, Set up, Weather, FDDA, Job, Cluster, Model, MM5, WRF, JOBID, Domains, TERRAIN, Cycle, Case study, Re-run, Job specific information, Restart files, Sigma-level configurations, Nodes, Email notification, IC/BC data sources, ETA, AVNFTP, GFS, Custom, Pre-processor, Pre-processors, LDAS, Obs data sources, WMO, SAMS, MADIS, GTS, MM5-executables, Final Analysis, Prelim. Analysis, Post-processing, MetVault, Submit job configuration, Save job configuration.
+131_verb
+Chooses, defines, supplies, determines, specify, picks, sets, request, run, choose, save, submit, presenting, prompts, supply, specify, coupled, need, further, clarification, can, configurations, saved, submits.
+131_obj
+Set, Climo Job, JOBID, parameters, GCAT tool, domain location, pseudo-obs, custom cross sections, MM5 setup, time line, start time, end time, years, ensemble options, hourly, min, max, mean, standard deviation, diurnal cycle, typical moment, number of nodes, additional processing, model output, MetVault, member, submit, post-processing, Plots NCL, RIP, NAPS, MDV, Sites, MEDOC, Raster, PRF, Wind Roses, output product, destination host, location, post-process, post-processors, members, year-output, process coupled app, job configuration, file, submits.
+132_verb
+selects, prompted, supply, choose, plots, supply, chooses, supply, supply, specify, save, submits
+132_obj
+User, post-processing job, location, name, model output file, FDDA-job, JOBID, cycle time, type, plots, NCL, RIP, NAPS, MDV, Sites, MEDOC, Stereo, Verification, custom configuration file, default configuration file, destination location, output products, number of nodes, save, job settings, configurations, file, submit.
+133_verb
+selects, supplies, run, view, save, submit, receive, notify
+133_obj
+Submit, By Hand Job, User, Mandatory, Job id, Location, Script host, Time, Run, Estimated time, Executables, Max. runtime, Nodes, Output products, Frequency, Job type, Additional information, Save, Settings, File, Submit, View, Job queue, Email notification, Started, Finished, Killed.
+134_verb
+selects, supplies, make, save, submits
+134_obj
+User, Submit, job, configuration, file, name, load, changes, save, submit
+135_verb
+logs, chooses, look, includes, selects, change, delete, changes, save, submits
+135_obj
+User, object, job, configuration, table, saved, attributes, id, type, cycle time, run, last, change, delete, save, submit
+136_verb
+logs, chooses, look, running, scheduled, queue, past, selects, presented, present, attributes, user, owner, type, priority, start, remaining, estimated, took, run, cycle, if, stage, Pre-processing, Analysis, SCHEDULED, RUNNING, Done, cluster, nodes, processors, select, receive, detailed, information, log, files, delete, super, stop, re-start, resume.
+136_obj
+User, logs on, user id, password, chooses, look, running jobs, scheduled jobs, job queue, past jobs, all jobs, running, scheduled, old, selects, options, presented, job table, user id, owner, Job id, Job type, GMOD, climoFDDA, FDDA-re-run, case study, custom, Job priority, start time, remaining time, estimated, took, run, cycle, applicable, stage, Pre-processing, F-analysis, Prelim. Analysis, status, SCHEDULED, RUNNING, done, cluster, nodes, running job, number of processors, select, receive, detailed information, look, jobs log files, delete, job queue, super user, stop, re-start, resume, stopped job
+137_verb
+View, search, selects, activates, eliminate, ask, confirm, delete.
+137_obj
+CulturalHeritage, use case, SearchCulturalHeritage, function, elimination, confirmation, operation, delete
+138_verb
+View, select, activate, upload
+138_obj
+View, list, points, rest, use case, SearchRefreshmentPoint, function, card, upload, data, restaurant.
+139_verb
+Access, Upload, Display, Select.
+139_obj
+Access, features, display, historical conventions, upload, data, restaurant.
+140_verb
+obtained, search, select, activate, display, upload.
+140_obj
+Tourists, list, use case, SearchTourist, select, function, displaying, card, upload, data, account.
+141_verb
+Activate, asks, confirm, enable, disable
+141_obj
+Activate, feature, activation, deactivation, sheet, tourist, confirmation, operation, enable, disable, account, visitor, selected.
+142_verb
+Access, Show, Fill, Submit, Processing
+142_obj
+Access, search functionality, tourist, show, form, fill out, submit, processing, request
+143_verb
+Tourists, obtained, selects, activates, modify, Loads, displays, allowing, change, Edit, submit, Verify, asks, confirmation, invalid, insufficient, activates, Confirm, operation, Stores, modified, account
+143_obj
+Tourists, list, use case, SearchTourist, function, data, form, change, fields, submit, information, confirmation, invalid, insufficient, system, Errored, operation, modified, account
+144_verb
+Tourists, obtained, activating, select, activate, disposal, Asks, confirmation, transaction, Confirm, operation, Delete, data.
+144_obj
+Tourists, list, use case, SearchTourist, feature, confirmation, transaction, operation, selected data.
+145_verb
+Receives, select, accessing, View, enter, Displays, Select, send, Check, asks, enable, Confirmation, Bookmark
+145_obj
+Receives, list, turning points, rest use case, SearchRefreshmentPoint, select, function, editing, banner, View, associated, point, rest, enter, editing functionality, Displays, form, selection, image, picture, send, request, change, system, Check, characteristics, inserted, asks, confirmation, event, valid, enable, use case, Errored, Confirmation, transaction, bookmark, new, selected.
+146_verb
+Load, verify, checked, end, input, displays, Confirmation, reading, Recovers
+146_obj
+Load, data, Convention, refreshment, point, verify, banners, number, specified, current, end, operation, input, display, notification, confirmation, reading, recovers, previous, state.
+147_verb
+Receives, select, accessing, View, enter, Displays, Confirm, Removes
+147_obj
+Receives, list, turning points, use case, SearchRefreshmentPoint, select, function, removal, banner, view, associated, point, select, enter, elimination, displays, message, confirming, deletion, confirm, operation, removes.
+148_verb
+Activate, displays, fill, submit, verify, asks, activates, confirm, memorize
+148_obj
+Activate, feature, insertion, cultural good, display, form, fill out, data, submit, verify, confirmation, transaction, invalid, insufficient, system, use case, error, confirm, operation, memorize
+149_verb
+Receives, select, access, Displays, Select, sends, entering, Check, characteristics, inserted, exceed, maximum, asks, confirmation, insertion, valid, enable, Confirm, operation, Remember, associated
+149_obj
+Receives, list, turning points, use case, SearchRefreshmentPoint, select, access, function, inserting banners, Displays, form, selection, image, sends, request, entering, system, Check, characteristics, inserted, number, banner, maximum point, restaurant, confirmation, insertion, event, valid, enable, Errored, Confirm, operation, insertion, Remember, associated, selected, point, rest.
+150_verb
+Activate, Displays, Fill, submit, Verify, asks, activates, Confirm, Stores.
+150_obj
+Activate, feature, insert, news, display, form, fill, submit, verify, data, entered, confirmation, transaction, invalid, insufficient, system, use case, error, confirm, operation, insertion, store, new news.
+151_verb
+Activate, view, select, submit, asks, confirm, delete
+151_obj
+Activate, function, elimination, news, view, form, select, list, submit, confirmation, transaction, deletion, data.
+152_verb
+Activate, View, Select, Submit, Load, Displays, Editing, Change, Check, Asks, Activate, Confirm, Stores.
+152_obj
+Activate, editing, news, view, form, select, submit, load, data, display, editing, change, check, modified, information, confirmation, transaction, invalid, insufficient, system, use case, Errored, confirm, operation, changing, stores.
+153_verb
+View, select, activate, upload.
+153_obj
+list, sites, use case, SearchSite, function, view, feedback, Upload Site Feedback
+154_verb
+Activate, Upload, displays, Select, submit, Upload, obtained, activating, Prepare.
+154_obj
+Activate, feature, statistical report, upload, list, places, system, display, form, select, location, submit, midsize site feedback, SearchSite use case, prepare.
+155_verb
+View, select, activate, change, upload, display, select, submit, displays, editing, edit, verify, entered, asks, invalid, insufficient, activates, confirm, remember.
+155_obj
+View, list, sites, result, use case, SearchSite, selects, activates, function, change, comment, upload, feedback, form, select, submit, displays, editing, verify, data, entered, confirmation, invalid, insufficient, system, Errored, operation, remember.
+156_verb
+Activate, Show, Fill, Submit, Processing
+156_obj
+Activate, search functionality, site, show, form, research, fill, submit, processing, request
+157_verb
+Access, delete, research, displays, select, sends, delete
+157_obj
+Access, functionality, delete, tag, research, existing, system, displays, form, select, one, more, list, sends, request, deletion, selected, search.
+158_verb
+Notice, asks, confirmation, reading, recovers
+158_obj
+error message, confirmation, reading, notification, recovers, previous state.
+159_verb
+View, select, activates, change, load, displays, editing, Change, submit, Verify, asks, activates, Confirm, Stores, modified.
+159_obj
+View, list, cultural goods, result, use case, SearchCulturalHeritage, selects, activates, function, change, load, data, displays, form, editing, submit, verify, entered, confirmation, transaction, invalid, insufficient, system, use case, Errored, confirm, operation, store, modified.
+160_verb
+Access, Show, Fill, Submit, Verify, Check, Present, Activate
+160_obj
+Access, functionality, inserting, new, tag, search, show, form, entering, fill, required, information, submit, verify, data, entered, check, present, system, active, use case, ExistingErrorTag, invalid, insufficient, activates, Errored.
+161_verb
+choose, change, pressing, upload, change, entering, confirming, save
+161_obj
+change, password, button, upload, form, work, agency, enter, new, choice, confirm, save
+162_verb
+Notify, reading, confirmation, change.
+162_obj
+Notify, error, message, confirmation, reading, notification, change, password.
+163_verb
+Enable, View, Fill, Submit, Verify, asks, activates, Confirm, Create
+163_obj
+object, logging, feature, registration, form, data, confirmation, transaction, use case, Errored, operation, account
+164_verb
+Activate, Displays, Fill, submit, Gets, citing, location, process, research
+164_obj
+Activate, search functionality, form, fill out, submit, position, Guest, case of use, location, process research.
+165_verb
+Activate, Displays, Fill, submit, Check, corrected
+165_obj
+Activate, login feature, form, fill out, login information, submit, check, correctness, data, use case, LoginError
+166_verb
+Notice, asks, confirmation, reading, recovers
+166_obj
+data, login, confirmation, reading, notification, state
+167_verb
+Access, Asks, Confirm, Disconnects
+167_obj
+Access, functionality, disconnection, system, asks, confirmation, transaction, confirm, request, Registered User.
+168_verb
+Select, Displays, Selects, Sends, Entering, Check, Exceed, Asks, Confirm, Enable, Use, Confirm, Remember
+168_obj
+feature, banner, form, image, request, system, characteristics, number, maximum, point, restaurant, confirmation, event, valid, use case, insertion, operation, point of rest
+169_verb
+Select, View, enter, Displays, send, change, Check, asks, enable, Confirmation, Bookmark.
+169_obj
+Select, editing functionality, banner, view, list, associated, point of rest, enter, displays, form, selection, image, picture, send, request, change, system, check, characteristics, inserted, confirmation, valid, enable, use case, Errored, transaction, bookmark, new.
+170_verb
+Activate, show, fill, submit, processing.
+170_obj
+Activate, search functionality, cultural object, form, research, fill, submit, processing, request
+171_verb
+Select, remove, view, associated, select, enter, eliminates, displays, confirm, removes
+171_obj
+Select, feature, removal, banner, View, list, associated, point, rest, enter, function, elimination, Displays, message, confirming, deletion, Confirm, operation, Removes
+172_verb
+Activate, Displays, Select, Submit, Upload, Loads, Edit, Verify, Asks, Errored, Confirm, Saves.
+172_obj
+Activate, editing functionality, menu, Displays, form, seven days, week, Select, day, submit, Upload, data, loads, Edit, Verify, entered, asks, confirmation, insufficient, invalid, active, use case, Errored, Confirm, operation, Saves, changes.
+173_verb
+Enable, delete, display, select, submit, calls, confirm
+173_obj
+Enable, functionality, deleting, menu, Displays, form, seven, days, week, Select, submit, Calls, confirm, deletion, operation, Delete, daily, selection.
+174_verb
+Enable, Upload, Refresh, displays, Change, submit, Verify, asks, confirmation, activates, Confirm, Stores, modified.
+174_obj
+Enable, functionality, information, point of rest, Upload, data, Refreshments, displays, form, Change, submit, Verify, entered, confirmation, invalid, insufficient, system, use case, Errored, Confirm, operation, Stores, modified.
+175_verb
+Enable, request, display, enter, insert, submit, verify, ask, confirm, activate, use, error, send.
+175_obj
+Enable, functionality, request, Convention, Agency, Displays, form, entering, data, Inserts, agreement, submit, Verify, confirmation, invalid, insufficient, system, activates, use case, Errored, operation, Send.
+176_verb
+Select, display, shows.
+176_obj
+Select, feature, display, personal, statistics, form, data, refreshment, point.
+177_verb
+Access, modification, Upload, displays, Edit, submit, Asks, Confirmation, changing, Memorize
+177_obj
+Access, functionality, modification, personal, search, preferences, upload, displays, form, edit, fields, submit, confirmation, changing, memorize.
+178_verb
+Access, modify, load, display, edit, submit, check, ask, activate, use, confirm, store.
+178_obj
+Access, functionality, modification, data, loads, displays, form, edit, fields, submit, check, modified, information, confirmation, change, invalid, insufficient, system, activates, use case, Errored, transaction, stores.
+179_verb
+Access, modify, upload, edit, submit, confirm, store
+179_obj
+Access, functionality, modification, generic, personal, preferences, Upload, view, form, Edit, fields, submit, asks, confirmation, change, Confirm, operation, Stores
+180_verb
+Select, display, upload
+180_obj
+Select, feature, display, list, personal favorites, upload, bookmarks.
+181_verb
+View, search, selects, activates, view, loads.
+181_obj
+list, cultural goods, use case, SearchCulturalHeritage, function, card, data, selected.
+182_verb
+Select, display, upload, issue
+182_obj
+select, feature, display, list, sites, visited, personal, upload, tourist, issued, feedback
+183_verb
+Activate, Insertion, Prompt, Confirm, Inserts
+183_obj
+Activate, feature, insertion, site, bookmarks, prompt, inclusion, confirm, input, inserts, list
+184_verb
+Choose, remove, prompt, confirm, removes, selected.
+184_obj
+Choose, remove, site, list, bookmarks, specific, features, prompt, confirm, selected
+185_verb
+Activate, Verify, Displays, Entering, Issued, Selected, Activates, Fill, Selecting, Inserting, Submit, Verify, Entered, Confirm, Activates, Confirming, Remember, Inserts.
+185_obj
+Activate, feature, issue, feedback, verify, visitor, form, entering, selected, site, use case, FeedbackAlreadyReleased, fill out, vote, inserting, comment, submit, data, entered, confirm, cheide, invalid, insufficient, system, Errored, Confirming, Remember, inserts, list, visited
+186_verb
+Choose, change, verify, asks, confirm, edit
+186_obj
+Choose, change, comment, feedback, site, functionality, verify, data, entered, confirmation, invalid, insufficient, system, activate, use case, errored, confirm, edit, commentary, selected.
+187_verb
+Notification, cancel, insert, confirm, reading, recover
+187_obj
+Notification, user, feedback, site, cancel, operation, insert, new, confirmation, reading, recovers, previous, state.
+188_verb
+Returns, requires, calculates, is
+188_obj
+Returns, current position, tourist, System initialization, search, advanced search, Gps System, system, data, position, GPS, calculates, hold.
+189_verb
+Enable, view, fill, submit, gets, rely, process.
+189_obj
+object, advanced, search, feature, personal, area, view, form, fill, submit, position, rely, tourist, event, location, process, request.
+190_verb
+Select, displaying, upload.
+190_obj
+function, displaying, card, site, upload, data, database
+191_verb
+View, selects, activates, Ask, confirm, Confirm, Deletes
+191_obj
+View, list, points, rest, result, use case, SearchCulturalHeritage, selects, activates, function, elimination, asks, confirmation, transaction, confirm, deletion, deletes, selected point.
+192_verb
+Enable, Load, Displays, Check, Decide, Asks, Confirm, Processing
+192_obj
+Enable, activation function, Convention, load, data request, point of rest, displays, form, check, agreement, decide, activation, asks, confirmation, operation, processing, request.
+193_verb
+View, selects, Upload, displays, Change, submit, Verify, asks, activates, Confirm, Stores
+193_obj
+View, list, points of rest, use case, SearchRefreshmentPoint, active, functional data changes, upload, displays, form, change, submit, verify, entered, confirmation, transaction, invalid, insufficient, system, activates, Errored, confirm, operation, stores, modified, data.
+194_verb
+Activate, Show, Fill, Submit, Processing.
+194_obj
+Activate, search functionality, point of rest, form, research, fill, submit, processing, request

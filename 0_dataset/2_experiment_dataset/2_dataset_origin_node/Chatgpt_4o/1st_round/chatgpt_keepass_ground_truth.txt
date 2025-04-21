@@ -1,0 +1,56 @@
+1_verb
+opens, select, writes, selects, retypes, opens
+1_obj
+KeePass, Database, User, Master, Password, Key, File, OK, window
+2_verb
+opens, select, navigates, selects, types
+2_obj
+User, KeePass, Database, folders, Master Password, database window
+3_verb
+opens, changes, selects, save, is, exits
+3_obj
+User, KeePass, data, database
+4_verb
+opens, selects, opens, checked, selects, print, returns
+4_obj
+KeePassUser, print, file menu, list, options, fields, password groups, title, user name, password, URL, notes, OK, Data, main window
+5_verb
+opens, types, exist, appeared
+5_obj
+KeePass, password, user name, URL, notes, title, group, database, list, data, search word, main window
+6_verb
+opens, selects, types, has, selects, created, returns
+6_obj
+KeePass, group, subgroup, name, image, OK, database, window
+7_verb
+opens, selects, types, has, changes, returns
+7_obj
+KeePass, group, subgroup, name, image, OK, database, window
+8_verb
+opens, selects, delete, appeared, confirm, selects, deleted, opens
+8_obj
+KeePass, group, subgroup, message, window
+9_verb
+opens, selects, find, types, search, appears
+9_obj
+KeePass, user, group, subgroup, word, fields, results, database, window
+10_verb
+opens, selects, add, fills, wants, selects, is added
+10_obj
+KeePass, entry, form, fields, OK, group
+11_verb
+opens, selects, view, edit, changes, wants, selects, saved
+11_obj
+User, KeePass, entry, fields, form, OK, group
+12_verb
+opens, selects, duplicates, added
+12_obj
+User, KeePass, entry
+13_verb
+opens, selects, delete, appears, want, selects, removed
+13_obj
+User, KeePass, entry, message, database
+14_verb
+opens, selects, change, load, appears, informs, has, been, done, take, place, must, be, restarted, selects, restart, asks, save, made, restarts, unlocks, using, appears, translated
+14_obj
+User, KeePass, language, view menu, list, message, installation, changes, database, Master Password, new language

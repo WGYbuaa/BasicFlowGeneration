@@ -1,0 +1,136 @@
+1_verb
+enters, enters, provides, assigned, provided, reset, edit, added, selects, deactivate, presented, determines, intend, modified, log, reactivated, uploads, containing, include, created, populated, displayed, logged
+1_obj
+HCP, patient, user, iTrust, Medical Records system, name, email, MID, secret key, password, data format 6.4 E1, security question, CSV file, first name, last name, e-mail address, demographics, tables, administrator, event.
+2_verb
+enters, confirms, enter, edit, indicate, select, add, checked, notified
+2_obj
+health care personnel, MID, patient, selection, personal health information, Patient Information Data Format, Insurance Information, Emergency Contact Information, Patient’s Health Information, requirements, drug allergies, diagnosis code, medication, pull down list, list of medications, prescriptions.
+3_verb
+enters, confirms, documents, are, logged, is, send, are, ordered, given, can, return, modify, delete, is, verify, has, selected, provides, contain, must, add
+3_obj
+HCP, MID, patient, selection, information, office, visit, events, Date, Hospital, location, Appointment, type, Notes, numbers, characters, Option, billing, statement, Basic, Health, Metrics, Prescribed, Medications, NDC, Lab, procedures, LOINC, code, Patient, Specific, Instructions, Diagnoses, ICD-9CM, Medical, procedures, CPT, Immunizations, Code, Patient, referral, fields, notes, prescriptions, laboratory, procedures, referral, procedures, immunizations, record, medication, pull, list, dosage, milligrams, start, end, prescription, instructions, form, value, list, medications.
+4_verb
+extract, design
+4_obj
+None
+5_verb
+None
+5_obj
+None
+6_verb
+maintain, add, update, use, store, describes, is, designed, communicate, giving, select, choose, upload, added, contains, supported, updated.
+6_obj
+administrator, listing, immunizations, HCP, CPT, code, medical, surgical, diagnostic, services, information, procedures, physicians, coders, patients, accreditation, organizations, payers, purposes, alpha, characters, name, diagnoses, LHCP, ICD-9CM, International, Statistical, Classification, Diseases, Health, Problems, codes, classify, signs, symptoms, findings, complaints, circumstances, injury, disease, NHCS, Functioning, Disability, alphanumeric, drugs, National, Drug, Code, identifier, Directory, physical, laboratory, LOINC, Logical, Observation, Identifiers, Names, database, standard, identifying, observations, Medical, Informatics, Format, file, data, selecting, uploading
+7_verb
+extract
+7_obj
+None
+8_verb
+beginning, had, is, is, is, over, had, during, during, is, begin, is, did, according, administered, administered, administered, administered, administered, is, administered, required, is, administered, required, administered, administered, required, was, administered
+8_obj
+patient, office, visit, year, diabetes, mellitus, ICD code, asthma, circulatory-system, disease, flu shot, CPT codes, calendar, retrieval, immunizations, schedule, catch up, Hepatitis B, Rotavirus, Diphtheria, Tetanus, Pertussis, Haemophilus influenzae, Pneumococcal, Poliovirus, Measles, Mumps, Rubella, Varicella, Hepatitis A, Human Papillomavirus, dose, dose 1, dose 2, dose 3, dose 4, dose 5, dose 6, weeks, months, years
+9_verb
+store, enable, add, modify, delete
+9_obj
+administrator, hospital, Id, entry, name, address, system, interface, number
+10_verb
+choose, view, choosing, displayed, sorted, selects, ranked, titled, includes, prescribed
+10_obj
+user, patient, personal health representative, prescriptions, list, patient name, medication, date, start date, end date, doctor
+11_verb
+enters, provided, reset, specify, edited, allowed, assign, choose, stored
+11_obj
+administrator, LHCP, ER, public health agent, user, iTrust Medical Records system, name, email, secret key, password, admin, specialty, General Physician, Heart Surgeon, OB/GYN, Pediatrician, Surgeon, LT, blood, tissue, general, data, personnel, Data Format 6.2, MID, Street Address, S6, E1, hospitals, hospital list, pull down menu, hospital ID numbers, Medical Care Personnel Affiliation database, data format 6.8, data format 6.11, UAP
+12_verb
+enters, confirms
+12_obj
+LHCP, ER, MID, input
+13_verb
+enters, confirms, view, includes, see, views, made
+13_obj
+LHCP, patient, medical identification number, MID, input, report, demographic information, address, phone, information, history, personal health records, diagnoses, HCPs, names, allergies, procedures, medications, office visits, relatives, requests, status
+14_verb
+extract
+14_obj
+None
+15_verb
+extract, include
+15_obj
+None
+16_verb
+create, selects, saves, cancels, marked, view, reassign, selects, displayed, confirms, remove, chooses, prompted, wishes, add, enters, updated, view, see, marked, sees, sorted, provided, record, enters, recording, update, update.
+16_obj
+HCP, lab, procedure, office, visit, procedure, code, priority, Lab, Technician, specialty, number, queue, status, patient, name, timestamp, list, reassignment, comment, patient, page, results, comments, ID, procedure, result, confidence, interval, sample
+17_verb
+changed, informing, sent, updated, notified
+17_obj
+user, password, email, MID, status, laboratory, procedure, patient, LOINC, number, information
+18_verb
+extract, include
+18_obj
+None
+19_verb
+extract
+19_obj
+None
+20_verb
+set, present, obtain, allow, change, sent, terminate, ensure, reset, exceeds
+20_obj
+security, question, answer, email, notification, password, user, sessions, inactivity, authentication
+21_verb
+chooses, send, allowed, presented, chooses, types, clicks, showing, includes, visible, showing, sent, alerting, sent, directed, chooses, send, allowed, enters, confirms, types, clicks, showing, includes, visible, showing, sent, indicates, sent, directed, wishes, reply, views, opens, reply, enters, send, clicks, showing, preceded, visible, showing, sent, alerting, wishes, reply, views, opens, reply, enters, send, clicks, showing, preceded, visible, showing, sent, alerting, wishes, read, open, includes, ordered, selects, read, clicking, be, displayed, read, displayed, not, bolded, sort, sort, sort, selects, selecting, click, Sort, saved, reopen, modify, modifying, defined, provide, typing, selecting, be, populated, saved, modifies, chooses, click, cancel, repopulate, modifies, click, search, displaying, including, satisfying, click, save, saved, applies, modifies
+21_obj
+patient, representative, message, LHCP, menu, DLHCP, subject, text, button, row, name, recipient, timestamp, outbox, inbox, email, user, MID, response, link, page, order, filter, criteria, sender, body, substring, period, date, month, interface, values, modification, filter, input, session
+22_verb
+titled, includes, prescribed, visit, start, end, linked, presented, are, clicks, is, missing, missing, shown
+22_obj
+expired prescription report list, patient name, medication, date prescribed, day of the office visit, start date, end date, LHCP, contact information, First Name, Last Name, LHCP Type, Street Address 1, Street Address 2, City, State, Zip Code, Phone, Contact Email, database, missing types of information.
+23_verb
+diagnosed, includes, made, sent, sorted, satisfies, has, satisfying, listed, is
+23_obj
+patient, history, diagnosis, diabetes, mellitus, ICD, code, asthma, circulatory-system, disease, list, HCP, name, phone, number, email, confirmation, calls, emails, iTrust, system, prescriptions
+24_verb
+chooses, refer, select, entering, confirming, searching, presented, include, send, cancel, edit, receive, summarizing, created, choose, view, sorted, selects, presented, views, sort, generated, provided, request, scheduled, edits, save, re-enter, asked, confirm, indicating
+24_obj
+HCP, patient, referral, feature, office, visit, page, MID, selection, name, priority, message, information, specialty, timestamp, details, list, date, link, time, appointment, edits, data, decision
+25_verb
+add, delete, typing, confirm, choose, edit, specified, submitted, report, saved, chooses, view, presented, recording, reported, select, obtain, see, selects, view, chosen, can, enter, displayed, chooses, highlighted, select, typing, confirmed, input, displayed
+25_obj
+LHCP, UAP, patient, monitoring, list, MID, name, physiologic, data, type, remote, information, blood, pressure, glucose, levels, height, weight, pedometer, readings, default, timestamp, status, self-reported, case manager, personal representative, phone, number, date, range, screen, measurements, systolic, diastolic, digits, feet, lbs, footsteps, immediate, previously, recorded, value, entry, red, yellow, highlighted
+26_verb
+presented, taken, chooses, report, able, write, describes, save, sent, prescribed, indicating, administered
+26_obj
+patient, listing, prescription drugs, adverse event, description, symptoms, information, email, LHCP, medication, name, MID, immunizations, immunization
+27_verb
+presented, listing, sorted, select, see, reading, choose, send, gain, remove, changes, sent, prescribed, administered
+27_obj
+public health agent, listing, prescription drug-related adverse events, time period, status, NDC, detail, report, fake email, message, adverse event reporter, information, communication, immunization-related adverse events, CPT code, removal, LHCP
+28_verb
+checked, notified, taken, selects, sent, enable, add, modify, allowed, delete, store
+28_obj
+drug, patients, allergies, HCP, interactions, drugs, patient, reasons, selection, email, medication, system, administrator, entry, reason, name, interface, id, characters
+29_verb
+presented, chooses, record, stored, selects, associated, select, delete
+29_obj
+administer, lists, NDC, codes, names, administrator, drug, interaction, drugs, textual, description, effects, listing, pair
+30_verb
+may, enter, edit, including, is, typed, appear, appears, confirmed, saved, must, upload
+30_obj
+patient, personal health representative, demographic information, security question, answer, screen, password, data format, HCP, MID, photo, records
+31_verb
+recorded, creating, viewing, modifying, deleting, logged, being, accessed, corresponding
+31_obj
+IP Address, machine, transaction type, timestamp, MID, user
+32_verb
+indicated, sorted, choose, toggle, designating, undesignating, types, providing, enter, match, provided
+32_obj
+LHCPs, name, specialty, address, date, office, visit, DLHCP, patient, list, last, toggle, designating, undesignating, types, last, partial, zip, code, numbers, match
+33_verb
+presented, sorted, choose, view, sorted
+33_obj
+patient, list, dates, access, role, accessor, health, representative, LHCP, UAP, Emergency Responder, order, type
+34_verb
+see, taken, choose, take, submitted, view, suffered, diagnosed, beginning, is
+34_obj
+patient, health, representative, information, values, immunizations, office, visit, date, diagnoses, medication, name, physician, notes, laboratory, procedures, records, user, survey, history, siblings, parents, grandparents, MIDs, iTrust, table, diagnosis, blood, pressure, Systolic, diastolic, cholesterol, HDL, level, triglyceride, diabetes, ICD-9CM, cancer, heart, disease, smoking, cause, death, family, member, level, mg/dL, mmHg

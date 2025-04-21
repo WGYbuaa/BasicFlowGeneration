@@ -1,0 +1,5 @@
+- Ernie_all_eval.json 文件为所有pub数据集的评估结果。
+- Ernie_pub.json 文件为pub数据集的所有数据，包括：
+  - 原始数据：即ucname、uctext、steps；
+  - 预测数据：pred step、pred node。
+- 其余数据集为各个公开数据集的单独评估结果。共13个数据集。
