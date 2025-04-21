@@ -8,7 +8,7 @@ Identifying interaction scenarios between a system and its actors from the high-
 The code is stored in the folder `1_src`, including the BFGen algorithm, models, and the various BASELINE methods involved in RQ1.
 
 .
-├── 0_dataset
+├── 0_dataset/
 │   ├── 0_pub_dataset
 │   │   ├── 0_origin
 │   │   │   ├── 0000 - gamma j.pdf
