@@ -53,9 +53,13 @@ The code is stored in the folder `1_src`, including the BFGen algorithm, models,
 │   │   │   │   └── RGAT_model.py  
 │   │   │   └── README.md  
 │   │   └── 1_for_industrial  
-│   │       ├── 0_ERNIE_NCET.py  
-│   │       ├── 2_train_on_NCET.py  
-│   │       └── README.md  
+│   │   │   ├── 0_ERNIE_NCET.py  
+│   │   │   ├── 2_train_on_NCET.py  
+│   │   │   └── README.md  
+│   │   └── 2_RQ3  
+│   │       ├── RQ3.py  
+│   │   └── 4_RQ4  
+│   │       └── RQ4.py  
 │   └── README.md  
 ├── 2_figure  
 │   ├── Heterogeneous_Graph.png  
